@@ -1,0 +1,202 @@
+[Script Info]
+Title: Adi Shankaracharya (1983) - Devanagari + English
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English,Noto Sans,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2.6,1,2,120,120,48,1
+Style: Sanskrit,Noto Sans Devanagari,50,&H00B4E6FF,&H00B4E6FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2.4,1,2,120,120,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:53.90,0:01:10.60,English,,0,0,0,,{\rSanskrit}ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।\Nधियो यो नः प्रचोदयात्॥\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:03:45.40,0:03:54.00,English,,0,0,0,,{\rSanskrit}मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।\Nसत्यं चित्रश्रवस्तमम्॥\N{\rEnglish}The glory of Mitra, the god who upholds all peoples,\Nis true, all-winning, and of the brightest renown.
+Dialogue: 0,0:03:54.10,0:04:05.00,English,,0,0,0,,{\rSanskrit}मित्रो जनान्यातयति प्रजानन्\Nमित्रो दाधार पृथिवीमुत द्याम्।\N{\rEnglish}Mitra, knowing all, sets the peoples in order;\NMitra holds up the earth and the sky.
+Dialogue: 0,0:04:17.70,0:04:31.26,English,,0,0,0,,{\rSanskrit}बुद्धं शरणं गच्छामि। धम्मं शरणं गच्छामि।\Nसङ्घं शरणं गच्छामि।\N{\rEnglish}I take refuge in the Buddha. I take refuge in the Dharma.\NI take refuge in the Sangha.
+Dialogue: 0,0:04:31.30,0:04:44.70,English,,0,0,0,,{\rSanskrit}ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।\Nधियो यो नः प्रचोदयात्॥\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:05:50.30,0:06:04.90,English,,0,0,0,,{\rSanskrit}मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः।\Nमाध्वीर्नः सन्त्वोषधीः॥\N{\rEnglish}The winds blow honey-sweet for the righteous,\Nthe rivers run sweet; may the plants be sweet for us.
+Dialogue: 0,0:06:05.90,0:06:19.56,English,,0,0,0,,{\rSanskrit}मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः।\Nमाध्वीर्नः सन्त्वोषधीः॥\N{\rEnglish}The winds blow honey-sweet for the righteous,\Nthe rivers run sweet; may the plants be sweet for us.
+Dialogue: 0,0:06:19.60,0:06:30.00,English,,0,0,0,,{\rSanskrit}मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः।\Nमधु द्यौरस्तु नः पिता॥\N{\rEnglish}Sweet be the night and the dawns, sweet the earth's air;\Nsweet be Heaven, our father.
+Dialogue: 0,0:06:30.10,0:06:40.60,English,,0,0,0,,{\rSanskrit}मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः।\Nमाध्वीर्गावो भवन्तु नः॥\N{\rEnglish}Sweet be the trees to us, and sweet the sun;\Nsweet be the cows to us.
+Dialogue: 0,0:06:53.80,0:07:01.80,English,,0,0,0,,{\rSanskrit}मूर्ध्न्याधायात्मनः प्राणम्\Nआस्थितो योगधारणाम्।\N{\rEnglish}...holding the life-breath at the crown of the head,\Nsteadfast in the discipline of yoga,
+Dialogue: 0,0:07:01.90,0:07:06.30,English,,0,0,0,,{\rSanskrit}ओमित्येकाक्षरं ब्रह्म\Nव्याहरन्मामनुस्मरन्।\N{\rEnglish}uttering Om, the one syllable that is Brahman,\Nand remembering Me,
+Dialogue: 0,0:07:06.40,0:07:10.90,English,,0,0,0,,{\rSanskrit}यः प्रयाति त्यजन्देहं\Nस याति परमां गतिम्॥\N{\rEnglish}whoever departs, leaving the body,\Nreaches the highest goal.
+Dialogue: 0,0:08:03.60,0:08:17.50,English,,0,0,0,,{\rSanskrit}परात्मानमेकं जगद्बीजमाद्यं\Nनिरीहं निराकारमोङ्कारवेद्यम्।\N{\rEnglish}The supreme Self, the One, the first seed of the world,\Nfree of desire, formless, known through Om.
+Dialogue: 0,0:10:04.00,0:10:15.50,English,,0,0,0,,{\rSanskrit}वायुरनिलममृतमथेदं\Nभस्मान्तं शरीरम्।\N{\rEnglish}Let my breath return to the deathless wind,\Nand this body end in ashes.
+Dialogue: 0,0:11:00.50,0:11:06.00,English,,0,0,0,,{\rSanskrit}ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।\Nधियो यो नः प्रचोदयात्॥\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:11:15.40,0:11:19.20,English,,0,0,0,,{\rSanskrit}भवति भिक्षां देहि।\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:12:48.80,0:13:03.00,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं यथा गच्छति सागरम्।\Nसर्वदेवनमस्कारः केशवं प्रतिगच्छति॥\N{\rEnglish}As rain fallen from the sky makes its way to the sea,\Nso worship of every god goes on to Keshava.
+Dialogue: 0,0:13:04.90,0:13:14.10,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं सागरं प्रतिगच्छति।\N{\rEnglish}As rain fallen from the sky makes its way to the sea...
+Dialogue: 0,0:14:16.50,0:14:44.00,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं\Nसागरं प्रतिगच्छति।\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea,
+Dialogue: 0,0:14:44.10,0:15:03.00,English,,0,0,0,,{\rSanskrit}सर्वदेवनमस्कारः\Nकेशवं प्रतिगच्छति॥\N{\rEnglish}so worship of every god\Ngoes on to Keshava.
+Dialogue: 0,0:15:47.50,0:16:02.40,English,,0,0,0,,{\rSanskrit}ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।\Nधियो यो नः प्रचोदयात्। स्वाहा॥\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds. Svaha!
+Dialogue: 0,0:16:06.60,0:16:41.40,English,,0,0,0,,{\rSanskrit}ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।\Nधियो यो नः प्रचोदयात्॥\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:18:37.40,0:18:55.50,English,,0,0,0,,{\rSanskrit}द्वा सुपर्णा सयुजा सखाया\Nसमानं वृक्षं परिषस्वजाते।\N{\rEnglish}Two birds, close companions,\Ncling to the same tree.
+Dialogue: 0,0:18:59.20,0:19:13.90,English,,0,0,0,,{\rSanskrit}तयोरन्यः पिप्पलं स्वाद्वत्ति\Nअनश्नन्नन्यो अभिचाकशीति॥\N{\rEnglish}One of them eats the sweet fruit;\Nthe other, not eating, simply looks on.
+Dialogue: 0,0:19:19.90,0:19:22.70,English,,0,0,0,,{\rSanskrit}अनश्नन्नन्यो अभिचाकशीति॥\N{\rEnglish}The other, not eating, simply looks on.
+Dialogue: 0,0:19:35.00,0:19:47.50,English,,0,0,0,,{\rSanskrit}वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये।\Nजगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥\N{\rEnglish}I bow to Parvati and Shiva, parents of the world,\Njoined like word and meaning, that I may grasp both.
+Dialogue: 0,0:19:47.60,0:19:58.00,English,,0,0,0,,{\rSanskrit}विधेः सायन्तनस्यान्ते\Nस ददर्श तपोनिधिम्।\N{\rEnglish}At the close of the evening rite\Nhe saw the sage, a treasure of austerity,
+Dialogue: 0,0:20:10.30,0:20:14.80,English,,0,0,0,,{\rSanskrit}अन्वासितमरुन्धत्या\Nस्वाहयेव हविर्भुजम्॥\N{\rEnglish}with Arundhati beside him,\Nlike the sacred fire with Svaha at its side.
+Dialogue: 0,0:21:12.00,0:21:17.20,English,,0,0,0,,{\rSanskrit}अवजानन्ति मां मूढा\Nमानुषीं तनुमाश्रितम्।\N{\rEnglish}Fools disregard Me\Nwhen I take on a human form.
+Dialogue: 0,0:21:24.60,0:21:26.80,English,,0,0,0,,{\rSanskrit}भवति भिक्षां देहि।\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:21:27.00,0:21:45.20,English,,0,0,0,,{\rSanskrit}निगमकल्पतरोर्गलितं फलं\Nशुकमुखादमृतद्रवसंयुतम्।\N{\rEnglish}Fruit fallen from the wish-tree of the Veda,\Nsweetened by nectar from Shuka's lips:
+Dialogue: 0,0:21:45.30,0:22:04.30,English,,0,0,0,,{\rSanskrit}पिबत भागवतं रसमालयं\Nमुहुरहो रसिका भुवि भावुकाः॥\N{\rEnglish}drink deep of the Bhagavata, again and again,\Nyou on earth who know its taste and are moved!
+Dialogue: 0,0:22:34.00,0:22:46.90,English,,0,0,0,,{\rSanskrit}अङ्गं हरेः पुलकभूषणमाश्रयन्ती\Nभृङ्गाङ्गनेव मुकुलाभरणं तमालम्।\N{\rEnglish}Like a bee alighting on a tamala tree in bud,\Nit rests on Hari, whose body thrills with joy:
+Dialogue: 0,0:22:51.80,0:23:00.20,English,,0,0,0,,{\rSanskrit}अङ्गीकृताखिलविभूतिरपाङ्गलीला\Nमाङ्गल्यदास्तु मम मङ्गलदेवतायाः॥\N{\rEnglish}that playful sidelong glance, which holds all riches:\Nmay the glance of the goddess of fortune bless me.
+Dialogue: 0,0:24:13.50,0:24:17.10,English,,0,0,0,,{\rSanskrit}भवति भिक्षां देहि।\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:24:21.00,0:24:24.60,English,,0,0,0,,{\rSanskrit}भवति भिक्षां देहि।\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:24:30.20,0:24:33.00,English,,0,0,0,,{\rSanskrit}भवति भिक्षां देहि।\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:26:17.40,0:26:19.80,English,,0,0,0,,{\rSanskrit}तेन त्यक्तेन भुञ्जीथाः।\N{\rEnglish}Enjoy through renunciation.
+Dialogue: 0,0:40:07.00,0:40:20.90,English,,0,0,0,,{\rSanskrit}वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान्।\Nतस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम्॥\N{\rEnglish}A Brahmin guest enters a house like fire itself;\Nthey soothe him so: bring water, O Yama!
+Dialogue: 0,0:40:21.10,0:40:30.70,English,,0,0,0,,{\rSanskrit}तिस्रो रात्रीर्यदवात्सीर्गृहे मे\Nअनश्नन्ब्रह्मन्नतिथिर्नमस्यः।\N{\rEnglish}Three nights you have stayed in my house unfed,\NO Brahmin, a guest worthy of honour.
+Dialogue: 0,0:40:30.80,0:40:38.50,English,,0,0,0,,{\rSanskrit}नमस्तेऽस्तु ब्रह्मन्स्वस्ति मेऽस्तु\Nतस्मात्प्रति त्रीन्वरान्वृणीष्व॥\N{\rEnglish}My homage to you, Brahmin; may all be well with me.\NIn return, choose three boons.
+Dialogue: 0,0:40:38.90,0:40:45.70,English,,0,0,0,,{\rSanskrit}शान्तसंकल्पः सुमना यथा स्याद्\Nवीतमन्युर्गौतमो माऽभि मृत्यो।\N{\rEnglish}That my father may be calm and kind of heart,\Nhis anger toward me gone, O Death...
+Dialogue: 0,0:40:47.80,0:40:54.60,English,,0,0,0,,{\rSanskrit}स त्वमग्निं स्वर्ग्यमध्येषि मृत्यो\Nप्रब्रूहि तं श्रद्दधानाय मह्यम्।\N{\rEnglish}You know the fire that leads to heaven, O Death;\Nexplain it to me, for I have faith.
+Dialogue: 0,0:40:56.20,0:41:04.50,English,,0,0,0,,{\rSanskrit}येयं प्रेते विचिकित्सा मनुष्ये\Nअस्तीत्येके नायमस्तीति चैके।\N{\rEnglish}When a man has died, there is this doubt:\Nsome say he is, and some say he is not.
+Dialogue: 0,0:41:04.60,0:41:12.80,English,,0,0,0,,{\rSanskrit}एतद्विद्यामनुशिष्टस्त्वयाहं\Nवराणामेष वरस्तृतीयः॥\N{\rEnglish}Taught by you, let me know the truth of it.\NOf my boons, this is the third.
+Dialogue: 0,0:41:13.10,0:41:19.60,English,,0,0,0,,{\rSanskrit}नचिकेतो मरणं माऽनुप्राक्षीः।\Nअन्यं वरं वृणीष्व।\N{\rEnglish}Nachiketa, do not question me about death.\NChoose another boon.
+Dialogue: 0,0:41:20.70,0:41:26.50,English,,0,0,0,,{\rSanskrit}नान्यो वरस्तुल्य एतस्य कश्चित्॥\N{\rEnglish}No other boon is equal to this one.
+Dialogue: 0,0:41:26.70,0:41:35.20,English,,0,0,0,,{\rSanskrit}शतायुषः पुत्रपौत्रान्वृणीष्व\Nबहून्पशून्हस्तिहिरण्यमश्वान्।\N{\rEnglish}Choose sons and grandsons to live a hundred years,\Ncattle in plenty, elephants, gold and horses;
+Dialogue: 0,0:41:35.30,0:41:43.70,English,,0,0,0,,{\rSanskrit}भूमेर्महदायतनं वृणीष्व\Nस्वयं च जीव शरदो यावदिच्छसि॥\N{\rEnglish}choose a vast estate on the earth,\Nand live yourself as many autumns as you wish.
+Dialogue: 0,0:41:43.80,0:41:52.60,English,,0,0,0,,{\rSanskrit}न वित्तेन तर्पणीयो मनुष्यो\Nलप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा।\N{\rEnglish}No one is ever satisfied by wealth.\NHaving seen you, we shall have wealth enough;
+Dialogue: 0,0:41:52.70,0:42:01.30,English,,0,0,0,,{\rSanskrit}जीविष्यामो यावदीशिष्यसि त्वं\Nवरस्तु मे वरणीयः स एव॥\N{\rEnglish}we shall live as long as you hold sway.\NBut the boon I choose is that one alone.
+Dialogue: 0,0:42:01.40,0:42:10.90,English,,0,0,0,,{\rSanskrit}नैषा तर्केण मतिरापनेया\Nप्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ।\N{\rEnglish}This insight is not won by argument;\Ntaught by another, dear one, it is truly understood.
+Dialogue: 0,0:42:11.00,0:42:19.40,English,,0,0,0,,{\rSanskrit}यां त्वमापः सत्यधृतिर्बतासि\Nत्वादृङ्नो भूयान्नचिकेतः प्रष्टा॥\N{\rEnglish}You have found it, for you hold fast to truth.\NMay we always have a questioner like you, Nachiketa!
+Dialogue: 0,0:44:09.80,0:44:30.60,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं सागरं प्रतिगच्छति।\Nसर्वदेवनमस्कारः केशवं प्रतिगच्छति॥\N{\rEnglish}As rain fallen from the sky makes its way to the sea,\Nso worship of every god goes on to Keshava.
+Dialogue: 0,0:45:44.00,0:45:54.50,English,,0,0,0,,{\rSanskrit}आख्याहि मे को भवानुग्ररूपो\Nनमोऽस्तु ते देववर प्रसीद।\N{\rEnglish}Tell me who You are, so terrible in form.\NI bow to You, greatest of gods: be gracious.
+Dialogue: 0,0:45:54.60,0:46:05.00,English,,0,0,0,,{\rSanskrit}विज्ञातुमिच्छामि भवन्तमाद्यं\Nन हि प्रजानामि तव प्रवृत्तिम्॥\N{\rEnglish}I long to know You, the Primal One,\Nfor I do not understand what You are doing.
+Dialogue: 0,0:46:17.50,0:46:32.50,English,,0,0,0,,{\rSanskrit}नमो अरिहंताणं। नमो सिद्धाणं। नमो आयरियाणं।\Nनमो उवज्झायाणं। नमो लोए सव्वसाहूणं॥\N{\rEnglish}Homage to the Arihants, to the Siddhas, to the Acharyas,\Nto the teachers, and to all the holy ones in the world.
+Dialogue: 0,0:46:33.40,0:46:58.20,English,,0,0,0,,{\rSanskrit}आयतनवान् भवति। य एवं वेद।\Nयोऽपामायतनं वेद।\N{\rEnglish}He finds a firm abode, who knows this.\NHe who knows the abode of the waters...
+Dialogue: 0,0:51:28.00,0:51:32.70,English,,0,0,0,,{\rSanskrit}योगस्थः कुरु कर्माणि\Nसङ्गं त्यक्त्वा धनञ्जय।\N{\rEnglish}Established in yoga, do your work, Arjuna,\Nsetting attachment aside.
+Dialogue: 0,0:53:17.90,0:53:32.30,English,,0,0,0,,{\rSanskrit}ॐ मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।\Nसत्यं चित्रश्रवस्तमम्॥\N{\rEnglish}The glory of Mitra, the god who upholds all peoples,\Nis true, all-winning, and of the brightest renown.
+Dialogue: 0,0:53:41.30,0:53:44.30,English,,0,0,0,,{\rSanskrit}ब्रह्मचर्यादेव प्रव्रजेत्।\N{\rEnglish}One may renounce straight from studenthood.
+Dialogue: 0,0:54:47.70,0:55:00.50,English,,0,0,0,,{\rSanskrit}त्वमादिदेवः पुरुषः पुराणस्\Nत्वमस्य विश्वस्य परं निधानम्।\N{\rEnglish}You are the first of gods, the ancient Person,\Nthe final resting place of all this world.
+Dialogue: 0,0:55:00.60,0:55:13.20,English,,0,0,0,,{\rSanskrit}वेत्तासि वेद्यं च परं च धाम\Nत्वया ततं विश्वमनन्तरूप॥\N{\rEnglish}You are the knower and the known, the highest home;\Nby You, of endless forms, the world is pervaded.
+Dialogue: 0,0:57:37.30,0:57:41.20,English,,0,0,0,,{\rSanskrit}नासतो विद्यते भावो\Nनाभावो विद्यते सतः।\N{\rEnglish}What is unreal never comes to be;\Nwhat is real never ceases to be.
+Dialogue: 0,0:58:13.60,0:58:22.10,English,,0,0,0,,{\rSanskrit}आत्मा दक्षिणत आत्मोत्तरत\Nआत्मैवेदं सर्वमिति।\N{\rEnglish}The Self is to the south, the Self is to the north;\Nthe Self alone is all this.
+Dialogue: 0,0:58:22.20,0:58:28.00,English,,0,0,0,,{\rSanskrit}स वा एष एवं पश्यन्नेवं मन्वान\Nएवं विजानन्\N{\rEnglish}One who sees this, who thinks this,\Nwho knows this,
+Dialogue: 0,0:58:28.10,0:58:37.70,English,,0,0,0,,{\rSanskrit}आत्मरतिरात्मक्रीड\Nआत्ममिथुन आत्मानन्दः स स्वराड्भवति।\N{\rEnglish}rejoicing in the Self, playing in the Self,\None with it, in its bliss, is his own sovereign.
+Dialogue: 0,1:04:40.80,1:04:44.50,English,,0,0,0,,{\rSanskrit}मृत्तिकेत्येव सत्यम्।\N{\rEnglish}Only the clay is real.
+Dialogue: 0,1:05:28.20,1:05:38.40,English,,0,0,0,,{\rSanskrit}सत्यकामो ह जाबालो\Nजबालां मातरमामन्त्रयाञ्चक्रे।\N{\rEnglish}Satyakama Jabala\Nonce said to his mother, Jabala:
+Dialogue: 0,1:05:39.40,1:05:47.40,English,,0,0,0,,{\rSanskrit}ब्रह्मचर्यं भवति विवत्स्यामि\Nकिंगोत्रो न्वहमस्मीति॥\N{\rEnglish}"Mother, I wish to become a student of the Veda.\NWhat is my lineage?"
+Dialogue: 0,1:07:11.50,1:07:29.90,English,,0,0,0,,{\rSanskrit}बह्वहं चरन्ती परिचारिणी\Nयौवने त्वामलभे।\N{\rEnglish}In my youth I wandered much, a servant girl,\Nand then I had you.
+Dialogue: 0,1:07:30.00,1:07:37.20,English,,0,0,0,,{\rSanskrit}साहमेतन्न वेद\Nयद्गोत्रस्त्वमसि।\N{\rEnglish}So I do not know\Nwhat lineage you are of.
+Dialogue: 0,1:07:46.30,1:07:49.50,English,,0,0,0,,{\rSanskrit}जबाला तु नामाहमस्मि\Nसत्यकामो नाम त्वमसि।\N{\rEnglish}But my name is Jabala,\Nand your name is Satyakama.
+Dialogue: 0,1:07:56.00,1:08:03.60,English,,0,0,0,,{\rSanskrit}नाहमेतद्वेद भो यद्गोत्रोऽहमस्मि।\Nअपृच्छं मातरं, सा मा प्रत्यब्रवीत्।\N{\rEnglish}I do not know, sir, what my lineage is.\NI asked my mother, and she answered me:
+Dialogue: 0,1:08:04.20,1:08:11.16,English,,0,0,0,,{\rSanskrit}नाहमेतद्वेद तातेति। जबाला तु नामाहमस्मि\Nसत्यकामो नाम त्वमसीति।\N{\rEnglish}"I do not know it, child. My name is Jabala,\Nand yours is Satyakama."
+Dialogue: 0,1:08:11.20,1:08:16.70,English,,0,0,0,,{\rSanskrit}सोऽहं सत्यकामो जाबालोऽस्मि भो।\N{\rEnglish}So I am Satyakama Jabala, sir.
+Dialogue: 0,1:08:22.30,1:08:34.00,English,,0,0,0,,{\rSanskrit}नैतदब्राह्मणो विवक्तुमर्हति।\Nसमिधं सोम्याहरोप त्वा नेष्ये।\N{\rEnglish}None but a true Brahmin could speak like this.\NFetch the firewood, my boy: I will initiate you.
+Dialogue: 0,1:08:34.80,1:08:48.70,English,,0,0,0,,{\rSanskrit}नैतादृशं ब्राह्मणस्यास्ति वित्तं\Nयथैकता समता सत्यता च।\N{\rEnglish}A Brahmin has no wealth to match this:\Noneness, even-mindedness, and truth.
+Dialogue: 0,1:11:23.10,1:11:37.60,English,,0,0,0,,{\rSanskrit}भव शङ्कर देशिक मे शरणम्॥\N{\rEnglish}Be my refuge, Shankara, my teacher.
+Dialogue: 0,1:11:37.70,1:11:56.90,English,,0,0,0,,{\rSanskrit}विदिताखिलशास्त्रसुधाजलधे\Nमहितोपनिषत्कथितार्थनिधे।\N{\rEnglish}Master of the nectar-sea of all the scriptures,\Ntreasury of the truths the Upanishads teach,
+Dialogue: 0,1:11:57.00,1:12:12.40,English,,0,0,0,,{\rSanskrit}हृदये कलये विमलं चरणं\Nभव शङ्कर देशिक मे शरणम्॥\N{\rEnglish}I hold your spotless feet within my heart:\Nbe my refuge, Shankara, my teacher.
+Dialogue: 0,1:12:46.00,1:12:56.70,English,,0,0,0,,{\rSanskrit}सम्प्राप्ते सन्निहिते काले\Nनहि नहि रक्षति डुकृञ्करणे॥\N{\rEnglish}When the appointed hour draws near,\Nno rule of grammar will save you.
+Dialogue: 0,1:12:59.30,1:13:13.10,English,,0,0,0,,{\rSanskrit}अङ्गं गलितं पलितं मुण्डं\Nदशनविहीनं जातं तुण्डम्।\N{\rEnglish}The limbs are worn, the head gone grey,\Nthe mouth now empty of its teeth;
+Dialogue: 0,1:13:13.20,1:13:27.40,English,,0,0,0,,{\rSanskrit}वृद्धो याति गृहीत्वा दण्डं\Nतदपि न मुञ्चत्याशापिण्डम्॥\N{\rEnglish}the old man hobbles on a stick,\Nand still he clutches at his hopes.
+Dialogue: 0,1:13:30.70,1:13:42.60,English,,0,0,0,,{\rSanskrit}भज गोविन्दं भज गोविन्दं\Nगोविन्दं भज मूढमते।\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:13:45.10,1:13:56.80,English,,0,0,0,,{\rSanskrit}भज गोविन्दं भज गोविन्दं\Nगोविन्दं भज मूढमते।\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:13:56.90,1:14:09.10,English,,0,0,0,,{\rSanskrit}भज गोविन्दं भज गोविन्दं\Nगोविन्दं भज मूढमते।\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:14:10.50,1:14:27.40,English,,0,0,0,,{\rSanskrit}भज गोविन्दं भज गोविन्दं\Nगोविन्दं भज मूढमते।\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:15:30.80,1:15:44.60,English,,0,0,0,,{\rSanskrit}पुनरपि जननं पुनरपि मरणं\Nपुनरपि जननीजठरे शयनम्।\N{\rEnglish}Birth again, and death again,\Nand again to lie in a mother's womb.
+Dialogue: 0,1:15:44.80,1:15:59.10,English,,0,0,0,,{\rSanskrit}इह संसारे खलु दुस्तारे\Nकृपयाऽपारे पाहि मुरारे॥\N{\rEnglish}This round of worlds is hard to cross:\Nin your boundless mercy, save me, Murari!
+Dialogue: 0,1:16:05.00,1:16:17.50,English,,0,0,0,,{\rSanskrit}भज गोविन्दं भज गोविन्दं\Nगोविन्दं भज मूढमते।\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:16:51.30,1:16:59.40,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं\Nसागरं प्रतिगच्छति।\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea...
+Dialogue: 0,1:17:30.20,1:17:33.00,English,,0,0,0,,{\rSanskrit}अतिदीर्घे जीविते को रमेत॥\N{\rEnglish}Who would delight in a life too long?
+Dialogue: 0,1:18:45.50,1:18:58.00,English,,0,0,0,,{\rSanskrit}ब्रह्मैवाहम् इदं जगच्च\Nसकलं चिन्मात्रविस्तारितम् ।\N{\rEnglish}Brahman alone am I; and all this world\Nis but an outspreading of pure Consciousness.
+Dialogue: 0,1:19:01.40,1:19:05.20,English,,0,0,0,,{\rSanskrit}सर्वं चैतद् अविद्यया\Nत्रिगुणयाशेषं मया कल्पितम् ।\N{\rEnglish}And all of it, without remainder, is conjured by me\Nthrough the three-stranded power of ignorance.
+Dialogue: 0,1:19:05.30,1:19:16.40,English,,0,0,0,,{\rSanskrit}इत्थं यस्य दृढा मतिः\Nसुखतरे नित्ये परे निर्मले —\N{\rEnglish}He whose conviction stands firm in that\Nutterly blissful, eternal, supreme, stainless Reality,
+Dialogue: 0,1:19:26.40,1:19:32.00,English,,0,0,0,,{\rSanskrit}चण्डालोऽस्तु स तु द्विजोऽस्तु\Nगुरुरित्येषा मनीषा मम ॥\N{\rEnglish}be he an outcaste, be he a Brahmin, is my Guru:\Nthis is my firm conviction.
+Dialogue: 0,1:19:55.80,1:20:06.00,English,,0,0,0,,{\rSanskrit}काश्यां हि काशते काशी\Nकाशी सर्वप्रकाशिका।\N{\rEnglish}Kashi shines out within Kashi:\NKashi is the light that illumines all.
+Dialogue: 0,1:20:06.10,1:20:18.90,English,,0,0,0,,{\rSanskrit}सा काशी विदिता येन\Nतेन प्राप्ता हि काशिका॥\N{\rEnglish}Whoever has known that Kashi\Nhas truly arrived in Kashi.
+Dialogue: 0,1:22:01.40,1:22:04.30,English,,0,0,0,,{\rSanskrit}मृत्तिकेत्येव सत्यम्।\N{\rEnglish}Only the clay is real.
+Dialogue: 0,1:22:33.00,1:22:43.00,English,,0,0,0,,{\rSanskrit}अथ या अक्षन्नापस्ताभिः पर्जन्यो\Nया कनीनका तयादित्यः।\N{\rEnglish}The water in the eye is the god of rain,\Nthe pupil is the sun;
+Dialogue: 0,1:22:43.10,1:22:52.70,English,,0,0,0,,{\rSanskrit}यत्कृष्णं तेनाग्निर्यच्छुक्लं तेनेन्द्रः।\Nअधरयैनं वर्तन्या पृथिव्यन्वायत्ता।\N{\rEnglish}its black is fire, its white is Indra,\Nand through the lower eyelid, the earth attends it.
+Dialogue: 0,1:23:35.50,1:23:45.20,English,,0,0,0,,{\rSanskrit}समस्तेषु वस्तुष्वनुस्यूतमेकं\Nसमस्तानि वस्तूनि यन्न स्पृशन्ति।\N{\rEnglish}The One that runs through all things,\Nyet is touched by none of them,
+Dialogue: 0,1:23:45.30,1:23:54.80,English,,0,0,0,,{\rSanskrit}वियद्वत्सदा शुद्धमच्छस्वरूपं\Nस नित्योपलब्धिस्वरूपोऽहमात्मा॥\N{\rEnglish}ever pure and clear like the sky:\NI am that Self, whose nature is eternal awareness.
+Dialogue: 0,1:24:46.00,1:24:52.40,English,,0,0,0,,{\rSanskrit}या निशा सर्वभूतानां\Nतस्यां जागर्ति संयमी।\N{\rEnglish}What is night for all beings,\Nin that the one who is restrained is awake.
+Dialogue: 0,1:25:46.20,1:25:54.40,English,,0,0,0,,{\rSanskrit}तदन्तरप्रतिपत्तौ रंहति सम्परिष्वक्तः\Nप्रश्ननिरूपणाभ्याम्॥\N{\rEnglish}Passing to another body, the self goes enveloped:\Nso the question and the answer show.
+Dialogue: 0,1:25:58.30,1:26:05.40,English,,0,0,0,,{\rSanskrit}जीवः पूर्वदेहं विहाय देहान्तरं\Nप्रतिपद्यत इत्येतदवगतम्।\N{\rEnglish}It is understood that the soul leaves its former body\Nand passes into another.
+Dialogue: 0,1:26:05.60,1:26:15.60,English,,0,0,0,,{\rSanskrit}स किं भूतसूक्ष्मैः सम्परिष्वक्तो गच्छति\Nआहोस्विदसम्परिष्वक्त इति चिन्त्यते।\N{\rEnglish}The question is whether it goes\Nwrapped in the subtle elements, or not.
+Dialogue: 0,1:26:16.00,1:26:27.20,English,,0,0,0,,{\rSanskrit}तदन्तरप्रतिपत्तौ देहान्तरप्रतिपत्तौ\Nभूतसूक्ष्मैः सम्परिष्वक्तो रंहति गच्छतीति।\N{\rEnglish}"Passing to another" means to another body:\Nit goes forth wrapped in the subtle elements.
+Dialogue: 0,1:26:27.30,1:26:31.20,English,,0,0,0,,{\rSanskrit}कुतः? प्रश्ननिरूपणाभ्याम्।\N{\rEnglish}How do we know? From the question and the answer.
+Dialogue: 0,1:26:31.30,1:26:39.50,English,,0,0,0,,{\rSanskrit}तथा हि प्रश्नः — वेत्थ यथा पञ्चम्याम्\Nआहुतावापः पुरुषवचसो भवन्ति इति।\N{\rEnglish}The question is: "Do you know how, at the fifth offering,\Nthe waters come to be called man?"
+Dialogue: 0,1:26:39.60,1:26:49.40,English,,0,0,0,,{\rSanskrit}निरूपणं च प्रतिवचनं च — इति तु पञ्चम्याम्\Nआहुतावापः पुरुषवचसो भवन्ति इति।\N{\rEnglish}And the answer that explains it:\N"Thus at the fifth offering the waters are called man."
+Dialogue: 0,1:27:11.50,1:27:14.70,English,,0,0,0,,{\rSanskrit}त्र्यात्मकत्वात्तु भूयस्त्वात्॥\N{\rEnglish}But water is threefold,\Nand named for what predominates in it.
+Dialogue: 0,1:27:16.30,1:27:25.50,English,,0,0,0,,{\rSanskrit}असौ वाव लोको गौतमाग्निस्\Nतस्यादित्य एव समिद्रश्मयो धूमः\N{\rEnglish}That world is a fire, Gautama:\Nthe sun is its fuel, the rays its smoke,
+Dialogue: 0,1:27:25.60,1:27:34.60,English,,0,0,0,,{\rSanskrit}अहरर्चिश्चन्द्रमा अङ्गारा\Nनक्षत्राणि विस्फुलिङ्गाः।\N{\rEnglish}the day its flame, the moon its embers,\Nthe stars its sparks.
+Dialogue: 0,1:27:34.70,1:27:46.00,English,,0,0,0,,{\rSanskrit}तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां जुह्वति\Nतस्या आहुतेः सोमो राजा सम्भवति॥\N{\rEnglish}Into this fire the gods offer faith;\Nfrom that offering King Soma is born.
+Dialogue: 0,1:27:46.80,1:27:55.90,English,,0,0,0,,{\rSanskrit}पर्जन्यो वाव गौतमाग्निस्\Nतस्य वायुरेव समिदभ्रं धूमः\N{\rEnglish}The rain-cloud is a fire, Gautama:\Nthe wind its fuel, the mist its smoke,
+Dialogue: 0,1:27:56.00,1:28:02.50,English,,0,0,0,,{\rSanskrit}विद्युदर्चिरशनिरङ्गारा\Nह्रादनयो विस्फुलिङ्गाः।\N{\rEnglish}lightning its flame, the thunderbolt its embers,\Nthe rolling thunder its sparks.
+Dialogue: 0,1:28:02.60,1:28:13.50,English,,0,0,0,,{\rSanskrit}तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति\Nतस्या आहुतेर्वर्षं सम्भवति॥\N{\rEnglish}Into this fire the gods offer King Soma;\Nfrom that offering rain is born.
+Dialogue: 0,1:28:13.60,1:28:23.30,English,,0,0,0,,{\rSanskrit}पृथिवी वाव गौतमाग्निस्\Nतस्याः संवत्सर एव समिदाकाशो धूमः\N{\rEnglish}The earth is a fire, Gautama:\Nthe year its fuel, the sky its smoke,
+Dialogue: 0,1:28:23.40,1:28:30.90,English,,0,0,0,,{\rSanskrit}रात्रिरर्चिर्दिशोऽङ्गारा\Nअवान्तरदिशो विस्फुलिङ्गाः।\N{\rEnglish}the night its flame, the four quarters its embers,\Nthe points between them its sparks.
+Dialogue: 0,1:28:31.00,1:28:40.00,English,,0,0,0,,{\rSanskrit}तस्मिन्नेतस्मिन्नग्नौ देवा वर्षं जुह्वति\Nतस्या आहुतेरन्नं सम्भवति॥\N{\rEnglish}Into this fire the gods offer rain;\Nfrom that offering food is born.
+Dialogue: 0,1:28:40.50,1:28:49.00,English,,0,0,0,,{\rSanskrit}पुरुषो वाव गौतमाग्निस्\Nतस्य वागेव समित्प्राणो धूमः\N{\rEnglish}Man is a fire, Gautama:\Nspeech its fuel, breath its smoke,
+Dialogue: 0,1:28:49.10,1:28:56.50,English,,0,0,0,,{\rSanskrit}जिह्वार्चिश्चक्षुरङ्गाराः\Nश्रोत्रं विस्फुलिङ्गाः।\N{\rEnglish}the tongue its flame, the eyes its embers,\Nthe ears its sparks.
+Dialogue: 0,1:28:56.60,1:29:06.60,English,,0,0,0,,{\rSanskrit}तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति\Nतस्या आहुते रेतः सम्भवति॥\N{\rEnglish}Into this fire the gods offer food;\Nfrom that offering seed is born.
+Dialogue: 0,1:29:08.00,1:29:16.40,English,,0,0,0,,{\rSanskrit}योषा वाव गौतमाग्निस्\Nतस्या उपस्थ एव समिद्यदुपमन्त्रयते स धूमः\N{\rEnglish}Woman is a fire, Gautama:\Nher loins the fuel, the invitation the smoke,
+Dialogue: 0,1:29:16.50,1:29:25.50,English,,0,0,0,,{\rSanskrit}योनिरर्चिर्यदन्तः करोति तेऽङ्गारा\Nअभिनन्दा विस्फुलिङ्गाः।\N{\rEnglish}the womb the flame, union the embers,\Nits pleasures the sparks.
+Dialogue: 0,1:29:25.60,1:29:34.40,English,,0,0,0,,{\rSanskrit}तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुह्वति\Nतस्या आहुतेर्गर्भः सम्भवति॥\N{\rEnglish}Into this fire the gods offer seed;\Nfrom that offering the child in the womb is born.
+Dialogue: 0,1:29:34.60,1:29:41.50,English,,0,0,0,,{\rSanskrit}इति तु पञ्चम्यामाहुतावापः\Nपुरुषवचसो भवन्तीति।\N{\rEnglish}So it is that, at the fifth offering,\Nthe waters come to be called man.
+Dialogue: 0,1:29:41.60,1:29:51.20,English,,0,0,0,,{\rSanskrit}स उल्बावृतो गर्भो दश वा नव वा\Nमासानन्तः शयित्वा यावद्वाथ जायते॥\N{\rEnglish}Wrapped in the caul, the child lies within for ten months,\Nor nine, or however long, and then is born.
+Dialogue: 0,1:29:51.30,1:29:55.00,English,,0,0,0,,{\rSanskrit}स जातो यावदायुषं जीवति।\N{\rEnglish}Once born, he lives out his allotted span.
+Dialogue: 0,1:29:55.10,1:30:03.80,English,,0,0,0,,{\rSanskrit}तं प्रेतं दिष्टमितोऽग्नय एव हरन्ति\Nयत एवेतो यतः सम्भूतो भवति॥\N{\rEnglish}When he has died, they carry him to the fire,\Nback to where he came from, where he was born.
+Dialogue: 0,1:35:01.40,1:35:03.70,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं…\N{\rEnglish}As rain fallen from the sky...
+Dialogue: 0,1:36:02.20,1:36:13.30,English,,0,0,0,,{\rSanskrit}नर्मदायै नमः प्रातर्नर्मदायै नमो निशि।\Nनमोऽस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः॥\N{\rEnglish}Homage to the Narmada at dawn and at night;\Nhomage to you, Narmada: guard me from serpents' venom.
+Dialogue: 0,1:36:13.40,1:36:24.00,English,,0,0,0,,{\rSanskrit}मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।\Nसत्यं चित्रश्रवस्तमम्॥\N{\rEnglish}The glory of Mitra, the god who upholds all peoples,\Nis true, all-winning, and of the brightest renown.
+Dialogue: 0,1:36:27.60,1:36:31.40,English,,0,0,0,,{\rSanskrit}मित्रो जनान्यातयति प्रजानन्…\N{\rEnglish}Mitra, knowing all, sets the peoples in order...
+Dialogue: 0,1:38:49.80,1:38:52.90,English,,0,0,0,,{\rSanskrit}यावज्जीवमग्निहोत्रं जुहोति।\N{\rEnglish}As long as he lives, he offers the Agnihotra.
+Dialogue: 0,1:43:33.80,1:43:38.00,English,,0,0,0,,{\rSanskrit}तमेवं विद्वानमृत इह भवति।\Nनान्यः पन्था…\N{\rEnglish}Knowing Him thus, one becomes immortal here and now:\Nthere is no other way...
+Dialogue: 0,1:45:33.80,1:45:36.40,English,,0,0,0,,{\rSanskrit}यतो वाचो निवर्तन्ते…\N{\rEnglish}That from which words turn back...
+Dialogue: 0,1:46:03.40,1:46:22.30,English,,0,0,0,,{\rSanskrit}यथा नद्यः स्यन्दमानाः समुद्रे\Nअस्तं गच्छन्ति नामरूपे विहाय।\N{\rEnglish}As flowing rivers vanish into the ocean,\Nleaving behind their names and forms,
+Dialogue: 0,1:46:25.00,1:46:36.50,English,,0,0,0,,{\rSanskrit}तथा विद्वान्नामरूपाद्विमुक्तः\Nपरात्परं पुरुषमुपैति दिव्यम्॥\N{\rEnglish}so the knower, freed from name and form,\Nreaches the divine Person, beyond the beyond.
+Dialogue: 0,1:46:56.20,1:47:26.60,English,,0,0,0,,{\rSanskrit}न पुण्यं न पापं न सौख्यं न दुःखं\Nन मन्त्रो न तीर्थं न वेदा न यज्ञाः।\N{\rEnglish}No merit, no sin; no pleasure, no pain;\Nno mantra, no pilgrimage, no Vedas, no sacrifice.
+Dialogue: 0,1:47:26.70,1:47:54.40,English,,0,0,0,,{\rSanskrit}अहं भोजनं नैव भोज्यं न भोक्ता\Nचिदानन्दरूपः शिवोऽहं शिवोऽहम्॥\N{\rEnglish}Not the eating, not the food, not the one who eats:\NI am consciousness and bliss. I am Shiva, I am Shiva.
+Dialogue: 0,1:49:05.00,1:49:22.70,English,,0,0,0,,{\rSanskrit}अकचटतपयाद्यैः सप्तभिर्वर्णवर्गैर्\Nविरचितमुखबाहापादमध्याक्षिरूपा।\N{\rEnglish}Whose face, arms, feet, waist and eyes are made\Nof the seven groups of letters, from a to ya:
+Dialogue: 0,1:49:22.80,1:49:46.00,English,,0,0,0,,{\rSanskrit}सकलजगदधीशा शाश्वता विश्वयोनिः\Nवितरतु परिशुद्धिं चेतसः शारदा वः॥\N{\rEnglish}ruler of all the worlds, eternal, the source of all:\Nmay Sharada grant your minds their purity.
+Dialogue: 0,1:52:44.70,1:52:53.80,English,,0,0,0,,{\rSanskrit}सप्त ते अग्ने समिधः सप्त जिह्वाः\Nसप्त ऋषयः सप्त धाम प्रियाणि।\N{\rEnglish}Seven are your fuel-sticks, Agni, seven your tongues,\Nseven your seers, seven your beloved abodes;
+Dialogue: 0,1:52:53.90,1:53:03.60,English,,0,0,0,,{\rSanskrit}सप्त होत्राः सप्तधा त्वा यजन्ति\Nसप्त योनीरापृणस्व घृतेन॥\N{\rEnglish}seven priests worship you in seven ways:\Nfill your seven sources with ghee.
+Dialogue: 0,2:01:38.20,2:01:59.00,English,,0,0,0,,{\rSanskrit}नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी\Nनिर्धूताखिलघोरपावनकरी प्रत्यक्षमाहेश्वरी।\N{\rEnglish}Ever-joyful, granting boons and fearlessness,\Nsea of beauty, great Goddess who washes sin away,
+Dialogue: 0,2:01:59.10,2:02:21.00,English,,0,0,0,,{\rSanskrit}प्रालेयाचलवंशपावनकरी काशीपुराधीश्वरी\Nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥\N{\rEnglish}purifier of the Himalaya's royal line:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:02:33.80,2:02:57.50,English,,0,0,0,,{\rSanskrit}दृश्यादृश्यविभूतिवाहनकरी ब्रह्माण्डभाण्डोदरी\Nलीलानाटकसूत्रखेलनकरी विज्ञानदीपाङ्कुरी।\N{\rEnglish}Womb of the universe, bearer of all its glories,\Nwho plays out the drama of the world, flame of wisdom,
+Dialogue: 0,2:02:57.60,2:03:22.90,English,,0,0,0,,{\rSanskrit}श्रीविश्वेशमनःप्रसादनकरी काशीपुराधीश्वरी\Nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥\N{\rEnglish}you who gladden the heart of Vishvanatha:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:03:34.50,2:03:54.00,English,,0,0,0,,{\rSanskrit}योगानन्दकरी रिपुक्षयकरी धर्मैकनिष्ठाकरी\Nचन्द्रार्कानलभासमानलहरी त्रैलोक्यरक्षाकरी।\N{\rEnglish}Bliss of yoga, slayer of foes, upholder of dharma,\Nbright as sun, moon and fire, guarding the three worlds,
+Dialogue: 0,2:03:54.10,2:04:14.00,English,,0,0,0,,{\rSanskrit}सर्वैश्वर्यकरी तपःफलकरी काशीपुराधीश्वरी\Nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥\N{\rEnglish}giver of all power, and of the fruit of penance:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:04:24.00,2:04:45.00,English,,0,0,0,,{\rSanskrit}देवी सर्वविचित्ररत्नरुचिरा दाक्षायणी सुन्दरी\Nवामा स्वादुपयोधरा प्रियकरी सौभाग्यमाहेश्वरी।\N{\rEnglish}Goddess bright with every jewel, Dakshayani, the fair,\Ngracious, nourishing, loving, goddess of good fortune,
+Dialogue: 0,2:04:45.10,2:05:05.00,English,,0,0,0,,{\rSanskrit}भक्ताभीष्टकरी सदा शुभकरी काशीपुराधीश्वरी\Nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥\N{\rEnglish}granting the devotee's wish, ever bringing good:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:05:12.50,2:05:35.50,English,,0,0,0,,{\rSanskrit}उर्वी सर्वजनेश्वरी जयकरी माता कृपासागरी\Nवेणीनीलसमानकुन्तलधरी नित्यान्नदानेश्वरी।\N{\rEnglish}Queen of the earth and all its peoples, sea of mercy,\Nher hair dark as a braid of blue, giver of daily food,
+Dialogue: 0,2:05:35.60,2:06:01.50,English,,0,0,0,,{\rSanskrit}साक्षान्मोक्षकरी सदा शुभकरी काशीपुराधीश्वरी\Nभिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥\N{\rEnglish}giver of liberation itself, ever bringing good:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:06:41.70,2:06:43.60,English,,0,0,0,,{\rSanskrit}स्वदेशो भुवनत्रयम्।\N{\rEnglish}My homeland is the three worlds.
+Dialogue: 0,2:09:40.50,2:09:56.00,English,,0,0,0,,{\rSanskrit}परात्मानमेकं जगद्बीजमाद्यं\Nनिरीहं निराकारमोङ्कारवेद्यम्।\N{\rEnglish}The supreme Self, the One, the first seed of the world,\Nfree of desire, formless, known through Om:
+Dialogue: 0,2:09:56.10,2:10:13.50,English,,0,0,0,,{\rSanskrit}यतो जायते पाल्यते येन विश्वं\Nतमीशं भजे लीयते यत्र विश्वम्॥\N{\rEnglish}from whom the world is born, by whom it is sustained,\NI worship that Lord, in whom the world dissolves.
+Dialogue: 0,2:11:14.50,2:11:19.50,English,,0,0,0,,{\rSanskrit}निस्त्रैगुण्ये पथि विचरतां\Nको विधिः को निषेधः॥\N{\rEnglish}For those who walk the path beyond the three gunas,\Nwhat is enjoined, and what forbidden?
+Dialogue: 0,2:12:09.50,2:12:20.50,English,,0,0,0,,{\rSanskrit}माता नास्ति पिता नास्ति\Nनास्ति बन्धुः सहोदरः।\N{\rEnglish}No mother, no father,\Nno kinsman, no brother;
+Dialogue: 0,2:12:20.60,2:12:31.90,English,,0,0,0,,{\rSanskrit}अर्थो नास्ति गृहं नास्ति\Nतस्माज्जाग्रत जाग्रत॥\N{\rEnglish}no wealth, no home:\Nso wake up, wake up!
+Dialogue: 0,2:12:32.70,2:12:38.60,English,,0,0,0,,{\rSanskrit}तस्माज्जाग्रत जाग्रत॥\N{\rEnglish}So wake up, wake up!
+Dialogue: 0,2:14:03.80,2:14:21.00,English,,0,0,0,,{\rSanskrit}त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः\Nत्वमेका नैवासि प्रकटितवराभीत्यभिनया।\N{\rEnglish}Other gods raise a hand to grant boons and safety;\Nyou alone make no such sign,
+Dialogue: 0,2:14:21.10,2:14:42.00,English,,0,0,0,,{\rSanskrit}भयात्त्रातुं दातुं फलमपि च वाञ्छासमधिकं\Nशरण्ये लोकानां तव हि चरणावेव निपुणौ॥\N{\rEnglish}for to save from fear, and give more than is wished,\Nyour feet alone suffice, refuge of the worlds.
+Dialogue: 0,2:19:00.50,2:19:02.90,English,,0,0,0,,{\rSanskrit}प्राणो वाव संवर्गः।\N{\rEnglish}Breath, truly, is the gatherer.
+Dialogue: 0,2:19:10.80,2:19:23.00,English,,0,0,0,,{\rSanskrit}प्राणमेव वागप्येति प्राणं चक्षुः\Nप्राणं श्रोत्रं प्राणं मनः। प्राणो ह्येवैतान्सर्वान्संवृङ्क्ते॥\N{\rEnglish}Speech goes into breath, and the eye, the ear, the mind:\Nbreath gathers all of them into itself.
+Dialogue: 0,2:21:27.20,2:21:28.80,English,,0,0,0,,{\rSanskrit}अहं ब्रह्मास्मि।\N{\rEnglish}I am Brahman.
+Dialogue: 0,2:23:17.60,2:23:33.00,English,,0,0,0,,{\rSanskrit}जपो जल्पः शिल्पं सकलमपि मुद्राविरचना\Nगतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः।\N{\rEnglish}Let my chatter be prayer, every gesture a mudra,\Nmy walking a circling of you, my eating an offering,
+Dialogue: 0,2:23:33.10,2:23:53.40,English,,0,0,0,,{\rSanskrit}प्रणामः संवेशः सुखमखिलमात्मार्पणदृशा\Nसपर्यापर्यायस्तव भवतु यन्मे विलसितम्॥\N{\rEnglish}my lying down a prostration, all my joys self-giving:\Nmay all that I do become your worship.
+Dialogue: 0,2:30:19.70,2:30:38.00,English,,0,0,0,,{\rSanskrit}ललाटं लावण्यद्युतिविमलमाभाति तव यद्\Nद्वितीयं तन्मन्ये मकुटघटितं चन्द्रशकलम्।\N{\rEnglish}Your brow, shining with the pure light of beauty,\Nseems a second crescent, beside the one in your crown;
+Dialogue: 0,2:30:43.80,2:30:56.70,English,,0,0,0,,{\rSanskrit}विपर्यासन्यासादुभयमपि सम्भूय च मिथः\Nसुधालेपस्यूतिः परिणमति राकाहिमकरः॥\N{\rEnglish}set together the other way round, the two would join,\Nsealed with nectar, into the full moon.
+Dialogue: 0,2:31:04.00,2:31:21.60,English,,0,0,0,,{\rSanskrit}तव स्तन्यं मन्ये धरणिधरकन्ये हृदयतः\Nपयःपारावारः परिवहति सारस्वतमिव।\N{\rEnglish}Mountain-born mother, the milk from your heart\Nis an ocean, I think, of Sarasvati's eloquence;
+Dialogue: 0,2:31:24.00,2:31:45.00,English,,0,0,0,,{\rSanskrit}दयावत्या दत्तं द्रविडशिशुरास्वाद्य तव यत्\Nकवीनां प्रौढानामजनि कमनीयः कवयिता॥\N{\rEnglish}tasting what you gave in mercy, the Dravida child\Nbecame a poet, beloved among the great poets.
+Dialogue: 0,2:31:55.40,2:31:58.00,English,,0,0,0,,{\rSanskrit}उत्तिष्ठत। जाग्रत।\N{\rEnglish}Arise! Awake!
+Dialogue: 0,2:32:57.00,2:33:01.40,English,,0,0,0,,{\rSanskrit}एतं प्राणमयमात्मानमुपसंक्रम्य…\N{\rEnglish}Passing beyond this self made of breath...
+Dialogue: 0,2:34:32.50,2:34:43.00,English,,0,0,0,,{\rSanskrit}ईश्वरानुग्रहादेव\Nपुंसामद्वैतवासना।\N{\rEnglish}Only by the grace of God\Ndoes the longing for non-duality arise in a person.
+Dialogue: 0,2:37:25.80,2:37:35.00,English,,0,0,0,,{\rSanskrit}बुद्ध्या विशुद्धया युक्तो\Nधृत्यात्मानं नियम्य च।\N{\rEnglish}Joined to a purified understanding,\Nmastering himself with steadiness,
+Dialogue: 0,2:37:35.10,2:37:46.80,English,,0,0,0,,{\rSanskrit}शब्दादीन्विषयांस्त्यक्त्वा\Nरागद्वेषौ व्युदस्य च॥\N{\rEnglish}letting go of sound and the other objects of sense,\Ncasting off attraction and aversion,
+Dialogue: 0,2:37:46.90,2:38:04.90,English,,0,0,0,,{\rSanskrit}असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।\Nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति॥\N{\rEnglish}Unattached in mind, self-mastered, free of longing,\Nhe reaches, through renunciation, perfect actionlessness.
+Dialogue: 0,2:38:05.00,2:38:22.10,English,,0,0,0,,{\rSanskrit}अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।\Nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते॥\N{\rEnglish}Free of ego, force, pride, desire, anger and grasping,\Nselfless and at peace, he is fit to become Brahman.
+Dialogue: 0,2:38:56.40,2:39:04.60,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं\Nसागरं प्रतिगच्छति।\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea...
+Dialogue: 0,2:39:04.70,2:39:17.00,English,,0,0,0,,{\rSanskrit}आकाशात्पतितं तोयं\Nसागरं प्रतिगच्छति।\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea...
+Dialogue: 0,2:39:21.50,2:39:39.30,English,,0,0,0,,{\rSanskrit}ॐ पूर्णमदः पूर्णमिदं\Nपूर्णात्पूर्णमुदच्यते।\N{\rEnglish}That is whole; this is whole;\Nfrom the whole, the whole comes forth.
+Dialogue: 0,2:39:39.40,2:39:48.00,English,,0,0,0,,{\rSanskrit}पूर्णस्य पूर्णमादाय\Nपूर्णमेवावशिष्यते॥\N{\rEnglish}Take the whole from the whole,\Nand the whole alone remains.

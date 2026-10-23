@@ -1,0 +1,1440 @@
+# Adi Shankaracharya (1983) - master transcript of the recited texts
+#
+# This file holds the classical texts recited and chanted in the film (Vedic
+# mantras, Upanishads, the Bhagavad-gita, hymns attributed to Shankara, and
+# other traditional verses), all of which are in the public domain.
+# The film's own dialogue is not included.
+#
+# Every subtitle file in this repository is generated from this file by
+# tools/build.py. To fix a line, fix it here and rebuild.
+# Format reference: docs/TRANSCRIPT_FORMAT.md
+#
+#   @ START --> END  [type]  {speaker}
+#   src:  canonical source
+#   sa:   Sanskrit in Devanagari (one line per subtitle line)
+#   iast: optional; only if the automatic transliteration needs overriding
+#   en:   English (one line per subtitle line)
+#   note: anything a future editor should know
+#
+# Types: verse | heard | reconstructed | unclear | english | sung
+# Times are for the 2:39:54, 25 fps release.
+
+# ---------------------------------------------------------------------------
+# Opening credits, and dawn at the river (Kaladi)
+# ---------------------------------------------------------------------------
+
+@ 00:00:53.900 --> 00:01:10.600  [sung]
+src: Gayatri mantra, Rigveda 3.62.10
+sa: ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।
+sa: धियो यो नः प्रचोदयात्॥
+en: Om. We meditate on the divine Sun's glorious light;
+en: may it awaken our minds.
+
+@ 00:03:45.400 --> 00:03:54.000  [sung]
+src: Hymn to Mitra (Rigveda 3.59.6, in a variant reading)
+note: The chant clearly has "shravo ... sanasim ... satyam", where the Rigveda has "avo ... sanasi ... dyumnam". We believe this is the Yajurveda reading, but have not yet confirmed its source. The same verse is chanted again at 0:53:17 and 1:36:13.
+sa: मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।
+sa: सत्यं चित्रश्रवस्तमम्॥
+en: The glory of Mitra, the god who upholds all peoples,
+en: is true, all-winning, and of the brightest renown.
+
+@ 00:03:54.100 --> 00:04:05.000  [sung]
+src: Hymn to Mitra (Rigveda 3.59.1, in a variant reading), first half
+note: Only the first half is clearly identifiable. The chant has "prajanan" (knowing) where the Rigveda has "bruvanah" (speaking), apparently the same variant tradition as the verse above; the line is heard again at 1:36:27.
+sa: मित्रो जनान्यातयति प्रजानन्
+sa: मित्रो दाधार पृथिवीमुत द्याम्।
+en: Mitra, knowing all, sets the peoples in order;
+en: Mitra holds up the earth and the sky.
+
+@ 00:04:17.700 --> 00:04:31.300  [sung]
+src: The Three Refuges (Buddhist)
+note: Buddhist chanting breaks in on the Vedic worship.
+sa: बुद्धं शरणं गच्छामि। धम्मं शरणं गच्छामि।
+sa: सङ्घं शरणं गच्छामि।
+en: I take refuge in the Buddha. I take refuge in the Dharma.
+en: I take refuge in the Sangha.
+
+@ 00:04:31.300 --> 00:04:44.700  [sung]
+src: Gayatri mantra, Rigveda 3.62.10
+note: The Vedic chant resumes over the Buddhist one.
+sa: ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।
+sa: धियो यो नः प्रचोदयात्॥
+en: Om. We meditate on the divine Sun's glorious light;
+en: may it awaken our minds.
+
+# ---------------------------------------------------------------------------
+# Vedic prayer at the house of Shivaguru
+# ---------------------------------------------------------------------------
+
+@ 00:05:50.300 --> 00:06:04.900  [sung]
+src: Rigveda 1.90.6
+sa: मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः।
+sa: माध्वीर्नः सन्त्वोषधीः॥
+en: The winds blow honey-sweet for the righteous,
+en: the rivers run sweet; may the plants be sweet for us.
+
+@ 00:06:05.900 --> 00:06:19.600  [sung]
+src: Rigveda 1.90.6 (repeated)
+sa: मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः।
+sa: माध्वीर्नः सन्त्वोषधीः॥
+en: The winds blow honey-sweet for the righteous,
+en: the rivers run sweet; may the plants be sweet for us.
+
+@ 00:06:19.600 --> 00:06:30.000  [reconstructed]
+src: Rigveda 1.90.7
+note: Heavily garbled in recognition; identified because these verses conventionally follow 1.90.6. Needs a careful listen.
+sa: मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः।
+sa: मधु द्यौरस्तु नः पिता॥
+en: Sweet be the night and the dawns, sweet the earth's air;
+en: sweet be Heaven, our father.
+
+@ 00:06:30.100 --> 00:06:40.600  [reconstructed]
+src: Rigveda 1.90.8
+note: As above; the word "suryah" is audible.
+sa: मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः।
+sa: माध्वीर्गावो भवन्तु नः॥
+en: Sweet be the trees to us, and sweet the sun;
+en: sweet be the cows to us.
+
+# ---------------------------------------------------------------------------
+# Shivaguru hears the Gita and prepares to leave the body
+# ---------------------------------------------------------------------------
+
+@ 00:06:53.800 --> 00:07:01.800  [sung]
+src: Bhagavad-gita 8.12, second half
+note: Timing within this passage is approximate until word-level timings are checked.
+sa: मूर्ध्न्याधायात्मनः प्राणम्
+sa: आस्थितो योगधारणाम्।
+en: ...holding the life-breath at the crown of the head,
+en: steadfast in the discipline of yoga,
+
+@ 00:07:01.900 --> 00:07:06.300  [reconstructed]
+src: Bhagavad-gita 8.13, first half
+note: Only fragments are audible; identified from 8.12 above.
+sa: ओमित्येकाक्षरं ब्रह्म
+sa: व्याहरन्मामनुस्मरन्।
+en: uttering Om, the one syllable that is Brahman,
+en: and remembering Me,
+
+@ 00:07:06.400 --> 00:07:10.900  [reconstructed]
+src: Bhagavad-gita 8.13, second half
+note: Only fragments are audible; identified from 8.12 above.
+sa: यः प्रयाति त्यजन्देहं
+sa: स याति परमां गतिम्॥
+en: whoever departs, leaving the body,
+en: reaches the highest goal.
+
+@ 00:08:03.600 --> 00:08:17.500  [sung]
+src: Vedasara Shiva Stava (attributed to Shankara), verse beginning "paratmanam ekam"
+sa: परात्मानमेकं जगद्बीजमाद्यं
+sa: निरीहं निराकारमोङ्कारवेद्यम्।
+en: The supreme Self, the One, the first seed of the world,
+en: free of desire, formless, known through Om.
+
+@ 00:10:04.000 --> 00:10:15.500  [reconstructed]
+src: Isha Upanishad 17
+note: Only "amrtam athedam bhasmantam" is clearly audible. The older subtitles place a related line near 0:09:31, so the start time needs checking.
+sa: वायुरनिलममृतमथेदं
+sa: भस्मान्तं शरीरम्।
+en: Let my breath return to the deathless wind,
+en: and this body end in ashes.
+
+# ---------------------------------------------------------------------------
+# Shankara's sacred-thread ceremony (a vision) and Shivaguru's death
+# ---------------------------------------------------------------------------
+
+@ 00:11:00.500 --> 00:11:06.000  [sung]
+src: Gayatri mantra, Rigveda 3.62.10
+note: Only the end of the mantra is audible; it probably begins earlier.
+sa: ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।
+sa: धियो यो नः प्रचोदयात्॥
+en: Om. We meditate on the divine Sun's glorious light;
+en: may it awaken our minds.
+
+@ 00:11:15.400 --> 00:11:19.200  [verse]  {Shankara}
+src: Ritual formula of the young student begging alms
+sa: भवति भिक्षां देहि।
+en: Revered lady, give me alms.
+
+@ 00:12:48.800 --> 00:13:03.000  [verse]  {Shankara}
+src: Traditional verse, recited at the close of daily worship
+sa: आकाशात्पतितं तोयं यथा गच्छति सागरम्।
+sa: सर्वदेवनमस्कारः केशवं प्रतिगच्छति॥
+en: As rain fallen from the sky makes its way to the sea,
+en: so worship of every god goes on to Keshava.
+
+@ 00:13:04.900 --> 00:13:14.100  [verse]
+src: Traditional verse, recited at the close of daily worship (first half, repeated)
+note: Sung with "sagaram pratigacchati", as heard; the usual text reads "yatha gacchati sagaram".
+sa: आकाशात्पतितं तोयं सागरं प्रतिगच्छति।
+en: As rain fallen from the sky makes its way to the sea...
+
+@ 00:14:16.500 --> 00:14:44.000  [sung]
+src: Traditional verse, recited at the close of daily worship
+note: Chanted at Shivaguru's funeral. Sung with "sagaram pratigacchati", as heard; the usual text reads "yatha gacchati sagaram".
+sa: आकाशात्पतितं तोयं
+sa: सागरं प्रतिगच्छति।
+en: As rain fallen from the sky
+en: makes its way to the sea,
+
+@ 00:14:44.100 --> 00:15:03.000  [sung]
+src: Traditional verse, recited at the close of daily worship
+sa: सर्वदेवनमस्कारः
+sa: केशवं प्रतिगच्छति॥
+en: so worship of every god
+en: goes on to Keshava.
+
+@ 00:15:47.500 --> 00:16:02.400  [sung]
+src: Gayatri mantra, Rigveda 3.62.10, offered into the fire
+sa: ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।
+sa: धियो यो नः प्रचोदयात्। स्वाहा॥
+en: Om. We meditate on the divine Sun's glorious light;
+en: may it awaken our minds. Svaha!
+
+@ 00:16:06.600 --> 00:16:41.400  [sung]
+src: Gayatri mantra, Rigveda 3.62.10, offered into the fire
+sa: ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।
+sa: धियो यो नः प्रचोदयात्॥
+en: Om. We meditate on the divine Sun's glorious light;
+en: may it awaken our minds.
+
+# ---------------------------------------------------------------------------
+# The two birds
+# ---------------------------------------------------------------------------
+
+@ 00:18:37.400 --> 00:18:55.500  [verse]
+src: Mundaka Upanishad 3.1.1 (also Rigveda 1.164.20)
+sa: द्वा सुपर्णा सयुजा सखाया
+sa: समानं वृक्षं परिषस्वजाते।
+en: Two birds, close companions,
+en: cling to the same tree.
+
+@ 00:18:59.200 --> 00:19:13.900  [verse]
+src: Mundaka Upanishad 3.1.1, second half
+sa: तयोरन्यः पिप्पलं स्वाद्वत्ति
+sa: अनश्नन्नन्यो अभिचाकशीति॥
+en: One of them eats the sweet fruit;
+en: the other, not eating, simply looks on.
+
+@ 00:19:19.900 --> 00:19:22.700  [verse]
+src: Mundaka Upanishad 3.1.1, last line (repeated)
+sa: अनश्नन्नन्यो अभिचाकशीति॥
+en: The other, not eating, simply looks on.
+
+# ---------------------------------------------------------------------------
+# The temple school
+# ---------------------------------------------------------------------------
+
+@ 00:19:35.000 --> 00:19:47.500  [verse]  {Students}
+src: Kalidasa, Raghuvamsha 1.1 (the opening invocation)
+note: Only the second half is clearly audible; the verse probably begins a little earlier.
+sa: वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये।
+sa: जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥
+en: I bow to Parvati and Shiva, parents of the world,
+en: joined like word and meaning, that I may grasp both.
+
+@ 00:19:47.600 --> 00:19:58.000  [verse]  {Students}
+src: Kalidasa, Raghuvamsha, canto 1 (King Dilipa reaches Vasishtha's hermitage)
+sa: विधेः सायन्तनस्यान्ते
+sa: स ददर्श तपोनिधिम्।
+en: At the close of the evening rite
+en: he saw the sage, a treasure of austerity,
+
+@ 00:20:10.300 --> 00:20:14.800  [verse]  {Students}
+src: Kalidasa, Raghuvamsha, canto 1 (continued)
+note: The audio seems to have "adhyasitam"; the standard text reads "anvasitam".
+sa: अन्वासितमरुन्धत्या
+sa: स्वाहयेव हविर्भुजम्॥
+en: with Arundhati beside him,
+en: like the sacred fire with Svaha at its side.
+
+@ 00:21:12.000 --> 00:21:17.200  [verse]
+src: Bhagavad-gita 9.11, first half (quoted)
+note: Quoted half in jest by a boy who feels ignored.
+sa: अवजानन्ति मां मूढा
+sa: मानुषीं तनुमाश्रितम्।
+en: Fools disregard Me
+en: when I take on a human form.
+
+# ---------------------------------------------------------------------------
+# Begging for alms: the gooseberry and the Kanakadhara hymn
+# ---------------------------------------------------------------------------
+
+@ 00:21:24.600 --> 00:21:26.800  [verse]  {Shankara}
+src: Ritual formula of the young student begging alms
+sa: भवति भिक्षां देहि।
+en: Revered lady, give me alms.
+
+@ 00:21:27.000 --> 00:21:45.200  [sung]
+src: Bhagavata Purana 1.1.3
+note: Heard in the background while Shankara waits at the door.
+sa: निगमकल्पतरोर्गलितं फलं
+sa: शुकमुखादमृतद्रवसंयुतम्।
+en: Fruit fallen from the wish-tree of the Veda,
+en: sweetened by nectar from Shuka's lips:
+
+@ 00:21:45.300 --> 00:22:04.300  [sung]
+src: Bhagavata Purana 1.1.3 (continued)
+sa: पिबत भागवतं रसमालयं
+sa: मुहुरहो रसिका भुवि भावुकाः॥
+en: drink deep of the Bhagavata, again and again,
+en: you on earth who know its taste and are moved!
+
+@ 00:22:34.000 --> 00:22:46.900  [sung]  {Shankara}
+src: Kanakadhara Stotram, verse 1 (attributed to Shankara)
+note: Tradition says Shankara composed this hymn to Lakshmi for a poor woman who could give him only an amalaka (gooseberry), and that golden gooseberries rained on her house.
+sa: अङ्गं हरेः पुलकभूषणमाश्रयन्ती
+sa: भृङ्गाङ्गनेव मुकुलाभरणं तमालम्।
+en: Like a bee alighting on a tamala tree in bud,
+en: it rests on Hari, whose body thrills with joy:
+
+@ 00:22:51.800 --> 00:23:00.200  [sung]  {Shankara}
+src: Kanakadhara Stotram, verse 1 (continued)
+sa: अङ्गीकृताखिलविभूतिरपाङ्गलीला
+sa: माङ्गल्यदास्तु मम मङ्गलदेवतायाः॥
+en: that playful sidelong glance, which holds all riches:
+en: may the glance of the goddess of fortune bless me.
+
+@ 00:24:13.500 --> 00:24:17.100  [verse]  {Shankara}
+src: Ritual formula of the young student begging alms
+sa: भवति भिक्षां देहि।
+en: Revered lady, give me alms.
+
+@ 00:24:21.000 --> 00:24:24.600  [verse]  {Shankara}
+src: Ritual formula of the young student begging alms
+sa: भवति भिक्षां देहि।
+en: Revered lady, give me alms.
+
+@ 00:24:30.200 --> 00:24:33.000  [verse]  {Shankara}
+src: Ritual formula of the young student begging alms
+sa: भवति भिक्षां देहि।
+en: Revered lady, give me alms.
+
+@ 00:26:17.400 --> 00:26:19.800  [verse]
+src: Isha Upanishad 1 (quoted)
+note: Quoted within a conversation about sharing food; only the quotation is given here.
+sa: तेन त्यक्तेन भुञ्जीथाः।
+en: Enjoy through renunciation.
+
+# ---------------------------------------------------------------------------
+# The Nachiketa play: a Kudiyattam performance of the Katha Upanishad
+# ---------------------------------------------------------------------------
+
+@ 00:40:07.000 --> 00:40:20.900  [verse]
+src: Katha Upanishad 1.1.7
+note: Yama's household warns him that a Brahmin guest has waited unfed.
+sa: वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान्।
+sa: तस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम्॥
+en: A Brahmin guest enters a house like fire itself;
+en: they soothe him so: bring water, O Yama!
+
+@ 00:40:21.100 --> 00:40:30.700  [verse]  {Yama}
+src: Katha Upanishad 1.1.9, first half
+sa: तिस्रो रात्रीर्यदवात्सीर्गृहे मे
+sa: अनश्नन्ब्रह्मन्नतिथिर्नमस्यः।
+en: Three nights you have stayed in my house unfed,
+en: O Brahmin, a guest worthy of honour.
+
+@ 00:40:30.800 --> 00:40:38.500  [verse]  {Yama}
+src: Katha Upanishad 1.1.9, second half
+sa: नमस्तेऽस्तु ब्रह्मन्स्वस्ति मेऽस्तु
+sa: तस्मात्प्रति त्रीन्वरान्वृणीष्व॥
+en: My homage to you, Brahmin; may all be well with me.
+en: In return, choose three boons.
+
+@ 00:40:38.900 --> 00:40:45.700  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.10, first half
+sa: शान्तसंकल्पः सुमना यथा स्याद्
+sa: वीतमन्युर्गौतमो माऽभि मृत्यो।
+en: That my father may be calm and kind of heart,
+en: his anger toward me gone, O Death...
+
+@ 00:40:47.800 --> 00:40:54.600  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.13, first half
+sa: स त्वमग्निं स्वर्ग्यमध्येषि मृत्यो
+sa: प्रब्रूहि तं श्रद्दधानाय मह्यम्।
+en: You know the fire that leads to heaven, O Death;
+en: explain it to me, for I have faith.
+
+@ 00:40:56.200 --> 00:41:04.500  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.20, first half
+sa: येयं प्रेते विचिकित्सा मनुष्ये
+sa: अस्तीत्येके नायमस्तीति चैके।
+en: When a man has died, there is this doubt:
+en: some say he is, and some say he is not.
+
+@ 00:41:04.600 --> 00:41:12.800  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.20, second half
+sa: एतद्विद्यामनुशिष्टस्त्वयाहं
+sa: वराणामेष वरस्तृतीयः॥
+en: Taught by you, let me know the truth of it.
+en: Of my boons, this is the third.
+
+@ 00:41:13.100 --> 00:41:19.600  [verse]  {Yama}
+src: Katha Upanishad 1.1.25 and 1.1.21 (phrases)
+note: The play joins phrases from two of Yama's verses.
+sa: नचिकेतो मरणं माऽनुप्राक्षीः।
+sa: अन्यं वरं वृणीष्व।
+en: Nachiketa, do not question me about death.
+en: Choose another boon.
+
+@ 00:41:20.700 --> 00:41:26.500  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.22, last line
+sa: नान्यो वरस्तुल्य एतस्य कश्चित्॥
+en: No other boon is equal to this one.
+
+@ 00:41:26.700 --> 00:41:35.200  [verse]  {Yama}
+src: Katha Upanishad 1.1.23, first half
+sa: शतायुषः पुत्रपौत्रान्वृणीष्व
+sa: बहून्पशून्हस्तिहिरण्यमश्वान्।
+en: Choose sons and grandsons to live a hundred years,
+en: cattle in plenty, elephants, gold and horses;
+
+@ 00:41:35.300 --> 00:41:43.700  [verse]  {Yama}
+src: Katha Upanishad 1.1.23, second half
+sa: भूमेर्महदायतनं वृणीष्व
+sa: स्वयं च जीव शरदो यावदिच्छसि॥
+en: choose a vast estate on the earth,
+en: and live yourself as many autumns as you wish.
+
+@ 00:41:43.800 --> 00:41:52.600  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.27, first half
+sa: न वित्तेन तर्पणीयो मनुष्यो
+sa: लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा।
+en: No one is ever satisfied by wealth.
+en: Having seen you, we shall have wealth enough;
+
+@ 00:41:52.700 --> 00:42:01.300  [verse]  {Nachiketa}
+src: Katha Upanishad 1.1.27, second half
+sa: जीविष्यामो यावदीशिष्यसि त्वं
+sa: वरस्तु मे वरणीयः स एव॥
+en: we shall live as long as you hold sway.
+en: But the boon I choose is that one alone.
+
+@ 00:42:01.400 --> 00:42:10.900  [verse]  {Yama}
+src: Katha Upanishad 1.2.9, first half
+sa: नैषा तर्केण मतिरापनेया
+sa: प्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ।
+en: This insight is not won by argument;
+en: taught by another, dear one, it is truly understood.
+
+@ 00:42:11.000 --> 00:42:19.400  [verse]  {Yama}
+src: Katha Upanishad 1.2.9, second half
+sa: यां त्वमापः सत्यधृतिर्बतासि
+sa: त्वादृङ्नो भूयान्नचिकेतः प्रष्टा॥
+en: You have found it, for you hold fast to truth.
+en: May we always have a questioner like you, Nachiketa!
+
+# ---------------------------------------------------------------------------
+# The road north: Karnataka, Gokarna, the Narmada
+# ---------------------------------------------------------------------------
+
+@ 00:44:09.800 --> 00:44:30.600  [sung]  {Shankara}
+src: Traditional verse, recited at the close of daily worship
+note: Sung on the journey; only parts are clearly audible. As elsewhere in the film's singing, the first line ends "sagaram pratigacchati".
+sa: आकाशात्पतितं तोयं सागरं प्रतिगच्छति।
+sa: सर्वदेवनमस्कारः केशवं प्रतिगच्छति॥
+en: As rain fallen from the sky makes its way to the sea,
+en: so worship of every god goes on to Keshava.
+
+@ 00:45:44.000 --> 00:45:54.500  [verse]  {Shankara}
+src: Bhagavad-gita 11.31, first half
+note: Shankara's vision of the cosmos in its terrible form. Timing within the verse is approximate.
+sa: आख्याहि मे को भवानुग्ररूपो
+sa: नमोऽस्तु ते देववर प्रसीद।
+en: Tell me who You are, so terrible in form.
+en: I bow to You, greatest of gods: be gracious.
+
+@ 00:45:54.600 --> 00:46:05.000  [verse]  {Shankara}
+src: Bhagavad-gita 11.31, second half
+sa: विज्ञातुमिच्छामि भवन्तमाद्यं
+sa: न हि प्रजानामि तव प्रवृत्तिम्॥
+en: I long to know You, the Primal One,
+en: for I do not understand what You are doing.
+
+@ 00:46:17.500 --> 00:46:32.500  [sung]
+src: The Navkar (Namokar) Mantra, Jain, in Prakrit
+note: Jain monks chanting as Shankara passes. The first three lines are clearly audible.
+sa: नमो अरिहंताणं। नमो सिद्धाणं। नमो आयरियाणं।
+sa: नमो उवज्झायाणं। नमो लोए सव्वसाहूणं॥
+en: Homage to the Arihants, to the Siddhas, to the Acharyas,
+en: to the teachers, and to all the holy ones in the world.
+
+@ 00:46:33.400 --> 00:46:58.200  [sung]
+src: Mantrapushpam, Taittiriya Aranyaka 1.22
+note: The same lines are chanted twice.
+sa: आयतनवान् भवति। य एवं वेद।
+sa: योऽपामायतनं वेद।
+en: He finds a firm abode, who knows this.
+en: He who knows the abode of the waters...
+
+@ 00:51:28.000 --> 00:51:32.700  [verse]  {Vishnu}
+src: Bhagavad-gita 2.48, first half (quoted)
+note: Quoted by Shankara's friend Vishnu; only the quotation is given here.
+sa: योगस्थः कुरु कर्माणि
+sa: सङ्गं त्यक्त्वा धनञ्जय।
+en: Established in yoga, do your work, Arjuna,
+en: setting attachment aside.
+
+@ 00:53:17.900 --> 00:53:32.300  [sung]
+src: Hymn to Mitra (Rigveda 3.59.6, in a variant reading)
+sa: ॐ मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।
+sa: सत्यं चित्रश्रवस्तमम्॥
+en: The glory of Mitra, the god who upholds all peoples,
+en: is true, all-winning, and of the brightest renown.
+
+@ 00:53:41.300 --> 00:53:44.300  [verse]  {Shankara}
+src: Jabala Upanishad 4 (quoted)
+note: Quoted to justify renouncing the world without first becoming a householder; only the quotation is given here.
+sa: ब्रह्मचर्यादेव प्रव्रजेत्।
+en: One may renounce straight from studenthood.
+
+@ 00:54:47.700 --> 00:55:00.500  [verse]  {Shankara}
+src: Bhagavad-gita 11.38, first half
+note: Recited to calm the flooding Narmada.
+sa: त्वमादिदेवः पुरुषः पुराणस्
+sa: त्वमस्य विश्वस्य परं निधानम्।
+en: You are the first of gods, the ancient Person,
+en: the final resting place of all this world.
+
+@ 00:55:00.600 --> 00:55:13.200  [verse]  {Shankara}
+src: Bhagavad-gita 11.38, second half
+sa: वेत्तासि वेद्यं च परं च धाम
+sa: त्वया ततं विश्वमनन्तरूप॥
+en: You are the knower and the known, the highest home;
+en: by You, of endless forms, the world is pervaded.
+
+# ---------------------------------------------------------------------------
+# Govinda Bhagavatpada's ashram
+# ---------------------------------------------------------------------------
+
+@ 00:57:37.300 --> 00:57:41.200  [verse]
+src: Bhagavad-gita 2.16, first half (quoted)
+note: Quoted within a conversation about the body and the Self; only the quotation is given here.
+sa: नासतो विद्यते भावो
+sa: नाभावो विद्यते सतः।
+en: What is unreal never comes to be;
+en: what is real never ceases to be.
+
+@ 00:58:13.600 --> 00:58:22.100  [sung]
+src: Chandogya Upanishad 7.25.2
+note: The chant may begin a little earlier, with "atmaivadhastat...", which is not clearly audible.
+sa: आत्मा दक्षिणत आत्मोत्तरत
+sa: आत्मैवेदं सर्वमिति।
+en: The Self is to the south, the Self is to the north;
+en: the Self alone is all this.
+
+@ 00:58:22.200 --> 00:58:28.000  [sung]
+src: Chandogya Upanishad 7.25.2 (continued)
+sa: स वा एष एवं पश्यन्नेवं मन्वान
+sa: एवं विजानन्
+en: One who sees this, who thinks this,
+en: who knows this,
+
+@ 00:58:28.100 --> 00:58:37.700  [sung]
+src: Chandogya Upanishad 7.25.2 (continued)
+sa: आत्मरतिरात्मक्रीड
+sa: आत्ममिथुन आत्मानन्दः स स्वराड्भवति।
+en: rejoicing in the Self, playing in the Self,
+en: one with it, in its bliss, is his own sovereign.
+
+@ 01:04:40.800 --> 01:04:44.500  [verse]  {Shankara}
+src: Chandogya Upanishad 6.1.4 (quoted)
+note: Quoted in an argument with doubters; only the quotation is given here.
+sa: मृत्तिकेत्येव सत्यम्।
+en: Only the clay is real.
+
+# ---------------------------------------------------------------------------
+# The story of Satyakama Jabala (Chandogya Upanishad 4.4)
+# ---------------------------------------------------------------------------
+
+@ 01:05:28.200 --> 01:05:38.400  [verse]  {Shankara}
+src: Chandogya Upanishad 4.4.1
+sa: सत्यकामो ह जाबालो
+sa: जबालां मातरमामन्त्रयाञ्चक्रे।
+en: Satyakama Jabala
+en: once said to his mother, Jabala:
+
+@ 01:05:39.400 --> 01:05:47.400  [verse]  {Shankara}
+src: Chandogya Upanishad 4.4.1 (continued)
+sa: ब्रह्मचर्यं भवति विवत्स्यामि
+sa: किंगोत्रो न्वहमस्मीति॥
+en: "Mother, I wish to become a student of the Veda.
+en: What is my lineage?"
+
+@ 01:07:11.500 --> 01:07:29.900  [verse]  {Jabala}
+src: Chandogya Upanishad 4.4.2
+note: The scene is now acted out, in the Upanishad's own words.
+sa: बह्वहं चरन्ती परिचारिणी
+sa: यौवने त्वामलभे।
+en: In my youth I wandered much, a servant girl,
+en: and then I had you.
+
+@ 01:07:30.000 --> 01:07:37.200  [reconstructed]  {Jabala}
+src: Chandogya Upanishad 4.4.2 (continued)
+note: Placed from the flow of the text and the older subtitles; the words themselves are not clearly audible here.
+sa: साहमेतन्न वेद
+sa: यद्गोत्रस्त्वमसि।
+en: So I do not know
+en: what lineage you are of.
+
+@ 01:07:46.300 --> 01:07:49.500  [verse]  {Jabala}
+src: Chandogya Upanishad 4.4.2 (continued)
+sa: जबाला तु नामाहमस्मि
+sa: सत्यकामो नाम त्वमसि।
+en: But my name is Jabala,
+en: and your name is Satyakama.
+
+@ 01:07:56.000 --> 01:08:03.600  [verse]  {Satyakama}
+src: Chandogya Upanishad 4.4.4 (condensed in the film)
+sa: नाहमेतद्वेद भो यद्गोत्रोऽहमस्मि।
+sa: अपृच्छं मातरं, सा मा प्रत्यब्रवीत्।
+en: I do not know, sir, what my lineage is.
+en: I asked my mother, and she answered me:
+
+@ 01:08:04.200 --> 01:08:11.200  [verse]  {Satyakama}
+src: Chandogya Upanishad 4.4.4 (condensed in the film)
+sa: नाहमेतद्वेद तातेति। जबाला तु नामाहमस्मि
+sa: सत्यकामो नाम त्वमसीति।
+en: "I do not know it, child. My name is Jabala,
+en: and yours is Satyakama."
+
+@ 01:08:11.200 --> 01:08:16.700  [verse]  {Satyakama}
+src: Chandogya Upanishad 4.4.4 (continued)
+sa: सोऽहं सत्यकामो जाबालोऽस्मि भो।
+en: So I am Satyakama Jabala, sir.
+
+@ 01:08:22.300 --> 01:08:34.000  [verse]  {Gautama}
+src: Chandogya Upanishad 4.4.5
+sa: नैतदब्राह्मणो विवक्तुमर्हति।
+sa: समिधं सोम्याहरोप त्वा नेष्ये।
+en: None but a true Brahmin could speak like this.
+en: Fetch the firewood, my boy: I will initiate you.
+
+@ 01:08:34.800 --> 01:08:48.700  [verse]
+src: Mahabharata 12.169.35, Shanti Parva (quoted)
+note: The audio has "yadekata"; the usual reading is "yathaikata".
+sa: नैतादृशं ब्राह्मणस्यास्ति वित्तं
+sa: यथैकता समता सत्यता च।
+en: A Brahmin has no wealth to match this:
+en: oneness, even-mindedness, and truth.
+
+# ---------------------------------------------------------------------------
+# Kashi: Padmapada and Totaka become disciples
+# ---------------------------------------------------------------------------
+
+@ 01:11:23.100 --> 01:11:37.600  [sung]  {Totaka}
+src: Totakashtakam, refrain, by Totaka (Shankara's disciple)
+note: The disciple Giri sings this hymn to his teacher; Shankara then names him Totaka, after its metre.
+sa: भव शङ्कर देशिक मे शरणम्॥
+en: Be my refuge, Shankara, my teacher.
+
+@ 01:11:37.700 --> 01:11:56.900  [sung]  {Totaka}
+src: Totakashtakam, verse 1
+sa: विदिताखिलशास्त्रसुधाजलधे
+sa: महितोपनिषत्कथितार्थनिधे।
+en: Master of the nectar-sea of all the scriptures,
+en: treasury of the truths the Upanishads teach,
+
+@ 01:11:57.000 --> 01:12:12.400  [sung]  {Totaka}
+src: Totakashtakam, verse 1 (continued)
+sa: हृदये कलये विमलं चरणं
+sa: भव शङ्कर देशिक मे शरणम्॥
+en: I hold your spotless feet within my heart:
+en: be my refuge, Shankara, my teacher.
+
+# ---------------------------------------------------------------------------
+# Bhaja Govindam: the old grammarian at Kashi
+# ---------------------------------------------------------------------------
+
+@ 01:12:46.000 --> 01:12:56.700  [sung]  {Shankara}
+src: Bhaja Govindam (attributed to Shankara), verse 1, second half
+note: Sung on seeing an old man still cramming rules of grammar; "dukrn karane" is one of Panini's verb-root entries.
+sa: सम्प्राप्ते सन्निहिते काले
+sa: नहि नहि रक्षति डुकृञ्करणे॥
+en: When the appointed hour draws near,
+en: no rule of grammar will save you.
+
+@ 01:12:59.300 --> 01:13:13.100  [sung]  {Shankara}
+src: Bhaja Govindam, verse beginning "angam galitam"
+sa: अङ्गं गलितं पलितं मुण्डं
+sa: दशनविहीनं जातं तुण्डम्।
+en: The limbs are worn, the head gone grey,
+en: the mouth now empty of its teeth;
+
+@ 01:13:13.200 --> 01:13:27.400  [sung]  {Shankara}
+src: Bhaja Govindam, verse beginning "angam galitam" (continued)
+sa: वृद्धो याति गृहीत्वा दण्डं
+sa: तदपि न मुञ्चत्याशापिण्डम्॥
+en: the old man hobbles on a stick,
+en: and still he clutches at his hopes.
+
+@ 01:13:30.700 --> 01:13:42.600  [sung]  {Shankara}
+src: Bhaja Govindam, refrain
+sa: भज गोविन्दं भज गोविन्दं
+sa: गोविन्दं भज मूढमते।
+en: Worship Govinda, worship Govinda,
+en: worship Govinda, O foolish mind!
+
+@ 01:13:45.100 --> 01:13:56.800  [sung]
+src: Bhaja Govindam, refrain
+sa: भज गोविन्दं भज गोविन्दं
+sa: गोविन्दं भज मूढमते।
+en: Worship Govinda, worship Govinda,
+en: worship Govinda, O foolish mind!
+
+@ 01:13:56.900 --> 01:14:09.100  [sung]
+src: Bhaja Govindam, refrain
+sa: भज गोविन्दं भज गोविन्दं
+sa: गोविन्दं भज मूढमते।
+en: Worship Govinda, worship Govinda,
+en: worship Govinda, O foolish mind!
+
+@ 01:14:10.500 --> 01:14:27.400  [sung]
+src: Bhaja Govindam, refrain
+sa: भज गोविन्दं भज गोविन्दं
+sa: गोविन्दं भज मूढमते।
+en: Worship Govinda, worship Govinda,
+en: worship Govinda, O foolish mind!
+
+@ 01:15:30.800 --> 01:15:44.600  [sung]
+src: Bhaja Govindam, verse beginning "punar api jananam"
+sa: पुनरपि जननं पुनरपि मरणं
+sa: पुनरपि जननीजठरे शयनम्।
+en: Birth again, and death again,
+en: and again to lie in a mother's womb.
+
+@ 01:15:44.800 --> 01:15:59.100  [sung]
+src: Bhaja Govindam, verse beginning "punar api jananam" (continued)
+note: Sung as "khalu dustare"; many editions read "bahu-dustare".
+sa: इह संसारे खलु दुस्तारे
+sa: कृपयाऽपारे पाहि मुरारे॥
+en: This round of worlds is hard to cross:
+en: in your boundless mercy, save me, Murari!
+
+@ 01:16:05.000 --> 01:16:17.500  [sung]
+src: Bhaja Govindam, refrain
+sa: भज गोविन्दं भज गोविन्दं
+sa: गोविन्दं भज मूढमते।
+en: Worship Govinda, worship Govinda,
+en: worship Govinda, O foolish mind!
+
+@ 01:16:51.300 --> 01:16:59.400  [sung]
+src: Traditional verse, recited at the close of daily worship (first half)
+note: Sung with "sagaram pratigacchati", as heard; the usual text reads "yatha gacchati sagaram".
+sa: आकाशात्पतितं तोयं
+sa: सागरं प्रतिगच्छति।
+en: As rain fallen from the sky
+en: makes its way to the sea...
+
+@ 01:17:30.200 --> 01:17:33.000  [verse]  {Shankara}
+src: Katha Upanishad 1.1.28, last line (quoted)
+note: Said to Death, who has come as a boy; only the quotation is given here.
+sa: अतिदीर्घे जीविते को रमेत॥
+en: Who would delight in a life too long?
+
+# ---------------------------------------------------------------------------
+# The Chandala at Kashi: Shankara's reply (Manisha Panchakam)
+# ---------------------------------------------------------------------------
+
+@ 01:18:45.500 --> 01:18:58.000  [verse]  {Shankara}
+src: Manisha Panchakam, verse 2, line 1
+sa: ब्रह्मैवाहम् इदं जगच्च
+sa: सकलं चिन्मात्रविस्तारितम् ।
+en: Brahman alone am I; and all this world
+en: is but an outspreading of pure Consciousness.
+
+@ 01:19:01.400 --> 01:19:05.200  [verse]  {Shankara}
+src: Manisha Panchakam, verse 2, line 2
+sa: सर्वं चैतद् अविद्यया
+sa: त्रिगुणयाशेषं मया कल्पितम् ।
+en: And all of it, without remainder, is conjured by me
+en: through the three-stranded power of ignorance.
+
+@ 01:19:05.300 --> 01:19:16.400  [verse]  {Shankara}
+src: Manisha Panchakam, verse 2, line 3
+sa: इत्थं यस्य दृढा मतिः
+sa: सुखतरे नित्ये परे निर्मले —
+en: He whose conviction stands firm in that
+en: utterly blissful, eternal, supreme, stainless Reality,
+
+@ 01:19:26.400 --> 01:19:32.000  [verse]  {Shankara}
+src: Manisha Panchakam, verse 2, line 4 (the refrain)
+sa: चण्डालोऽस्तु स तु द्विजोऽस्तु
+sa: गुरुरित्येषा मनीषा मम ॥
+en: be he an outcaste, be he a Brahmin, is my Guru:
+en: this is my firm conviction.
+
+@ 01:19:55.800 --> 01:20:06.000  [verse]  {Shankara}
+src: Kashi Panchakam (attributed to Shankara), verse beginning "kashyam hi kashate kashi"
+note: Kashi is named from "kash", to shine: the hymn identifies the holy city with consciousness itself.
+sa: काश्यां हि काशते काशी
+sa: काशी सर्वप्रकाशिका।
+en: Kashi shines out within Kashi:
+en: Kashi is the light that illumines all.
+
+@ 01:20:06.100 --> 01:20:18.900  [verse]  {Shankara}
+src: Kashi Panchakam, verse beginning "kashyam hi kashate kashi" (continued)
+sa: सा काशी विदिता येन
+sa: तेन प्राप्ता हि काशिका॥
+en: Whoever has known that Kashi
+en: has truly arrived in Kashi.
+
+# ---------------------------------------------------------------------------
+# The boy who stares at the sun; the verse on the eye
+# ---------------------------------------------------------------------------
+
+@ 01:22:01.400 --> 01:22:04.300  [verse]
+src: Chandogya Upanishad 6.1.4 (quoted)
+sa: मृत्तिकेत्येव सत्यम्।
+en: Only the clay is real.
+
+@ 01:22:33.000 --> 01:22:43.000  [verse]  {Shankara}
+src: Brihadaranyaka Upanishad 2.2.2
+note: The passage begins earlier, with Rudra in the red lines of the eye, which is not clearly audible.
+sa: अथ या अक्षन्नापस्ताभिः पर्जन्यो
+sa: या कनीनका तयादित्यः।
+en: The water in the eye is the god of rain,
+en: the pupil is the sun;
+
+@ 01:22:43.100 --> 01:22:52.700  [verse]  {Shankara}
+src: Brihadaranyaka Upanishad 2.2.2 (continued)
+sa: यत्कृष्णं तेनाग्निर्यच्छुक्लं तेनेन्द्रः।
+sa: अधरयैनं वर्तन्या पृथिव्यन्वायत्ता।
+en: its black is fire, its white is Indra,
+en: and through the lower eyelid, the earth attends it.
+
+# ---------------------------------------------------------------------------
+# Hastamalaka
+# ---------------------------------------------------------------------------
+
+@ 01:23:35.500 --> 01:23:45.200  [verse]  {Hastamalaka}
+src: Hastamalakiya Stotram, by Hastamalaka (Shankara's disciple)
+note: The boy thought to be mute answers Shankara with this verse; Shankara names him Hastamalaka, "amalaka fruit in the hand".
+sa: समस्तेषु वस्तुष्वनुस्यूतमेकं
+sa: समस्तानि वस्तूनि यन्न स्पृशन्ति।
+en: The One that runs through all things,
+en: yet is touched by none of them,
+
+@ 01:23:45.300 --> 01:23:54.800  [verse]  {Hastamalaka}
+src: Hastamalakiya Stotram (continued)
+sa: वियद्वत्सदा शुद्धमच्छस्वरूपं
+sa: स नित्योपलब्धिस्वरूपोऽहमात्मा॥
+en: ever pure and clear like the sky:
+en: I am that Self, whose nature is eternal awareness.
+
+@ 01:24:46.000 --> 01:24:52.400  [verse]  {Shankara}
+src: Bhagavad-gita 2.69, first half (quoted)
+sa: या निशा सर्वभूतानां
+sa: तस्यां जागर्ति संयमी।
+en: What is night for all beings,
+en: in that the one who is restrained is awake.
+
+# ---------------------------------------------------------------------------
+# The debate on the Brahma Sutras with an old Brahmin (by tradition, Vyasa)
+# ---------------------------------------------------------------------------
+
+@ 01:25:46.200 --> 01:25:54.400  [verse]  {Shankara}
+src: Brahma Sutra 3.1.1
+sa: तदन्तरप्रतिपत्तौ रंहति सम्परिष्वक्तः
+sa: प्रश्ननिरूपणाभ्याम्॥
+en: Passing to another body, the self goes enveloped:
+en: so the question and the answer show.
+
+@ 01:25:58.300 --> 01:26:05.400  [verse]  {Shankara}
+src: Shankara's commentary on the Brahma Sutras, on 3.1.1
+note: The debate follows the wording of Shankara's own commentary closely; only those passages are given here.
+sa: जीवः पूर्वदेहं विहाय देहान्तरं
+sa: प्रतिपद्यत इत्येतदवगतम्।
+en: It is understood that the soul leaves its former body
+en: and passes into another.
+
+@ 01:26:05.600 --> 01:26:15.600  [verse]  {Shankara}
+src: Shankara's commentary on the Brahma Sutras, on 3.1.1
+note: The commentary has "deha-bijair" before "bhuta-sukshmaih" and puts the two alternatives the other way round; the film's wording is slightly simplified.
+sa: स किं भूतसूक्ष्मैः सम्परिष्वक्तो गच्छति
+sa: आहोस्विदसम्परिष्वक्त इति चिन्त्यते।
+en: The question is whether it goes
+en: wrapped in the subtle elements, or not.
+
+@ 01:26:16.000 --> 01:26:27.200  [verse]  {Shankara}
+src: Shankara's commentary on the Brahma Sutras, on 3.1.1
+sa: तदन्तरप्रतिपत्तौ देहान्तरप्रतिपत्तौ
+sa: भूतसूक्ष्मैः सम्परिष्वक्तो रंहति गच्छतीति।
+en: "Passing to another" means to another body:
+en: it goes forth wrapped in the subtle elements.
+
+@ 01:26:27.300 --> 01:26:31.200  [verse]  {Shankara}
+src: Shankara's commentary on the Brahma Sutras, on 3.1.1
+sa: कुतः? प्रश्ननिरूपणाभ्याम्।
+en: How do we know? From the question and the answer.
+
+@ 01:26:31.300 --> 01:26:39.500  [verse]  {Shankara}
+src: Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.3.3
+sa: तथा हि प्रश्नः — वेत्थ यथा पञ्चम्याम्
+sa: आहुतावापः पुरुषवचसो भवन्ति इति।
+en: The question is: "Do you know how, at the fifth offering,
+en: the waters come to be called man?"
+
+@ 01:26:39.600 --> 01:26:49.400  [verse]  {Shankara}
+src: Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.9.1
+sa: निरूपणं च प्रतिवचनं च — इति तु पञ्चम्याम्
+sa: आहुतावापः पुरुषवचसो भवन्ति इति।
+en: And the answer that explains it:
+en: "Thus at the fifth offering the waters are called man."
+
+@ 01:27:11.500 --> 01:27:14.700  [verse]  {Shankara}
+src: Brahma Sutra 3.1.2
+sa: त्र्यात्मकत्वात्तु भूयस्त्वात्॥
+en: But water is threefold,
+en: and named for what predominates in it.
+
+# ---------------------------------------------------------------------------
+# The doctrine of the Five Fires (Chandogya Upanishad 5.4-5.9)
+# ---------------------------------------------------------------------------
+
+@ 01:27:16.300 --> 01:27:25.500  [verse]
+src: Chandogya Upanishad 5.4.1
+sa: असौ वाव लोको गौतमाग्निस्
+sa: तस्यादित्य एव समिद्रश्मयो धूमः
+en: That world is a fire, Gautama:
+en: the sun is its fuel, the rays its smoke,
+
+@ 01:27:25.600 --> 01:27:34.600  [verse]
+src: Chandogya Upanishad 5.4.1 (continued)
+sa: अहरर्चिश्चन्द्रमा अङ्गारा
+sa: नक्षत्राणि विस्फुलिङ्गाः।
+en: the day its flame, the moon its embers,
+en: the stars its sparks.
+
+@ 01:27:34.700 --> 01:27:46.000  [verse]
+src: Chandogya Upanishad 5.4.2
+sa: तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां जुह्वति
+sa: तस्या आहुतेः सोमो राजा सम्भवति॥
+en: Into this fire the gods offer faith;
+en: from that offering King Soma is born.
+
+@ 01:27:46.800 --> 01:27:55.900  [verse]
+src: Chandogya Upanishad 5.5.1
+sa: पर्जन्यो वाव गौतमाग्निस्
+sa: तस्य वायुरेव समिदभ्रं धूमः
+en: The rain-cloud is a fire, Gautama:
+en: the wind its fuel, the mist its smoke,
+
+@ 01:27:56.000 --> 01:28:02.500  [verse]
+src: Chandogya Upanishad 5.5.1 (continued)
+sa: विद्युदर्चिरशनिरङ्गारा
+sa: ह्रादनयो विस्फुलिङ्गाः।
+en: lightning its flame, the thunderbolt its embers,
+en: the rolling thunder its sparks.
+
+@ 01:28:02.600 --> 01:28:13.500  [verse]
+src: Chandogya Upanishad 5.5.2
+sa: तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति
+sa: तस्या आहुतेर्वर्षं सम्भवति॥
+en: Into this fire the gods offer King Soma;
+en: from that offering rain is born.
+
+@ 01:28:13.600 --> 01:28:23.300  [verse]
+src: Chandogya Upanishad 5.6.1
+note: Recognition heard "purusho" here, but the text is "prthivi" (earth), as the feminine "tasyah" that follows confirms.
+sa: पृथिवी वाव गौतमाग्निस्
+sa: तस्याः संवत्सर एव समिदाकाशो धूमः
+en: The earth is a fire, Gautama:
+en: the year its fuel, the sky its smoke,
+
+@ 01:28:23.400 --> 01:28:30.900  [verse]
+src: Chandogya Upanishad 5.6.1 (continued)
+sa: रात्रिरर्चिर्दिशोऽङ्गारा
+sa: अवान्तरदिशो विस्फुलिङ्गाः।
+en: the night its flame, the four quarters its embers,
+en: the points between them its sparks.
+
+@ 01:28:31.000 --> 01:28:40.000  [verse]
+src: Chandogya Upanishad 5.6.2
+sa: तस्मिन्नेतस्मिन्नग्नौ देवा वर्षं जुह्वति
+sa: तस्या आहुतेरन्नं सम्भवति॥
+en: Into this fire the gods offer rain;
+en: from that offering food is born.
+
+@ 01:28:40.500 --> 01:28:49.000  [verse]
+src: Chandogya Upanishad 5.7.1
+sa: पुरुषो वाव गौतमाग्निस्
+sa: तस्य वागेव समित्प्राणो धूमः
+en: Man is a fire, Gautama:
+en: speech its fuel, breath its smoke,
+
+@ 01:28:49.100 --> 01:28:56.500  [verse]
+src: Chandogya Upanishad 5.7.1 (continued)
+sa: जिह्वार्चिश्चक्षुरङ्गाराः
+sa: श्रोत्रं विस्फुलिङ्गाः।
+en: the tongue its flame, the eyes its embers,
+en: the ears its sparks.
+
+@ 01:28:56.600 --> 01:29:06.600  [verse]
+src: Chandogya Upanishad 5.7.2
+sa: तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति
+sa: तस्या आहुते रेतः सम्भवति॥
+en: Into this fire the gods offer food;
+en: from that offering seed is born.
+
+@ 01:29:08.000 --> 01:29:16.400  [verse]
+src: Chandogya Upanishad 5.8.1
+sa: योषा वाव गौतमाग्निस्
+sa: तस्या उपस्थ एव समिद्यदुपमन्त्रयते स धूमः
+en: Woman is a fire, Gautama:
+en: her loins the fuel, the invitation the smoke,
+
+@ 01:29:16.500 --> 01:29:25.500  [verse]
+src: Chandogya Upanishad 5.8.1 (continued)
+sa: योनिरर्चिर्यदन्तः करोति तेऽङ्गारा
+sa: अभिनन्दा विस्फुलिङ्गाः।
+en: the womb the flame, union the embers,
+en: its pleasures the sparks.
+
+@ 01:29:25.600 --> 01:29:34.400  [verse]
+src: Chandogya Upanishad 5.8.2
+sa: तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुह्वति
+sa: तस्या आहुतेर्गर्भः सम्भवति॥
+en: Into this fire the gods offer seed;
+en: from that offering the child in the womb is born.
+
+@ 01:29:34.600 --> 01:29:41.500  [verse]
+src: Chandogya Upanishad 5.9.1
+sa: इति तु पञ्चम्यामाहुतावापः
+sa: पुरुषवचसो भवन्तीति।
+en: So it is that, at the fifth offering,
+en: the waters come to be called man.
+
+@ 01:29:41.600 --> 01:29:51.200  [verse]
+src: Chandogya Upanishad 5.9.1 (continued)
+sa: स उल्बावृतो गर्भो दश वा नव वा
+sa: मासानन्तः शयित्वा यावद्वाथ जायते॥
+en: Wrapped in the caul, the child lies within for ten months,
+en: or nine, or however long, and then is born.
+
+@ 01:29:51.300 --> 01:29:55.000  [verse]
+src: Chandogya Upanishad 5.9.2
+sa: स जातो यावदायुषं जीवति।
+en: Once born, he lives out his allotted span.
+
+@ 01:29:55.100 --> 01:30:03.800  [verse]
+src: Chandogya Upanishad 5.9.2 (continued)
+sa: तं प्रेतं दिष्टमितोऽग्नय एव हरन्ति
+sa: यत एवेतो यतः सम्भूतो भवति॥
+en: When he has died, they carry him to the fire,
+en: back to where he came from, where he was born.
+
+# ---------------------------------------------------------------------------
+# Kumarila Bhatta, and the road to Mahishmati
+# ---------------------------------------------------------------------------
+
+@ 01:35:01.400 --> 01:35:03.700  [sung]
+src: Traditional verse, recited at the close of daily worship (opening words)
+sa: आकाशात्पतितं तोयं…
+en: As rain fallen from the sky...
+
+@ 01:36:02.200 --> 01:36:13.300  [sung]
+src: Traditional prayer to the Narmada, said for protection from snakes
+note: Often attributed to the Vishnu Purana; we have not been able to confirm this.
+sa: नर्मदायै नमः प्रातर्नर्मदायै नमो निशि।
+sa: नमोऽस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः॥
+en: Homage to the Narmada at dawn and at night;
+en: homage to you, Narmada: guard me from serpents' venom.
+
+@ 01:36:13.400 --> 01:36:24.000  [sung]
+src: Hymn to Mitra (Rigveda 3.59.6, in a variant reading)
+sa: मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।
+sa: सत्यं चित्रश्रवस्तमम्॥
+en: The glory of Mitra, the god who upholds all peoples,
+en: is true, all-winning, and of the brightest renown.
+
+@ 01:36:27.600 --> 01:36:31.400  [sung]
+src: Hymn to Mitra (Rigveda 3.59.1, in a variant reading), opening words
+sa: मित्रो जनान्यातयति प्रजानन्…
+en: Mitra, knowing all, sets the peoples in order...
+
+# ---------------------------------------------------------------------------
+# The debate with Mandana Mishra
+# ---------------------------------------------------------------------------
+
+@ 01:38:49.800 --> 01:38:52.900  [verse]  {Mandana Mishra}
+src: Vedic injunction, often cited in Mimamsa (quoted)
+note: Mandana cites it to argue that ritual action is a lifelong duty. Exact source to be confirmed.
+sa: यावज्जीवमग्निहोत्रं जुहोति।
+en: As long as he lives, he offers the Agnihotra.
+
+@ 01:43:33.800 --> 01:43:38.000  [verse]  {Shankara}
+src: Purusha Sukta, Taittiriya Aranyaka 3.12.7 (quoted)
+note: Quoted only as far as "nanyah pantha". A similar line is in the Shvetashvatara Upanishad, 3.8.
+sa: तमेवं विद्वानमृत इह भवति।
+sa: नान्यः पन्था…
+en: Knowing Him thus, one becomes immortal here and now:
+en: there is no other way...
+
+@ 01:45:33.800 --> 01:45:36.400  [verse]  {Ubhaya Bharati}
+src: Taittiriya Upanishad 2.4.1 (quoted)
+note: Only the quotation is given here.
+sa: यतो वाचो निवर्तन्ते…
+en: That from which words turn back...
+
+@ 01:46:03.400 --> 01:46:22.300  [verse]
+src: Mundaka Upanishad 3.2.8
+sa: यथा नद्यः स्यन्दमानाः समुद्रे
+sa: अस्तं गच्छन्ति नामरूपे विहाय।
+en: As flowing rivers vanish into the ocean,
+en: leaving behind their names and forms,
+
+@ 01:46:25.000 --> 01:46:36.500  [verse]
+src: Mundaka Upanishad 3.2.8 (continued)
+sa: तथा विद्वान्नामरूपाद्विमुक्तः
+sa: परात्परं पुरुषमुपैति दिव्यम्॥
+en: so the knower, freed from name and form,
+en: reaches the divine Person, beyond the beyond.
+
+@ 01:46:56.200 --> 01:47:26.600  [sung]  {Shankara}
+src: Nirvana Shatkam (Atma Shatkam), verse 4 (attributed to Shankara)
+sa: न पुण्यं न पापं न सौख्यं न दुःखं
+sa: न मन्त्रो न तीर्थं न वेदा न यज्ञाः।
+en: No merit, no sin; no pleasure, no pain;
+en: no mantra, no pilgrimage, no Vedas, no sacrifice.
+
+@ 01:47:26.700 --> 01:47:54.400  [sung]  {Shankara}
+src: Nirvana Shatkam, verse 4 (continued)
+sa: अहं भोजनं नैव भोज्यं न भोक्ता
+sa: चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥
+en: Not the eating, not the food, not the one who eats:
+en: I am consciousness and bliss. I am Shiva, I am Shiva.
+
+# ---------------------------------------------------------------------------
+# Sringeri: the goddess Sharada
+# ---------------------------------------------------------------------------
+
+@ 01:49:05.000 --> 01:49:22.700  [sung]
+src: Prapanchasara Tantra, opening verse, in praise of Sharada (attributed to Shankara)
+note: Editions differ in the second line; ours follows the audio ("madhyakshirupa").
+sa: अकचटतपयाद्यैः सप्तभिर्वर्णवर्गैर्
+sa: विरचितमुखबाहापादमध्याक्षिरूपा।
+en: Whose face, arms, feet, waist and eyes are made
+en: of the seven groups of letters, from a to ya:
+
+@ 01:49:22.800 --> 01:49:46.000  [sung]
+src: Hymn to Sharada (continued)
+sa: सकलजगदधीशा शाश्वता विश्वयोनिः
+sa: वितरतु परिशुद्धिं चेतसः शारदा वः॥
+en: ruler of all the worlds, eternal, the source of all:
+en: may Sharada grant your minds their purity.
+
+@ 01:52:44.700 --> 01:52:53.800  [sung]
+src: Mantra to Agni, Yajurveda (Vajasaneyi Samhita 17.79)
+note: Recovered from the pass with the voice filter off; heavily garbled but unmistakable. The Samhita ends the verse with "svaha", which is not clearly audible here.
+sa: सप्त ते अग्ने समिधः सप्त जिह्वाः
+sa: सप्त ऋषयः सप्त धाम प्रियाणि।
+en: Seven are your fuel-sticks, Agni, seven your tongues,
+en: seven your seers, seven your beloved abodes;
+
+@ 01:52:53.900 --> 01:53:03.600  [sung]
+src: Mantra to Agni (continued)
+sa: सप्त होत्राः सप्तधा त्वा यजन्ति
+sa: सप्त योनीरापृणस्व घृतेन॥
+en: seven priests worship you in seven ways:
+en: fill your seven sources with ghee.
+
+# ---------------------------------------------------------------------------
+# The Annapurna Stotram
+# ---------------------------------------------------------------------------
+
+@ 02:01:38.200 --> 02:01:59.000  [sung]
+src: Annapurna Stotram (attributed to Shankara), verse beginning "nityanandakari"
+note: Readings follow the audio where editions differ. Every line has been checked against the metre (shardulavikridita).
+sa: नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी
+sa: निर्धूताखिलघोरपावनकरी प्रत्यक्षमाहेश्वरी।
+en: Ever-joyful, granting boons and fearlessness,
+en: sea of beauty, great Goddess who washes sin away,
+
+@ 02:01:59.100 --> 02:02:21.000  [sung]
+src: Annapurna Stotram, verse beginning "nityanandakari" (continued)
+sa: प्रालेयाचलवंशपावनकरी काशीपुराधीश्वरी
+sa: भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥
+en: purifier of the Himalaya's royal line:
+en: Queen of Kashi, gracious Annapurna, give me alms!
+
+@ 02:02:33.800 --> 02:02:57.500  [sung]
+src: Annapurna Stotram, verse beginning "drshyadrshya"
+sa: दृश्यादृश्यविभूतिवाहनकरी ब्रह्माण्डभाण्डोदरी
+sa: लीलानाटकसूत्रखेलनकरी विज्ञानदीपाङ्कुरी।
+en: Womb of the universe, bearer of all its glories,
+en: who plays out the drama of the world, flame of wisdom,
+
+@ 02:02:57.600 --> 02:03:22.900  [sung]
+src: Annapurna Stotram, verse beginning "drshyadrshya" (continued)
+sa: श्रीविश्वेशमनःप्रसादनकरी काशीपुराधीश्वरी
+sa: भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥
+en: you who gladden the heart of Vishvanatha:
+en: Queen of Kashi, gracious Annapurna, give me alms!
+
+@ 02:03:34.500 --> 02:03:54.000  [sung]
+src: Annapurna Stotram, verse beginning "yogananda"
+sa: योगानन्दकरी रिपुक्षयकरी धर्मैकनिष्ठाकरी
+sa: चन्द्रार्कानलभासमानलहरी त्रैलोक्यरक्षाकरी।
+en: Bliss of yoga, slayer of foes, upholder of dharma,
+en: bright as sun, moon and fire, guarding the three worlds,
+
+@ 02:03:54.100 --> 02:04:14.000  [sung]
+src: Annapurna Stotram, verse beginning "yogananda" (continued)
+sa: सर्वैश्वर्यकरी तपःफलकरी काशीपुराधीश्वरी
+sa: भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥
+en: giver of all power, and of the fruit of penance:
+en: Queen of Kashi, gracious Annapurna, give me alms!
+
+@ 02:04:24.000 --> 02:04:45.000  [sung]
+src: Annapurna Stotram, verse beginning "devi sarvavicitra"
+sa: देवी सर्वविचित्ररत्नरुचिरा दाक्षायणी सुन्दरी
+sa: वामा स्वादुपयोधरा प्रियकरी सौभाग्यमाहेश्वरी।
+en: Goddess bright with every jewel, Dakshayani, the fair,
+en: gracious, nourishing, loving, goddess of good fortune,
+
+@ 02:04:45.100 --> 02:05:05.000  [sung]
+src: Annapurna Stotram, verse beginning "devi sarvavicitra" (continued)
+sa: भक्ताभीष्टकरी सदा शुभकरी काशीपुराधीश्वरी
+sa: भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥
+en: granting the devotee's wish, ever bringing good:
+en: Queen of Kashi, gracious Annapurna, give me alms!
+
+@ 02:05:12.500 --> 02:05:35.500  [sung]
+src: Annapurna Stotram, verse beginning "urvi sarvajaneshvari"
+sa: उर्वी सर्वजनेश्वरी जयकरी माता कृपासागरी
+sa: वेणीनीलसमानकुन्तलधरी नित्यान्नदानेश्वरी।
+en: Queen of the earth and all its peoples, sea of mercy,
+en: her hair dark as a braid of blue, giver of daily food,
+
+@ 02:05:35.600 --> 02:06:01.500  [sung]
+src: Annapurna Stotram, verse beginning "urvi sarvajaneshvari" (continued)
+sa: साक्षान्मोक्षकरी सदा शुभकरी काशीपुराधीश्वरी
+sa: भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥
+en: giver of liberation itself, ever bringing good:
+en: Queen of Kashi, gracious Annapurna, give me alms!
+
+@ 02:06:41.700 --> 02:06:43.600  [verse]  {Shankara}
+src: Annapurna Stotram, closing verse (quoted)
+note: Shankara's answer when asked where he will live; only the quotation is given here.
+sa: स्वदेशो भुवनत्रयम्।
+en: My homeland is the three worlds.
+
+# ---------------------------------------------------------------------------
+# The death of Shankara's mother
+# ---------------------------------------------------------------------------
+
+@ 02:09:40.500 --> 02:09:56.000  [sung]
+src: Vedasara Shiva Stava (attributed to Shankara), verse beginning "paratmanam ekam"
+note: The same verse as at 0:08:03, now sung in full.
+sa: परात्मानमेकं जगद्बीजमाद्यं
+sa: निरीहं निराकारमोङ्कारवेद्यम्।
+en: The supreme Self, the One, the first seed of the world,
+en: free of desire, formless, known through Om:
+
+@ 02:09:56.100 --> 02:10:13.500  [sung]
+src: Vedasara Shiva Stava, verse beginning "paratmanam ekam" (continued)
+sa: यतो जायते पाल्यते येन विश्वं
+sa: तमीशं भजे लीयते यत्र विश्वम्॥
+en: from whom the world is born, by whom it is sustained,
+en: I worship that Lord, in whom the world dissolves.
+
+@ 02:11:14.500 --> 02:11:19.500  [verse]  {Shankara}
+src: Traditional verse (quoted)
+note: Shankara's answer when told that scripture forbids a monk to perform his mother's funeral rites. A widely quoted line; its source is to be confirmed.
+sa: निस्त्रैगुण्ये पथि विचरतां
+sa: को विधिः को निषेधः॥
+en: For those who walk the path beyond the three gunas,
+en: what is enjoined, and what forbidden?
+
+@ 02:12:09.500 --> 02:12:20.500  [sung]
+src: Traditional verse on detachment
+note: A well-known traditional verse; its source is to be confirmed. The first words are not clearly audible.
+sa: माता नास्ति पिता नास्ति
+sa: नास्ति बन्धुः सहोदरः।
+en: No mother, no father,
+en: no kinsman, no brother;
+
+@ 02:12:20.600 --> 02:12:31.900  [sung]
+src: Traditional verse on detachment (continued)
+sa: अर्थो नास्ति गृहं नास्ति
+sa: तस्माज्जाग्रत जाग्रत॥
+en: no wealth, no home:
+en: so wake up, wake up!
+
+@ 02:12:32.700 --> 02:12:38.600  [sung]
+src: Traditional verse on detachment (refrain)
+sa: तस्माज्जाग्रत जाग्रत॥
+en: So wake up, wake up!
+
+# ---------------------------------------------------------------------------
+# Kashmir: the throne of all knowledge
+# ---------------------------------------------------------------------------
+
+@ 02:14:03.800 --> 02:14:21.000  [sung]
+src: Saundarya Lahari, verse 4 (attributed to Shankara)
+sa: त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः
+sa: त्वमेका नैवासि प्रकटितवराभीत्यभिनया।
+en: Other gods raise a hand to grant boons and safety;
+en: you alone make no such sign,
+
+@ 02:14:21.100 --> 02:14:42.000  [sung]
+src: Saundarya Lahari, verse 4 (continued)
+sa: भयात्त्रातुं दातुं फलमपि च वाञ्छासमधिकं
+sa: शरण्ये लोकानां तव हि चरणावेव निपुणौ॥
+en: for to save from fear, and give more than is wished,
+en: your feet alone suffice, refuge of the worlds.
+
+# ---------------------------------------------------------------------------
+# Raikva and King Janashruti; the Kapalika
+# ---------------------------------------------------------------------------
+
+@ 02:19:00.500 --> 02:19:02.900  [verse]
+src: Chandogya Upanishad 4.3.3 (quoted)
+note: From the story of Raikva and King Janashruti; only the Upanishad's words are given here.
+sa: प्राणो वाव संवर्गः।
+en: Breath, truly, is the gatherer.
+
+@ 02:19:10.800 --> 02:19:23.000  [verse]
+src: Chandogya Upanishad 4.3.3 (quoted)
+sa: प्राणमेव वागप्येति प्राणं चक्षुः
+sa: प्राणं श्रोत्रं प्राणं मनः। प्राणो ह्येवैतान्सर्वान्संवृङ्क्ते॥
+en: Speech goes into breath, and the eye, the ear, the mind:
+en: breath gathers all of them into itself.
+
+@ 02:21:27.200 --> 02:21:28.800  [verse]
+src: Brihadaranyaka Upanishad 1.4.10 (quoted)
+note: Thrown back at Shankara mockingly by a Kapalika who wants to sacrifice him; only the quotation is given here.
+sa: अहं ब्रह्मास्मि।
+en: I am Brahman.
+
+@ 02:23:17.600 --> 02:23:33.000  [sung]  {Shankara}
+src: Saundarya Lahari, verse 27 (attributed to Shankara)
+note: Shankara's prayer as he offers his body to the Kapalika.
+sa: जपो जल्पः शिल्पं सकलमपि मुद्राविरचना
+sa: गतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः।
+en: Let my chatter be prayer, every gesture a mudra,
+en: my walking a circling of you, my eating an offering,
+
+@ 02:23:33.100 --> 02:23:53.400  [sung]  {Shankara}
+src: Saundarya Lahari, verse 27 (continued)
+sa: प्रणामः संवेशः सुखमखिलमात्मार्पणदृशा
+sa: सपर्यापर्यायस्तव भवतु यन्मे विलसितम्॥
+en: my lying down a prostration, all my joys self-giving:
+en: may all that I do become your worship.
+
+# ---------------------------------------------------------------------------
+# The last journeys
+# ---------------------------------------------------------------------------
+
+@ 02:30:19.700 --> 02:30:38.000  [sung]
+src: Saundarya Lahari, verse 46
+sa: ललाटं लावण्यद्युतिविमलमाभाति तव यद्
+sa: द्वितीयं तन्मन्ये मकुटघटितं चन्द्रशकलम्।
+en: Your brow, shining with the pure light of beauty,
+en: seems a second crescent, beside the one in your crown;
+
+@ 02:30:43.800 --> 02:30:56.700  [sung]
+src: Saundarya Lahari, verse 46 (continued)
+sa: विपर्यासन्यासादुभयमपि सम्भूय च मिथः
+sa: सुधालेपस्यूतिः परिणमति राकाहिमकरः॥
+en: set together the other way round, the two would join,
+en: sealed with nectar, into the full moon.
+
+@ 02:31:04.000 --> 02:31:21.600  [sung]
+src: Saundarya Lahari, verse 75
+sa: तव स्तन्यं मन्ये धरणिधरकन्ये हृदयतः
+sa: पयःपारावारः परिवहति सारस्वतमिव।
+en: Mountain-born mother, the milk from your heart
+en: is an ocean, I think, of Sarasvati's eloquence;
+
+@ 02:31:24.000 --> 02:31:45.000  [sung]
+src: Saundarya Lahari, verse 75 (continued)
+note: Tradition reads the "Dravida child" as the Tamil saint Jnanasambandar, or as Shankara himself.
+sa: दयावत्या दत्तं द्रविडशिशुरास्वाद्य तव यत्
+sa: कवीनां प्रौढानामजनि कमनीयः कवयिता॥
+en: tasting what you gave in mercy, the Dravida child
+en: became a poet, beloved among the great poets.
+
+@ 02:31:55.400 --> 02:31:58.000  [verse]  {Shankara}
+src: Katha Upanishad 1.3.14 (quoted)
+note: Only the quotation is given here.
+sa: उत्तिष्ठत। जाग्रत।
+en: Arise! Awake!
+
+@ 02:32:57.000 --> 02:33:01.400  [reconstructed]
+src: Taittiriya Upanishad 3.10.5
+note: Recognition looped on this one phrase. The chant probably passes through all five "selves" (food, breath, mind, understanding, bliss) and may begin well before this. Needs a careful listen.
+sa: एतं प्राणमयमात्मानमुपसंक्रम्य…
+en: Passing beyond this self made of breath...
+
+@ 02:34:32.500 --> 02:34:43.000  [verse]
+src: Avadhuta Gita 1.1, first half (quoted)
+note: The film follows it with a line of its own, which is not given here.
+sa: ईश्वरानुग्रहादेव
+sa: पुंसामद्वैतवासना।
+en: Only by the grace of God
+en: does the longing for non-duality arise in a person.
+
+# ---------------------------------------------------------------------------
+# The Himalayas: the final ascent
+# ---------------------------------------------------------------------------
+
+@ 02:37:25.800 --> 02:37:35.000  [verse]  {Shankara}
+src: Bhagavad-gita 18.51, first half
+note: The film strings together verses 18.51, 18.49 and 18.53.
+sa: बुद्ध्या विशुद्धया युक्तो
+sa: धृत्यात्मानं नियम्य च।
+en: Joined to a purified understanding,
+en: mastering himself with steadiness,
+
+@ 02:37:35.100 --> 02:37:46.800  [verse]  {Shankara}
+src: Bhagavad-gita 18.51, second half
+sa: शब्दादीन्विषयांस्त्यक्त्वा
+sa: रागद्वेषौ व्युदस्य च॥
+en: letting go of sound and the other objects of sense,
+en: casting off attraction and aversion,
+
+@ 02:37:46.900 --> 02:38:04.900  [verse]  {Shankara}
+src: Bhagavad-gita 18.49
+sa: असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।
+sa: नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति॥
+en: Unattached in mind, self-mastered, free of longing,
+en: he reaches, through renunciation, perfect actionlessness.
+
+@ 02:38:05.000 --> 02:38:22.100  [verse]  {Shankara}
+src: Bhagavad-gita 18.53
+sa: अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।
+sa: विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते॥
+en: Free of ego, force, pride, desire, anger and grasping,
+en: selfless and at peace, he is fit to become Brahman.
+
+@ 02:38:56.400 --> 02:39:04.600  [sung]
+src: Traditional verse, recited at the close of daily worship (first half)
+note: The film ends as it began. Sung with "sagaram pratigacchati", as heard.
+sa: आकाशात्पतितं तोयं
+sa: सागरं प्रतिगच्छति।
+en: As rain fallen from the sky
+en: makes its way to the sea...
+
+@ 02:39:04.700 --> 02:39:17.000  [sung]
+src: Traditional verse, recited at the close of daily worship (first half, repeated)
+sa: आकाशात्पतितं तोयं
+sa: सागरं प्रतिगच्छति।
+en: As rain fallen from the sky
+en: makes its way to the sea...
+
+@ 02:39:21.500 --> 02:39:39.300  [sung]
+src: Peace invocation of the Isha Upanishad (also Brihadaranyaka Upanishad 5.1.1)
+sa: ॐ पूर्णमदः पूर्णमिदं
+sa: पूर्णात्पूर्णमुदच्यते।
+en: That is whole; this is whole;
+en: from the whole, the whole comes forth.
+
+@ 02:39:39.400 --> 02:39:48.000  [sung]
+src: Peace invocation of the Isha Upanishad (continued)
+sa: पूर्णस्य पूर्णमादाय
+sa: पूर्णमेवावशिष्यते॥
+en: Take the whole from the whole,
+en: and the whole alone remains.

@@ -1,0 +1,4197 @@
+[
+ {
+  "id": 1,
+  "start": "00:00:53.900",
+  "end": "00:01:10.600",
+  "start_seconds": 53.9,
+  "end_seconds": 70.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Gayatri mantra, Rigveda 3.62.10",
+  "devanagari": [
+   "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।",
+   "धियो यो नः प्रचोदयात्॥"
+  ],
+  "iast": [
+   "oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |",
+   "dhiyo yo naḥ pracodayāt ||"
+  ],
+  "english": [
+   "Om. We meditate on the divine Sun's glorious light;",
+   "may it awaken our minds."
+  ],
+  "note": ""
+ },
+ {
+  "id": 2,
+  "start": "00:03:45.400",
+  "end": "00:03:54.000",
+  "start_seconds": 225.4,
+  "end_seconds": 234.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Hymn to Mitra (Rigveda 3.59.6, in a variant reading)",
+  "devanagari": [
+   "मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।",
+   "सत्यं चित्रश्रवस्तमम्॥"
+  ],
+  "iast": [
+   "mitrasya carṣaṇīdhṛtaḥ śravo devasya sānasim |",
+   "satyaṃ citraśravastamam ||"
+  ],
+  "english": [
+   "The glory of Mitra, the god who upholds all peoples,",
+   "is true, all-winning, and of the brightest renown."
+  ],
+  "note": "The chant clearly has \"shravo ... sanasim ... satyam\", where the Rigveda has \"avo ... sanasi ... dyumnam\". We believe this is the Yajurveda reading, but have not yet confirmed its source. The same verse is chanted again at 0:53:17 and 1:36:13."
+ },
+ {
+  "id": 3,
+  "start": "00:03:54.100",
+  "end": "00:04:05.000",
+  "start_seconds": 234.1,
+  "end_seconds": 245.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Hymn to Mitra (Rigveda 3.59.1, in a variant reading), first half",
+  "devanagari": [
+   "मित्रो जनान्यातयति प्रजानन्",
+   "मित्रो दाधार पृथिवीमुत द्याम्।"
+  ],
+  "iast": [
+   "mitro janānyātayati prajānan",
+   "mitro dādhāra pṛthivīmuta dyām |"
+  ],
+  "english": [
+   "Mitra, knowing all, sets the peoples in order;",
+   "Mitra holds up the earth and the sky."
+  ],
+  "note": "Only the first half is clearly identifiable. The chant has \"prajanan\" (knowing) where the Rigveda has \"bruvanah\" (speaking), apparently the same variant tradition as the verse above; the line is heard again at 1:36:27."
+ },
+ {
+  "id": 4,
+  "start": "00:04:17.700",
+  "end": "00:04:31.260",
+  "start_seconds": 257.7,
+  "end_seconds": 271.26,
+  "type": "sung",
+  "speaker": "",
+  "source": "The Three Refuges (Buddhist)",
+  "devanagari": [
+   "बुद्धं शरणं गच्छामि। धम्मं शरणं गच्छामि।",
+   "सङ्घं शरणं गच्छामि।"
+  ],
+  "iast": [
+   "buddhaṃ śaraṇaṃ gacchāmi | dhammaṃ śaraṇaṃ gacchāmi |",
+   "saṅghaṃ śaraṇaṃ gacchāmi |"
+  ],
+  "english": [
+   "I take refuge in the Buddha. I take refuge in the Dharma.",
+   "I take refuge in the Sangha."
+  ],
+  "note": "Buddhist chanting breaks in on the Vedic worship."
+ },
+ {
+  "id": 5,
+  "start": "00:04:31.300",
+  "end": "00:04:44.700",
+  "start_seconds": 271.3,
+  "end_seconds": 284.7,
+  "type": "sung",
+  "speaker": "",
+  "source": "Gayatri mantra, Rigveda 3.62.10",
+  "devanagari": [
+   "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।",
+   "धियो यो नः प्रचोदयात्॥"
+  ],
+  "iast": [
+   "oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |",
+   "dhiyo yo naḥ pracodayāt ||"
+  ],
+  "english": [
+   "Om. We meditate on the divine Sun's glorious light;",
+   "may it awaken our minds."
+  ],
+  "note": "The Vedic chant resumes over the Buddhist one."
+ },
+ {
+  "id": 6,
+  "start": "00:05:50.300",
+  "end": "00:06:04.900",
+  "start_seconds": 350.3,
+  "end_seconds": 364.9,
+  "type": "sung",
+  "speaker": "",
+  "source": "Rigveda 1.90.6",
+  "devanagari": [
+   "मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः।",
+   "माध्वीर्नः सन्त्वोषधीः॥"
+  ],
+  "iast": [
+   "madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ |",
+   "mādhvīrnaḥ santvoṣadhīḥ ||"
+  ],
+  "english": [
+   "The winds blow honey-sweet for the righteous,",
+   "the rivers run sweet; may the plants be sweet for us."
+  ],
+  "note": ""
+ },
+ {
+  "id": 7,
+  "start": "00:06:05.900",
+  "end": "00:06:19.560",
+  "start_seconds": 365.9,
+  "end_seconds": 379.56,
+  "type": "sung",
+  "speaker": "",
+  "source": "Rigveda 1.90.6 (repeated)",
+  "devanagari": [
+   "मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः।",
+   "माध्वीर्नः सन्त्वोषधीः॥"
+  ],
+  "iast": [
+   "madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ |",
+   "mādhvīrnaḥ santvoṣadhīḥ ||"
+  ],
+  "english": [
+   "The winds blow honey-sweet for the righteous,",
+   "the rivers run sweet; may the plants be sweet for us."
+  ],
+  "note": ""
+ },
+ {
+  "id": 8,
+  "start": "00:06:19.600",
+  "end": "00:06:30.000",
+  "start_seconds": 379.6,
+  "end_seconds": 390.0,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Rigveda 1.90.7",
+  "devanagari": [
+   "मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः।",
+   "मधु द्यौरस्तु नः पिता॥"
+  ],
+  "iast": [
+   "madhu naktamutoṣaso madhumatpārthivaṃ rajaḥ |",
+   "madhu dyaurastu naḥ pitā ||"
+  ],
+  "english": [
+   "Sweet be the night and the dawns, sweet the earth's air;",
+   "sweet be Heaven, our father."
+  ],
+  "note": "Heavily garbled in recognition; identified because these verses conventionally follow 1.90.6. Needs a careful listen."
+ },
+ {
+  "id": 9,
+  "start": "00:06:30.100",
+  "end": "00:06:40.600",
+  "start_seconds": 390.1,
+  "end_seconds": 400.6,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Rigveda 1.90.8",
+  "devanagari": [
+   "मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः।",
+   "माध्वीर्गावो भवन्तु नः॥"
+  ],
+  "iast": [
+   "madhumānno vanaspatirmadhumā̃ astu sūryaḥ |",
+   "mādhvīrgāvo bhavantu naḥ ||"
+  ],
+  "english": [
+   "Sweet be the trees to us, and sweet the sun;",
+   "sweet be the cows to us."
+  ],
+  "note": "As above; the word \"suryah\" is audible."
+ },
+ {
+  "id": 10,
+  "start": "00:06:53.800",
+  "end": "00:07:01.800",
+  "start_seconds": 413.8,
+  "end_seconds": 421.8,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhagavad-gita 8.12, second half",
+  "devanagari": [
+   "मूर्ध्न्याधायात्मनः प्राणम्",
+   "आस्थितो योगधारणाम्।"
+  ],
+  "iast": [
+   "mūrdhnyādhāyātmanaḥ prāṇam",
+   "āsthito yogadhāraṇām |"
+  ],
+  "english": [
+   "...holding the life-breath at the crown of the head,",
+   "steadfast in the discipline of yoga,"
+  ],
+  "note": "Timing within this passage is approximate until word-level timings are checked."
+ },
+ {
+  "id": 11,
+  "start": "00:07:01.900",
+  "end": "00:07:06.300",
+  "start_seconds": 421.9,
+  "end_seconds": 426.3,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Bhagavad-gita 8.13, first half",
+  "devanagari": [
+   "ओमित्येकाक्षरं ब्रह्म",
+   "व्याहरन्मामनुस्मरन्।"
+  ],
+  "iast": [
+   "omityekākṣaraṃ brahma",
+   "vyāharanmāmanusmaran |"
+  ],
+  "english": [
+   "uttering Om, the one syllable that is Brahman,",
+   "and remembering Me,"
+  ],
+  "note": "Only fragments are audible; identified from 8.12 above."
+ },
+ {
+  "id": 12,
+  "start": "00:07:06.400",
+  "end": "00:07:10.900",
+  "start_seconds": 426.4,
+  "end_seconds": 430.9,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Bhagavad-gita 8.13, second half",
+  "devanagari": [
+   "यः प्रयाति त्यजन्देहं",
+   "स याति परमां गतिम्॥"
+  ],
+  "iast": [
+   "yaḥ prayāti tyajandehaṃ",
+   "sa yāti paramāṃ gatim ||"
+  ],
+  "english": [
+   "whoever departs, leaving the body,",
+   "reaches the highest goal."
+  ],
+  "note": "Only fragments are audible; identified from 8.12 above."
+ },
+ {
+  "id": 13,
+  "start": "00:08:03.600",
+  "end": "00:08:17.500",
+  "start_seconds": 483.6,
+  "end_seconds": 497.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Vedasara Shiva Stava (attributed to Shankara), verse beginning \"paratmanam ekam\"",
+  "devanagari": [
+   "परात्मानमेकं जगद्बीजमाद्यं",
+   "निरीहं निराकारमोङ्कारवेद्यम्।"
+  ],
+  "iast": [
+   "parātmānamekaṃ jagadbījamādyaṃ",
+   "nirīhaṃ nirākāramoṅkāravedyam |"
+  ],
+  "english": [
+   "The supreme Self, the One, the first seed of the world,",
+   "free of desire, formless, known through Om."
+  ],
+  "note": ""
+ },
+ {
+  "id": 14,
+  "start": "00:10:04.000",
+  "end": "00:10:15.500",
+  "start_seconds": 604.0,
+  "end_seconds": 615.5,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Isha Upanishad 17",
+  "devanagari": [
+   "वायुरनिलममृतमथेदं",
+   "भस्मान्तं शरीरम्।"
+  ],
+  "iast": [
+   "vāyuranilamamṛtamathedaṃ",
+   "bhasmāntaṃ śarīram |"
+  ],
+  "english": [
+   "Let my breath return to the deathless wind,",
+   "and this body end in ashes."
+  ],
+  "note": "Only \"amrtam athedam bhasmantam\" is clearly audible. The older subtitles place a related line near 0:09:31, so the start time needs checking."
+ },
+ {
+  "id": 15,
+  "start": "00:11:00.500",
+  "end": "00:11:06.000",
+  "start_seconds": 660.5,
+  "end_seconds": 666.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Gayatri mantra, Rigveda 3.62.10",
+  "devanagari": [
+   "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।",
+   "धियो यो नः प्रचोदयात्॥"
+  ],
+  "iast": [
+   "oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |",
+   "dhiyo yo naḥ pracodayāt ||"
+  ],
+  "english": [
+   "Om. We meditate on the divine Sun's glorious light;",
+   "may it awaken our minds."
+  ],
+  "note": "Only the end of the mantra is audible; it probably begins earlier."
+ },
+ {
+  "id": 16,
+  "start": "00:11:15.400",
+  "end": "00:11:19.200",
+  "start_seconds": 675.4,
+  "end_seconds": 679.2,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Ritual formula of the young student begging alms",
+  "devanagari": [
+   "भवति भिक्षां देहि।"
+  ],
+  "iast": [
+   "bhavati bhikṣāṃ dehi |"
+  ],
+  "english": [
+   "Revered lady, give me alms."
+  ],
+  "note": ""
+ },
+ {
+  "id": 17,
+  "start": "00:12:48.800",
+  "end": "00:13:03.000",
+  "start_seconds": 768.8,
+  "end_seconds": 783.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Traditional verse, recited at the close of daily worship",
+  "devanagari": [
+   "आकाशात्पतितं तोयं यथा गच्छति सागरम्।",
+   "सर्वदेवनमस्कारः केशवं प्रतिगच्छति॥"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ yathā gacchati sāgaram |",
+   "sarvadevanamaskāraḥ keśavaṃ pratigacchati ||"
+  ],
+  "english": [
+   "As rain fallen from the sky makes its way to the sea,",
+   "so worship of every god goes on to Keshava."
+  ],
+  "note": ""
+ },
+ {
+  "id": 18,
+  "start": "00:13:04.900",
+  "end": "00:13:14.100",
+  "start_seconds": 784.9,
+  "end_seconds": 794.1,
+  "type": "verse",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship (first half, repeated)",
+  "devanagari": [
+   "आकाशात्पतितं तोयं सागरं प्रतिगच्छति।"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ sāgaraṃ pratigacchati |"
+  ],
+  "english": [
+   "As rain fallen from the sky makes its way to the sea..."
+  ],
+  "note": "Sung with \"sagaram pratigacchati\", as heard; the usual text reads \"yatha gacchati sagaram\"."
+ },
+ {
+  "id": 19,
+  "start": "00:14:16.500",
+  "end": "00:14:44.000",
+  "start_seconds": 856.5,
+  "end_seconds": 884.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship",
+  "devanagari": [
+   "आकाशात्पतितं तोयं",
+   "सागरं प्रतिगच्छति।"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ",
+   "sāgaraṃ pratigacchati |"
+  ],
+  "english": [
+   "As rain fallen from the sky",
+   "makes its way to the sea,"
+  ],
+  "note": "Chanted at Shivaguru's funeral. Sung with \"sagaram pratigacchati\", as heard; the usual text reads \"yatha gacchati sagaram\"."
+ },
+ {
+  "id": 20,
+  "start": "00:14:44.100",
+  "end": "00:15:03.000",
+  "start_seconds": 884.1,
+  "end_seconds": 903.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship",
+  "devanagari": [
+   "सर्वदेवनमस्कारः",
+   "केशवं प्रतिगच्छति॥"
+  ],
+  "iast": [
+   "sarvadevanamaskāraḥ",
+   "keśavaṃ pratigacchati ||"
+  ],
+  "english": [
+   "so worship of every god",
+   "goes on to Keshava."
+  ],
+  "note": ""
+ },
+ {
+  "id": 21,
+  "start": "00:15:47.500",
+  "end": "00:16:02.400",
+  "start_seconds": 947.5,
+  "end_seconds": 962.4,
+  "type": "sung",
+  "speaker": "",
+  "source": "Gayatri mantra, Rigveda 3.62.10, offered into the fire",
+  "devanagari": [
+   "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।",
+   "धियो यो नः प्रचोदयात्। स्वाहा॥"
+  ],
+  "iast": [
+   "oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |",
+   "dhiyo yo naḥ pracodayāt | svāhā ||"
+  ],
+  "english": [
+   "Om. We meditate on the divine Sun's glorious light;",
+   "may it awaken our minds. Svaha!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 22,
+  "start": "00:16:06.600",
+  "end": "00:16:41.400",
+  "start_seconds": 966.6,
+  "end_seconds": 1001.4,
+  "type": "sung",
+  "speaker": "",
+  "source": "Gayatri mantra, Rigveda 3.62.10, offered into the fire",
+  "devanagari": [
+   "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।",
+   "धियो यो नः प्रचोदयात्॥"
+  ],
+  "iast": [
+   "oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |",
+   "dhiyo yo naḥ pracodayāt ||"
+  ],
+  "english": [
+   "Om. We meditate on the divine Sun's glorious light;",
+   "may it awaken our minds."
+  ],
+  "note": ""
+ },
+ {
+  "id": 23,
+  "start": "00:18:37.400",
+  "end": "00:18:55.500",
+  "start_seconds": 1117.4,
+  "end_seconds": 1135.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Mundaka Upanishad 3.1.1 (also Rigveda 1.164.20)",
+  "devanagari": [
+   "द्वा सुपर्णा सयुजा सखाया",
+   "समानं वृक्षं परिषस्वजाते।"
+  ],
+  "iast": [
+   "dvā suparṇā sayujā sakhāyā",
+   "samānaṃ vṛkṣaṃ pariṣasvajāte |"
+  ],
+  "english": [
+   "Two birds, close companions,",
+   "cling to the same tree."
+  ],
+  "note": ""
+ },
+ {
+  "id": 24,
+  "start": "00:18:59.200",
+  "end": "00:19:13.900",
+  "start_seconds": 1139.2,
+  "end_seconds": 1153.9,
+  "type": "verse",
+  "speaker": "",
+  "source": "Mundaka Upanishad 3.1.1, second half",
+  "devanagari": [
+   "तयोरन्यः पिप्पलं स्वाद्वत्ति",
+   "अनश्नन्नन्यो अभिचाकशीति॥"
+  ],
+  "iast": [
+   "tayoranyaḥ pippalaṃ svādvatti",
+   "anaśnannanyo abhicākaśīti ||"
+  ],
+  "english": [
+   "One of them eats the sweet fruit;",
+   "the other, not eating, simply looks on."
+  ],
+  "note": ""
+ },
+ {
+  "id": 25,
+  "start": "00:19:19.900",
+  "end": "00:19:22.700",
+  "start_seconds": 1159.9,
+  "end_seconds": 1162.7,
+  "type": "verse",
+  "speaker": "",
+  "source": "Mundaka Upanishad 3.1.1, last line (repeated)",
+  "devanagari": [
+   "अनश्नन्नन्यो अभिचाकशीति॥"
+  ],
+  "iast": [
+   "anaśnannanyo abhicākaśīti ||"
+  ],
+  "english": [
+   "The other, not eating, simply looks on."
+  ],
+  "note": ""
+ },
+ {
+  "id": 26,
+  "start": "00:19:35.000",
+  "end": "00:19:47.500",
+  "start_seconds": 1175.0,
+  "end_seconds": 1187.5,
+  "type": "verse",
+  "speaker": "Students",
+  "source": "Kalidasa, Raghuvamsha 1.1 (the opening invocation)",
+  "devanagari": [
+   "वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये।",
+   "जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥"
+  ],
+  "iast": [
+   "vāgarthāviva saṃpṛktau vāgarthapratipattaye |",
+   "jagataḥ pitarau vande pārvatīparameśvarau ||"
+  ],
+  "english": [
+   "I bow to Parvati and Shiva, parents of the world,",
+   "joined like word and meaning, that I may grasp both."
+  ],
+  "note": "Only the second half is clearly audible; the verse probably begins a little earlier."
+ },
+ {
+  "id": 27,
+  "start": "00:19:47.600",
+  "end": "00:19:58.000",
+  "start_seconds": 1187.6,
+  "end_seconds": 1198.0,
+  "type": "verse",
+  "speaker": "Students",
+  "source": "Kalidasa, Raghuvamsha, canto 1 (King Dilipa reaches Vasishtha's hermitage)",
+  "devanagari": [
+   "विधेः सायन्तनस्यान्ते",
+   "स ददर्श तपोनिधिम्।"
+  ],
+  "iast": [
+   "vidheḥ sāyantanasyānte",
+   "sa dadarśa taponidhim |"
+  ],
+  "english": [
+   "At the close of the evening rite",
+   "he saw the sage, a treasure of austerity,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 28,
+  "start": "00:20:10.300",
+  "end": "00:20:14.800",
+  "start_seconds": 1210.3,
+  "end_seconds": 1214.8,
+  "type": "verse",
+  "speaker": "Students",
+  "source": "Kalidasa, Raghuvamsha, canto 1 (continued)",
+  "devanagari": [
+   "अन्वासितमरुन्धत्या",
+   "स्वाहयेव हविर्भुजम्॥"
+  ],
+  "iast": [
+   "anvāsitamarundhatyā",
+   "svāhayeva havirbhujam ||"
+  ],
+  "english": [
+   "with Arundhati beside him,",
+   "like the sacred fire with Svaha at its side."
+  ],
+  "note": "The audio seems to have \"adhyasitam\"; the standard text reads \"anvasitam\"."
+ },
+ {
+  "id": 29,
+  "start": "00:21:12.000",
+  "end": "00:21:17.200",
+  "start_seconds": 1272.0,
+  "end_seconds": 1277.2,
+  "type": "verse",
+  "speaker": "",
+  "source": "Bhagavad-gita 9.11, first half (quoted)",
+  "devanagari": [
+   "अवजानन्ति मां मूढा",
+   "मानुषीं तनुमाश्रितम्।"
+  ],
+  "iast": [
+   "avajānanti māṃ mūḍhā",
+   "mānuṣīṃ tanumāśritam |"
+  ],
+  "english": [
+   "Fools disregard Me",
+   "when I take on a human form."
+  ],
+  "note": "Quoted half in jest by a boy who feels ignored."
+ },
+ {
+  "id": 30,
+  "start": "00:21:24.600",
+  "end": "00:21:26.800",
+  "start_seconds": 1284.6,
+  "end_seconds": 1286.8,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Ritual formula of the young student begging alms",
+  "devanagari": [
+   "भवति भिक्षां देहि।"
+  ],
+  "iast": [
+   "bhavati bhikṣāṃ dehi |"
+  ],
+  "english": [
+   "Revered lady, give me alms."
+  ],
+  "note": ""
+ },
+ {
+  "id": 31,
+  "start": "00:21:27.000",
+  "end": "00:21:45.200",
+  "start_seconds": 1287.0,
+  "end_seconds": 1305.2,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhagavata Purana 1.1.3",
+  "devanagari": [
+   "निगमकल्पतरोर्गलितं फलं",
+   "शुकमुखादमृतद्रवसंयुतम्।"
+  ],
+  "iast": [
+   "nigamakalpatarorgalitaṃ phalaṃ",
+   "śukamukhādamṛtadravasaṃyutam |"
+  ],
+  "english": [
+   "Fruit fallen from the wish-tree of the Veda,",
+   "sweetened by nectar from Shuka's lips:"
+  ],
+  "note": "Heard in the background while Shankara waits at the door."
+ },
+ {
+  "id": 32,
+  "start": "00:21:45.300",
+  "end": "00:22:04.300",
+  "start_seconds": 1305.3,
+  "end_seconds": 1324.3,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhagavata Purana 1.1.3 (continued)",
+  "devanagari": [
+   "पिबत भागवतं रसमालयं",
+   "मुहुरहो रसिका भुवि भावुकाः॥"
+  ],
+  "iast": [
+   "pibata bhāgavataṃ rasamālayaṃ",
+   "muhuraho rasikā bhuvi bhāvukāḥ ||"
+  ],
+  "english": [
+   "drink deep of the Bhagavata, again and again,",
+   "you on earth who know its taste and are moved!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 33,
+  "start": "00:22:34.000",
+  "end": "00:22:46.900",
+  "start_seconds": 1354.0,
+  "end_seconds": 1366.9,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Kanakadhara Stotram, verse 1 (attributed to Shankara)",
+  "devanagari": [
+   "अङ्गं हरेः पुलकभूषणमाश्रयन्ती",
+   "भृङ्गाङ्गनेव मुकुलाभरणं तमालम्।"
+  ],
+  "iast": [
+   "aṅgaṃ hareḥ pulakabhūṣaṇamāśrayantī",
+   "bhṛṅgāṅganeva mukulābharaṇaṃ tamālam |"
+  ],
+  "english": [
+   "Like a bee alighting on a tamala tree in bud,",
+   "it rests on Hari, whose body thrills with joy:"
+  ],
+  "note": "Tradition says Shankara composed this hymn to Lakshmi for a poor woman who could give him only an amalaka (gooseberry), and that golden gooseberries rained on her house."
+ },
+ {
+  "id": 34,
+  "start": "00:22:51.800",
+  "end": "00:23:00.200",
+  "start_seconds": 1371.8,
+  "end_seconds": 1380.2,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Kanakadhara Stotram, verse 1 (continued)",
+  "devanagari": [
+   "अङ्गीकृताखिलविभूतिरपाङ्गलीला",
+   "माङ्गल्यदास्तु मम मङ्गलदेवतायाः॥"
+  ],
+  "iast": [
+   "aṅgīkṛtākhilavibhūtirapāṅgalīlā",
+   "māṅgalyadāstu mama maṅgaladevatāyāḥ ||"
+  ],
+  "english": [
+   "that playful sidelong glance, which holds all riches:",
+   "may the glance of the goddess of fortune bless me."
+  ],
+  "note": ""
+ },
+ {
+  "id": 35,
+  "start": "00:24:13.500",
+  "end": "00:24:17.100",
+  "start_seconds": 1453.5,
+  "end_seconds": 1457.1,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Ritual formula of the young student begging alms",
+  "devanagari": [
+   "भवति भिक्षां देहि।"
+  ],
+  "iast": [
+   "bhavati bhikṣāṃ dehi |"
+  ],
+  "english": [
+   "Revered lady, give me alms."
+  ],
+  "note": ""
+ },
+ {
+  "id": 36,
+  "start": "00:24:21.000",
+  "end": "00:24:24.600",
+  "start_seconds": 1461.0,
+  "end_seconds": 1464.6,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Ritual formula of the young student begging alms",
+  "devanagari": [
+   "भवति भिक्षां देहि।"
+  ],
+  "iast": [
+   "bhavati bhikṣāṃ dehi |"
+  ],
+  "english": [
+   "Revered lady, give me alms."
+  ],
+  "note": ""
+ },
+ {
+  "id": 37,
+  "start": "00:24:30.200",
+  "end": "00:24:33.000",
+  "start_seconds": 1470.2,
+  "end_seconds": 1473.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Ritual formula of the young student begging alms",
+  "devanagari": [
+   "भवति भिक्षां देहि।"
+  ],
+  "iast": [
+   "bhavati bhikṣāṃ dehi |"
+  ],
+  "english": [
+   "Revered lady, give me alms."
+  ],
+  "note": ""
+ },
+ {
+  "id": 38,
+  "start": "00:26:17.400",
+  "end": "00:26:19.800",
+  "start_seconds": 1577.4,
+  "end_seconds": 1579.8,
+  "type": "verse",
+  "speaker": "",
+  "source": "Isha Upanishad 1 (quoted)",
+  "devanagari": [
+   "तेन त्यक्तेन भुञ्जीथाः।"
+  ],
+  "iast": [
+   "tena tyaktena bhuñjīthāḥ |"
+  ],
+  "english": [
+   "Enjoy through renunciation."
+  ],
+  "note": "Quoted within a conversation about sharing food; only the quotation is given here."
+ },
+ {
+  "id": 39,
+  "start": "00:40:07.000",
+  "end": "00:40:20.900",
+  "start_seconds": 2407.0,
+  "end_seconds": 2420.9,
+  "type": "verse",
+  "speaker": "",
+  "source": "Katha Upanishad 1.1.7",
+  "devanagari": [
+   "वैश्वानरः प्रविशत्यतिथिर्ब्राह्मणो गृहान्।",
+   "तस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम्॥"
+  ],
+  "iast": [
+   "vaiśvānaraḥ praviśatyatithirbrāhmaṇo gṛhān |",
+   "tasyaitāṃ śāntiṃ kurvanti hara vaivasvatodakam ||"
+  ],
+  "english": [
+   "A Brahmin guest enters a house like fire itself;",
+   "they soothe him so: bring water, O Yama!"
+  ],
+  "note": "Yama's household warns him that a Brahmin guest has waited unfed."
+ },
+ {
+  "id": 40,
+  "start": "00:40:21.100",
+  "end": "00:40:30.700",
+  "start_seconds": 2421.1,
+  "end_seconds": 2430.7,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.1.9, first half",
+  "devanagari": [
+   "तिस्रो रात्रीर्यदवात्सीर्गृहे मे",
+   "अनश्नन्ब्रह्मन्नतिथिर्नमस्यः।"
+  ],
+  "iast": [
+   "tisro rātrīryadavātsīrgṛhe me",
+   "anaśnanbrahmannatithirnamasyaḥ |"
+  ],
+  "english": [
+   "Three nights you have stayed in my house unfed,",
+   "O Brahmin, a guest worthy of honour."
+  ],
+  "note": ""
+ },
+ {
+  "id": 41,
+  "start": "00:40:30.800",
+  "end": "00:40:38.500",
+  "start_seconds": 2430.8,
+  "end_seconds": 2438.5,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.1.9, second half",
+  "devanagari": [
+   "नमस्तेऽस्तु ब्रह्मन्स्वस्ति मेऽस्तु",
+   "तस्मात्प्रति त्रीन्वरान्वृणीष्व॥"
+  ],
+  "iast": [
+   "namaste'stu brahmansvasti me'stu",
+   "tasmātprati trīnvarānvṛṇīṣva ||"
+  ],
+  "english": [
+   "My homage to you, Brahmin; may all be well with me.",
+   "In return, choose three boons."
+  ],
+  "note": ""
+ },
+ {
+  "id": 42,
+  "start": "00:40:38.900",
+  "end": "00:40:45.700",
+  "start_seconds": 2438.9,
+  "end_seconds": 2445.7,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.10, first half",
+  "devanagari": [
+   "शान्तसंकल्पः सुमना यथा स्याद्",
+   "वीतमन्युर्गौतमो माऽभि मृत्यो।"
+  ],
+  "iast": [
+   "śāntasaṃkalpaḥ sumanā yathā syād",
+   "vītamanyurgautamo mā'bhi mṛtyo |"
+  ],
+  "english": [
+   "That my father may be calm and kind of heart,",
+   "his anger toward me gone, O Death..."
+  ],
+  "note": ""
+ },
+ {
+  "id": 43,
+  "start": "00:40:47.800",
+  "end": "00:40:54.600",
+  "start_seconds": 2447.8,
+  "end_seconds": 2454.6,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.13, first half",
+  "devanagari": [
+   "स त्वमग्निं स्वर्ग्यमध्येषि मृत्यो",
+   "प्रब्रूहि तं श्रद्दधानाय मह्यम्।"
+  ],
+  "iast": [
+   "sa tvamagniṃ svargyamadhyeṣi mṛtyo",
+   "prabrūhi taṃ śraddadhānāya mahyam |"
+  ],
+  "english": [
+   "You know the fire that leads to heaven, O Death;",
+   "explain it to me, for I have faith."
+  ],
+  "note": ""
+ },
+ {
+  "id": 44,
+  "start": "00:40:56.200",
+  "end": "00:41:04.500",
+  "start_seconds": 2456.2,
+  "end_seconds": 2464.5,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.20, first half",
+  "devanagari": [
+   "येयं प्रेते विचिकित्सा मनुष्ये",
+   "अस्तीत्येके नायमस्तीति चैके।"
+  ],
+  "iast": [
+   "yeyaṃ prete vicikitsā manuṣye",
+   "astītyeke nāyamastīti caike |"
+  ],
+  "english": [
+   "When a man has died, there is this doubt:",
+   "some say he is, and some say he is not."
+  ],
+  "note": ""
+ },
+ {
+  "id": 45,
+  "start": "00:41:04.600",
+  "end": "00:41:12.800",
+  "start_seconds": 2464.6,
+  "end_seconds": 2472.8,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.20, second half",
+  "devanagari": [
+   "एतद्विद्यामनुशिष्टस्त्वयाहं",
+   "वराणामेष वरस्तृतीयः॥"
+  ],
+  "iast": [
+   "etadvidyāmanuśiṣṭastvayāhaṃ",
+   "varāṇāmeṣa varastṛtīyaḥ ||"
+  ],
+  "english": [
+   "Taught by you, let me know the truth of it.",
+   "Of my boons, this is the third."
+  ],
+  "note": ""
+ },
+ {
+  "id": 46,
+  "start": "00:41:13.100",
+  "end": "00:41:19.600",
+  "start_seconds": 2473.1,
+  "end_seconds": 2479.6,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.1.25 and 1.1.21 (phrases)",
+  "devanagari": [
+   "नचिकेतो मरणं माऽनुप्राक्षीः।",
+   "अन्यं वरं वृणीष्व।"
+  ],
+  "iast": [
+   "naciketo maraṇaṃ mā'nuprākṣīḥ |",
+   "anyaṃ varaṃ vṛṇīṣva |"
+  ],
+  "english": [
+   "Nachiketa, do not question me about death.",
+   "Choose another boon."
+  ],
+  "note": "The play joins phrases from two of Yama's verses."
+ },
+ {
+  "id": 47,
+  "start": "00:41:20.700",
+  "end": "00:41:26.500",
+  "start_seconds": 2480.7,
+  "end_seconds": 2486.5,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.22, last line",
+  "devanagari": [
+   "नान्यो वरस्तुल्य एतस्य कश्चित्॥"
+  ],
+  "iast": [
+   "nānyo varastulya etasya kaścit ||"
+  ],
+  "english": [
+   "No other boon is equal to this one."
+  ],
+  "note": ""
+ },
+ {
+  "id": 48,
+  "start": "00:41:26.700",
+  "end": "00:41:35.200",
+  "start_seconds": 2486.7,
+  "end_seconds": 2495.2,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.1.23, first half",
+  "devanagari": [
+   "शतायुषः पुत्रपौत्रान्वृणीष्व",
+   "बहून्पशून्हस्तिहिरण्यमश्वान्।"
+  ],
+  "iast": [
+   "śatāyuṣaḥ putrapautrānvṛṇīṣva",
+   "bahūnpaśūnhastihiraṇyamaśvān |"
+  ],
+  "english": [
+   "Choose sons and grandsons to live a hundred years,",
+   "cattle in plenty, elephants, gold and horses;"
+  ],
+  "note": ""
+ },
+ {
+  "id": 49,
+  "start": "00:41:35.300",
+  "end": "00:41:43.700",
+  "start_seconds": 2495.3,
+  "end_seconds": 2503.7,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.1.23, second half",
+  "devanagari": [
+   "भूमेर्महदायतनं वृणीष्व",
+   "स्वयं च जीव शरदो यावदिच्छसि॥"
+  ],
+  "iast": [
+   "bhūmermahadāyatanaṃ vṛṇīṣva",
+   "svayaṃ ca jīva śarado yāvadicchasi ||"
+  ],
+  "english": [
+   "choose a vast estate on the earth,",
+   "and live yourself as many autumns as you wish."
+  ],
+  "note": ""
+ },
+ {
+  "id": 50,
+  "start": "00:41:43.800",
+  "end": "00:41:52.600",
+  "start_seconds": 2503.8,
+  "end_seconds": 2512.6,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.27, first half",
+  "devanagari": [
+   "न वित्तेन तर्पणीयो मनुष्यो",
+   "लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा।"
+  ],
+  "iast": [
+   "na vittena tarpaṇīyo manuṣyo",
+   "lapsyāmahe vittamadrākṣma cettvā |"
+  ],
+  "english": [
+   "No one is ever satisfied by wealth.",
+   "Having seen you, we shall have wealth enough;"
+  ],
+  "note": ""
+ },
+ {
+  "id": 51,
+  "start": "00:41:52.700",
+  "end": "00:42:01.300",
+  "start_seconds": 2512.7,
+  "end_seconds": 2521.3,
+  "type": "verse",
+  "speaker": "Nachiketa",
+  "source": "Katha Upanishad 1.1.27, second half",
+  "devanagari": [
+   "जीविष्यामो यावदीशिष्यसि त्वं",
+   "वरस्तु मे वरणीयः स एव॥"
+  ],
+  "iast": [
+   "jīviṣyāmo yāvadīśiṣyasi tvaṃ",
+   "varastu me varaṇīyaḥ sa eva ||"
+  ],
+  "english": [
+   "we shall live as long as you hold sway.",
+   "But the boon I choose is that one alone."
+  ],
+  "note": ""
+ },
+ {
+  "id": 52,
+  "start": "00:42:01.400",
+  "end": "00:42:10.900",
+  "start_seconds": 2521.4,
+  "end_seconds": 2530.9,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.2.9, first half",
+  "devanagari": [
+   "नैषा तर्केण मतिरापनेया",
+   "प्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ।"
+  ],
+  "iast": [
+   "naiṣā tarkeṇa matirāpaneyā",
+   "proktānyenaiva sujñānāya preṣṭha |"
+  ],
+  "english": [
+   "This insight is not won by argument;",
+   "taught by another, dear one, it is truly understood."
+  ],
+  "note": ""
+ },
+ {
+  "id": 53,
+  "start": "00:42:11.000",
+  "end": "00:42:19.400",
+  "start_seconds": 2531.0,
+  "end_seconds": 2539.4,
+  "type": "verse",
+  "speaker": "Yama",
+  "source": "Katha Upanishad 1.2.9, second half",
+  "devanagari": [
+   "यां त्वमापः सत्यधृतिर्बतासि",
+   "त्वादृङ्नो भूयान्नचिकेतः प्रष्टा॥"
+  ],
+  "iast": [
+   "yāṃ tvamāpaḥ satyadhṛtirbatāsi",
+   "tvādṛṅno bhūyānnaciketaḥ praṣṭā ||"
+  ],
+  "english": [
+   "You have found it, for you hold fast to truth.",
+   "May we always have a questioner like you, Nachiketa!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 54,
+  "start": "00:44:09.800",
+  "end": "00:44:30.600",
+  "start_seconds": 2649.8,
+  "end_seconds": 2670.6,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Traditional verse, recited at the close of daily worship",
+  "devanagari": [
+   "आकाशात्पतितं तोयं सागरं प्रतिगच्छति।",
+   "सर्वदेवनमस्कारः केशवं प्रतिगच्छति॥"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ sāgaraṃ pratigacchati |",
+   "sarvadevanamaskāraḥ keśavaṃ pratigacchati ||"
+  ],
+  "english": [
+   "As rain fallen from the sky makes its way to the sea,",
+   "so worship of every god goes on to Keshava."
+  ],
+  "note": "Sung on the journey; only parts are clearly audible. As elsewhere in the film's singing, the first line ends \"sagaram pratigacchati\"."
+ },
+ {
+  "id": 55,
+  "start": "00:45:44.000",
+  "end": "00:45:54.500",
+  "start_seconds": 2744.0,
+  "end_seconds": 2754.5,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 11.31, first half",
+  "devanagari": [
+   "आख्याहि मे को भवानुग्ररूपो",
+   "नमोऽस्तु ते देववर प्रसीद।"
+  ],
+  "iast": [
+   "ākhyāhi me ko bhavānugrarūpo",
+   "namo'stu te devavara prasīda |"
+  ],
+  "english": [
+   "Tell me who You are, so terrible in form.",
+   "I bow to You, greatest of gods: be gracious."
+  ],
+  "note": "Shankara's vision of the cosmos in its terrible form. Timing within the verse is approximate."
+ },
+ {
+  "id": 56,
+  "start": "00:45:54.600",
+  "end": "00:46:05.000",
+  "start_seconds": 2754.6,
+  "end_seconds": 2765.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 11.31, second half",
+  "devanagari": [
+   "विज्ञातुमिच्छामि भवन्तमाद्यं",
+   "न हि प्रजानामि तव प्रवृत्तिम्॥"
+  ],
+  "iast": [
+   "vijñātumicchāmi bhavantamādyaṃ",
+   "na hi prajānāmi tava pravṛttim ||"
+  ],
+  "english": [
+   "I long to know You, the Primal One,",
+   "for I do not understand what You are doing."
+  ],
+  "note": ""
+ },
+ {
+  "id": 57,
+  "start": "00:46:17.500",
+  "end": "00:46:32.500",
+  "start_seconds": 2777.5,
+  "end_seconds": 2792.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "The Navkar (Namokar) Mantra, Jain, in Prakrit",
+  "devanagari": [
+   "नमो अरिहंताणं। नमो सिद्धाणं। नमो आयरियाणं।",
+   "नमो उवज्झायाणं। नमो लोए सव्वसाहूणं॥"
+  ],
+  "iast": [
+   "namo arihaṃtāṇaṃ | namo siddhāṇaṃ | namo āyariyāṇaṃ |",
+   "namo uvajjhāyāṇaṃ | namo loe savvasāhūṇaṃ ||"
+  ],
+  "english": [
+   "Homage to the Arihants, to the Siddhas, to the Acharyas,",
+   "to the teachers, and to all the holy ones in the world."
+  ],
+  "note": "Jain monks chanting as Shankara passes. The first three lines are clearly audible."
+ },
+ {
+  "id": 58,
+  "start": "00:46:33.400",
+  "end": "00:46:58.200",
+  "start_seconds": 2793.4,
+  "end_seconds": 2818.2,
+  "type": "sung",
+  "speaker": "",
+  "source": "Mantrapushpam, Taittiriya Aranyaka 1.22",
+  "devanagari": [
+   "आयतनवान् भवति। य एवं वेद।",
+   "योऽपामायतनं वेद।"
+  ],
+  "iast": [
+   "āyatanavān bhavati | ya evaṃ veda |",
+   "yo'pāmāyatanaṃ veda |"
+  ],
+  "english": [
+   "He finds a firm abode, who knows this.",
+   "He who knows the abode of the waters..."
+  ],
+  "note": "The same lines are chanted twice."
+ },
+ {
+  "id": 59,
+  "start": "00:51:28.000",
+  "end": "00:51:32.700",
+  "start_seconds": 3088.0,
+  "end_seconds": 3092.7,
+  "type": "verse",
+  "speaker": "Vishnu",
+  "source": "Bhagavad-gita 2.48, first half (quoted)",
+  "devanagari": [
+   "योगस्थः कुरु कर्माणि",
+   "सङ्गं त्यक्त्वा धनञ्जय।"
+  ],
+  "iast": [
+   "yogasthaḥ kuru karmāṇi",
+   "saṅgaṃ tyaktvā dhanañjaya |"
+  ],
+  "english": [
+   "Established in yoga, do your work, Arjuna,",
+   "setting attachment aside."
+  ],
+  "note": "Quoted by Shankara's friend Vishnu; only the quotation is given here."
+ },
+ {
+  "id": 60,
+  "start": "00:53:17.900",
+  "end": "00:53:32.300",
+  "start_seconds": 3197.9,
+  "end_seconds": 3212.3,
+  "type": "sung",
+  "speaker": "",
+  "source": "Hymn to Mitra (Rigveda 3.59.6, in a variant reading)",
+  "devanagari": [
+   "ॐ मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।",
+   "सत्यं चित्रश्रवस्तमम्॥"
+  ],
+  "iast": [
+   "oṃ mitrasya carṣaṇīdhṛtaḥ śravo devasya sānasim |",
+   "satyaṃ citraśravastamam ||"
+  ],
+  "english": [
+   "The glory of Mitra, the god who upholds all peoples,",
+   "is true, all-winning, and of the brightest renown."
+  ],
+  "note": ""
+ },
+ {
+  "id": 61,
+  "start": "00:53:41.300",
+  "end": "00:53:44.300",
+  "start_seconds": 3221.3,
+  "end_seconds": 3224.3,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Jabala Upanishad 4 (quoted)",
+  "devanagari": [
+   "ब्रह्मचर्यादेव प्रव्रजेत्।"
+  ],
+  "iast": [
+   "brahmacaryādeva pravrajet |"
+  ],
+  "english": [
+   "One may renounce straight from studenthood."
+  ],
+  "note": "Quoted to justify renouncing the world without first becoming a householder; only the quotation is given here."
+ },
+ {
+  "id": 62,
+  "start": "00:54:47.700",
+  "end": "00:55:00.500",
+  "start_seconds": 3287.7,
+  "end_seconds": 3300.5,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 11.38, first half",
+  "devanagari": [
+   "त्वमादिदेवः पुरुषः पुराणस्",
+   "त्वमस्य विश्वस्य परं निधानम्।"
+  ],
+  "iast": [
+   "tvamādidevaḥ puruṣaḥ purāṇas",
+   "tvamasya viśvasya paraṃ nidhānam |"
+  ],
+  "english": [
+   "You are the first of gods, the ancient Person,",
+   "the final resting place of all this world."
+  ],
+  "note": "Recited to calm the flooding Narmada."
+ },
+ {
+  "id": 63,
+  "start": "00:55:00.600",
+  "end": "00:55:13.200",
+  "start_seconds": 3300.6,
+  "end_seconds": 3313.2,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 11.38, second half",
+  "devanagari": [
+   "वेत्तासि वेद्यं च परं च धाम",
+   "त्वया ततं विश्वमनन्तरूप॥"
+  ],
+  "iast": [
+   "vettāsi vedyaṃ ca paraṃ ca dhāma",
+   "tvayā tataṃ viśvamanantarūpa ||"
+  ],
+  "english": [
+   "You are the knower and the known, the highest home;",
+   "by You, of endless forms, the world is pervaded."
+  ],
+  "note": ""
+ },
+ {
+  "id": 64,
+  "start": "00:57:37.300",
+  "end": "00:57:41.200",
+  "start_seconds": 3457.3,
+  "end_seconds": 3461.2,
+  "type": "verse",
+  "speaker": "",
+  "source": "Bhagavad-gita 2.16, first half (quoted)",
+  "devanagari": [
+   "नासतो विद्यते भावो",
+   "नाभावो विद्यते सतः।"
+  ],
+  "iast": [
+   "nāsato vidyate bhāvo",
+   "nābhāvo vidyate sataḥ |"
+  ],
+  "english": [
+   "What is unreal never comes to be;",
+   "what is real never ceases to be."
+  ],
+  "note": "Quoted within a conversation about the body and the Self; only the quotation is given here."
+ },
+ {
+  "id": 65,
+  "start": "00:58:13.600",
+  "end": "00:58:22.100",
+  "start_seconds": 3493.6,
+  "end_seconds": 3502.1,
+  "type": "sung",
+  "speaker": "",
+  "source": "Chandogya Upanishad 7.25.2",
+  "devanagari": [
+   "आत्मा दक्षिणत आत्मोत्तरत",
+   "आत्मैवेदं सर्वमिति।"
+  ],
+  "iast": [
+   "ātmā dakṣiṇata ātmottarata",
+   "ātmaivedaṃ sarvamiti |"
+  ],
+  "english": [
+   "The Self is to the south, the Self is to the north;",
+   "the Self alone is all this."
+  ],
+  "note": "The chant may begin a little earlier, with \"atmaivadhastat...\", which is not clearly audible."
+ },
+ {
+  "id": 66,
+  "start": "00:58:22.200",
+  "end": "00:58:28.000",
+  "start_seconds": 3502.2,
+  "end_seconds": 3508.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Chandogya Upanishad 7.25.2 (continued)",
+  "devanagari": [
+   "स वा एष एवं पश्यन्नेवं मन्वान",
+   "एवं विजानन्"
+  ],
+  "iast": [
+   "sa vā eṣa evaṃ paśyannevaṃ manvāna",
+   "evaṃ vijānan"
+  ],
+  "english": [
+   "One who sees this, who thinks this,",
+   "who knows this,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 67,
+  "start": "00:58:28.100",
+  "end": "00:58:37.700",
+  "start_seconds": 3508.1,
+  "end_seconds": 3517.7,
+  "type": "sung",
+  "speaker": "",
+  "source": "Chandogya Upanishad 7.25.2 (continued)",
+  "devanagari": [
+   "आत्मरतिरात्मक्रीड",
+   "आत्ममिथुन आत्मानन्दः स स्वराड्भवति।"
+  ],
+  "iast": [
+   "ātmaratirātmakrīḍa",
+   "ātmamithuna ātmānandaḥ sa svarāḍbhavati |"
+  ],
+  "english": [
+   "rejoicing in the Self, playing in the Self,",
+   "one with it, in its bliss, is his own sovereign."
+  ],
+  "note": ""
+ },
+ {
+  "id": 68,
+  "start": "01:04:40.800",
+  "end": "01:04:44.500",
+  "start_seconds": 3880.8,
+  "end_seconds": 3884.5,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Chandogya Upanishad 6.1.4 (quoted)",
+  "devanagari": [
+   "मृत्तिकेत्येव सत्यम्।"
+  ],
+  "iast": [
+   "mṛttiketyeva satyam |"
+  ],
+  "english": [
+   "Only the clay is real."
+  ],
+  "note": "Quoted in an argument with doubters; only the quotation is given here."
+ },
+ {
+  "id": 69,
+  "start": "01:05:28.200",
+  "end": "01:05:38.400",
+  "start_seconds": 3928.2,
+  "end_seconds": 3938.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Chandogya Upanishad 4.4.1",
+  "devanagari": [
+   "सत्यकामो ह जाबालो",
+   "जबालां मातरमामन्त्रयाञ्चक्रे।"
+  ],
+  "iast": [
+   "satyakāmo ha jābālo",
+   "jabālāṃ mātaramāmantrayāñcakre |"
+  ],
+  "english": [
+   "Satyakama Jabala",
+   "once said to his mother, Jabala:"
+  ],
+  "note": ""
+ },
+ {
+  "id": 70,
+  "start": "01:05:39.400",
+  "end": "01:05:47.400",
+  "start_seconds": 3939.4,
+  "end_seconds": 3947.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Chandogya Upanishad 4.4.1 (continued)",
+  "devanagari": [
+   "ब्रह्मचर्यं भवति विवत्स्यामि",
+   "किंगोत्रो न्वहमस्मीति॥"
+  ],
+  "iast": [
+   "brahmacaryaṃ bhavati vivatsyāmi",
+   "kiṃgotro nvahamasmīti ||"
+  ],
+  "english": [
+   "\"Mother, I wish to become a student of the Veda.",
+   "What is my lineage?\""
+  ],
+  "note": ""
+ },
+ {
+  "id": 71,
+  "start": "01:07:11.500",
+  "end": "01:07:29.900",
+  "start_seconds": 4031.5,
+  "end_seconds": 4049.9,
+  "type": "verse",
+  "speaker": "Jabala",
+  "source": "Chandogya Upanishad 4.4.2",
+  "devanagari": [
+   "बह्वहं चरन्ती परिचारिणी",
+   "यौवने त्वामलभे।"
+  ],
+  "iast": [
+   "bahvahaṃ carantī paricāriṇī",
+   "yauvane tvāmalabhe |"
+  ],
+  "english": [
+   "In my youth I wandered much, a servant girl,",
+   "and then I had you."
+  ],
+  "note": "The scene is now acted out, in the Upanishad's own words."
+ },
+ {
+  "id": 72,
+  "start": "01:07:30.000",
+  "end": "01:07:37.200",
+  "start_seconds": 4050.0,
+  "end_seconds": 4057.2,
+  "type": "reconstructed",
+  "speaker": "Jabala",
+  "source": "Chandogya Upanishad 4.4.2 (continued)",
+  "devanagari": [
+   "साहमेतन्न वेद",
+   "यद्गोत्रस्त्वमसि।"
+  ],
+  "iast": [
+   "sāhametanna veda",
+   "yadgotrastvamasi |"
+  ],
+  "english": [
+   "So I do not know",
+   "what lineage you are of."
+  ],
+  "note": "Placed from the flow of the text and the older subtitles; the words themselves are not clearly audible here."
+ },
+ {
+  "id": 73,
+  "start": "01:07:46.300",
+  "end": "01:07:49.500",
+  "start_seconds": 4066.3,
+  "end_seconds": 4069.5,
+  "type": "verse",
+  "speaker": "Jabala",
+  "source": "Chandogya Upanishad 4.4.2 (continued)",
+  "devanagari": [
+   "जबाला तु नामाहमस्मि",
+   "सत्यकामो नाम त्वमसि।"
+  ],
+  "iast": [
+   "jabālā tu nāmāhamasmi",
+   "satyakāmo nāma tvamasi |"
+  ],
+  "english": [
+   "But my name is Jabala,",
+   "and your name is Satyakama."
+  ],
+  "note": ""
+ },
+ {
+  "id": 74,
+  "start": "01:07:56.000",
+  "end": "01:08:03.600",
+  "start_seconds": 4076.0,
+  "end_seconds": 4083.6,
+  "type": "verse",
+  "speaker": "Satyakama",
+  "source": "Chandogya Upanishad 4.4.4 (condensed in the film)",
+  "devanagari": [
+   "नाहमेतद्वेद भो यद्गोत्रोऽहमस्मि।",
+   "अपृच्छं मातरं, सा मा प्रत्यब्रवीत्।"
+  ],
+  "iast": [
+   "nāhametadveda bho yadgotro'hamasmi |",
+   "apṛcchaṃ mātaraṃ, sā mā pratyabravīt |"
+  ],
+  "english": [
+   "I do not know, sir, what my lineage is.",
+   "I asked my mother, and she answered me:"
+  ],
+  "note": ""
+ },
+ {
+  "id": 75,
+  "start": "01:08:04.200",
+  "end": "01:08:11.160",
+  "start_seconds": 4084.2,
+  "end_seconds": 4091.16,
+  "type": "verse",
+  "speaker": "Satyakama",
+  "source": "Chandogya Upanishad 4.4.4 (condensed in the film)",
+  "devanagari": [
+   "नाहमेतद्वेद तातेति। जबाला तु नामाहमस्मि",
+   "सत्यकामो नाम त्वमसीति।"
+  ],
+  "iast": [
+   "nāhametadveda tāteti | jabālā tu nāmāhamasmi",
+   "satyakāmo nāma tvamasīti |"
+  ],
+  "english": [
+   "\"I do not know it, child. My name is Jabala,",
+   "and yours is Satyakama.\""
+  ],
+  "note": ""
+ },
+ {
+  "id": 76,
+  "start": "01:08:11.200",
+  "end": "01:08:16.700",
+  "start_seconds": 4091.2,
+  "end_seconds": 4096.7,
+  "type": "verse",
+  "speaker": "Satyakama",
+  "source": "Chandogya Upanishad 4.4.4 (continued)",
+  "devanagari": [
+   "सोऽहं सत्यकामो जाबालोऽस्मि भो।"
+  ],
+  "iast": [
+   "so'haṃ satyakāmo jābālo'smi bho |"
+  ],
+  "english": [
+   "So I am Satyakama Jabala, sir."
+  ],
+  "note": ""
+ },
+ {
+  "id": 77,
+  "start": "01:08:22.300",
+  "end": "01:08:34.000",
+  "start_seconds": 4102.3,
+  "end_seconds": 4114.0,
+  "type": "verse",
+  "speaker": "Gautama",
+  "source": "Chandogya Upanishad 4.4.5",
+  "devanagari": [
+   "नैतदब्राह्मणो विवक्तुमर्हति।",
+   "समिधं सोम्याहरोप त्वा नेष्ये।"
+  ],
+  "iast": [
+   "naitadabrāhmaṇo vivaktumarhati |",
+   "samidhaṃ somyāharopa tvā neṣye |"
+  ],
+  "english": [
+   "None but a true Brahmin could speak like this.",
+   "Fetch the firewood, my boy: I will initiate you."
+  ],
+  "note": ""
+ },
+ {
+  "id": 78,
+  "start": "01:08:34.800",
+  "end": "01:08:48.700",
+  "start_seconds": 4114.8,
+  "end_seconds": 4128.7,
+  "type": "verse",
+  "speaker": "",
+  "source": "Mahabharata 12.169.35, Shanti Parva (quoted)",
+  "devanagari": [
+   "नैतादृशं ब्राह्मणस्यास्ति वित्तं",
+   "यथैकता समता सत्यता च।"
+  ],
+  "iast": [
+   "naitādṛśaṃ brāhmaṇasyāsti vittaṃ",
+   "yathaikatā samatā satyatā ca |"
+  ],
+  "english": [
+   "A Brahmin has no wealth to match this:",
+   "oneness, even-mindedness, and truth."
+  ],
+  "note": "The audio has \"yadekata\"; the usual reading is \"yathaikata\"."
+ },
+ {
+  "id": 79,
+  "start": "01:11:23.100",
+  "end": "01:11:37.600",
+  "start_seconds": 4283.1,
+  "end_seconds": 4297.6,
+  "type": "sung",
+  "speaker": "Totaka",
+  "source": "Totakashtakam, refrain, by Totaka (Shankara's disciple)",
+  "devanagari": [
+   "भव शङ्कर देशिक मे शरणम्॥"
+  ],
+  "iast": [
+   "bhava śaṅkara deśika me śaraṇam ||"
+  ],
+  "english": [
+   "Be my refuge, Shankara, my teacher."
+  ],
+  "note": "The disciple Giri sings this hymn to his teacher; Shankara then names him Totaka, after its metre."
+ },
+ {
+  "id": 80,
+  "start": "01:11:37.700",
+  "end": "01:11:56.900",
+  "start_seconds": 4297.7,
+  "end_seconds": 4316.9,
+  "type": "sung",
+  "speaker": "Totaka",
+  "source": "Totakashtakam, verse 1",
+  "devanagari": [
+   "विदिताखिलशास्त्रसुधाजलधे",
+   "महितोपनिषत्कथितार्थनिधे।"
+  ],
+  "iast": [
+   "viditākhilaśāstrasudhājaladhe",
+   "mahitopaniṣatkathitārthanidhe |"
+  ],
+  "english": [
+   "Master of the nectar-sea of all the scriptures,",
+   "treasury of the truths the Upanishads teach,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 81,
+  "start": "01:11:57.000",
+  "end": "01:12:12.400",
+  "start_seconds": 4317.0,
+  "end_seconds": 4332.4,
+  "type": "sung",
+  "speaker": "Totaka",
+  "source": "Totakashtakam, verse 1 (continued)",
+  "devanagari": [
+   "हृदये कलये विमलं चरणं",
+   "भव शङ्कर देशिक मे शरणम्॥"
+  ],
+  "iast": [
+   "hṛdaye kalaye vimalaṃ caraṇaṃ",
+   "bhava śaṅkara deśika me śaraṇam ||"
+  ],
+  "english": [
+   "I hold your spotless feet within my heart:",
+   "be my refuge, Shankara, my teacher."
+  ],
+  "note": ""
+ },
+ {
+  "id": 82,
+  "start": "01:12:46.000",
+  "end": "01:12:56.700",
+  "start_seconds": 4366.0,
+  "end_seconds": 4376.7,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Bhaja Govindam (attributed to Shankara), verse 1, second half",
+  "devanagari": [
+   "सम्प्राप्ते सन्निहिते काले",
+   "नहि नहि रक्षति डुकृञ्करणे॥"
+  ],
+  "iast": [
+   "samprāpte sannihite kāle",
+   "nahi nahi rakṣati ḍukṛñkaraṇe ||"
+  ],
+  "english": [
+   "When the appointed hour draws near,",
+   "no rule of grammar will save you."
+  ],
+  "note": "Sung on seeing an old man still cramming rules of grammar; \"dukrn karane\" is one of Panini's verb-root entries."
+ },
+ {
+  "id": 83,
+  "start": "01:12:59.300",
+  "end": "01:13:13.100",
+  "start_seconds": 4379.3,
+  "end_seconds": 4393.1,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Bhaja Govindam, verse beginning \"angam galitam\"",
+  "devanagari": [
+   "अङ्गं गलितं पलितं मुण्डं",
+   "दशनविहीनं जातं तुण्डम्।"
+  ],
+  "iast": [
+   "aṅgaṃ galitaṃ palitaṃ muṇḍaṃ",
+   "daśanavihīnaṃ jātaṃ tuṇḍam |"
+  ],
+  "english": [
+   "The limbs are worn, the head gone grey,",
+   "the mouth now empty of its teeth;"
+  ],
+  "note": ""
+ },
+ {
+  "id": 84,
+  "start": "01:13:13.200",
+  "end": "01:13:27.400",
+  "start_seconds": 4393.2,
+  "end_seconds": 4407.4,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Bhaja Govindam, verse beginning \"angam galitam\" (continued)",
+  "devanagari": [
+   "वृद्धो याति गृहीत्वा दण्डं",
+   "तदपि न मुञ्चत्याशापिण्डम्॥"
+  ],
+  "iast": [
+   "vṛddho yāti gṛhītvā daṇḍaṃ",
+   "tadapi na muñcatyāśāpiṇḍam ||"
+  ],
+  "english": [
+   "the old man hobbles on a stick,",
+   "and still he clutches at his hopes."
+  ],
+  "note": ""
+ },
+ {
+  "id": 85,
+  "start": "01:13:30.700",
+  "end": "01:13:42.600",
+  "start_seconds": 4410.7,
+  "end_seconds": 4422.6,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Bhaja Govindam, refrain",
+  "devanagari": [
+   "भज गोविन्दं भज गोविन्दं",
+   "गोविन्दं भज मूढमते।"
+  ],
+  "iast": [
+   "bhaja govindaṃ bhaja govindaṃ",
+   "govindaṃ bhaja mūḍhamate |"
+  ],
+  "english": [
+   "Worship Govinda, worship Govinda,",
+   "worship Govinda, O foolish mind!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 86,
+  "start": "01:13:45.100",
+  "end": "01:13:56.800",
+  "start_seconds": 4425.1,
+  "end_seconds": 4436.8,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhaja Govindam, refrain",
+  "devanagari": [
+   "भज गोविन्दं भज गोविन्दं",
+   "गोविन्दं भज मूढमते।"
+  ],
+  "iast": [
+   "bhaja govindaṃ bhaja govindaṃ",
+   "govindaṃ bhaja mūḍhamate |"
+  ],
+  "english": [
+   "Worship Govinda, worship Govinda,",
+   "worship Govinda, O foolish mind!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 87,
+  "start": "01:13:56.900",
+  "end": "01:14:09.100",
+  "start_seconds": 4436.9,
+  "end_seconds": 4449.1,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhaja Govindam, refrain",
+  "devanagari": [
+   "भज गोविन्दं भज गोविन्दं",
+   "गोविन्दं भज मूढमते।"
+  ],
+  "iast": [
+   "bhaja govindaṃ bhaja govindaṃ",
+   "govindaṃ bhaja mūḍhamate |"
+  ],
+  "english": [
+   "Worship Govinda, worship Govinda,",
+   "worship Govinda, O foolish mind!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 88,
+  "start": "01:14:10.500",
+  "end": "01:14:27.400",
+  "start_seconds": 4450.5,
+  "end_seconds": 4467.4,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhaja Govindam, refrain",
+  "devanagari": [
+   "भज गोविन्दं भज गोविन्दं",
+   "गोविन्दं भज मूढमते।"
+  ],
+  "iast": [
+   "bhaja govindaṃ bhaja govindaṃ",
+   "govindaṃ bhaja mūḍhamate |"
+  ],
+  "english": [
+   "Worship Govinda, worship Govinda,",
+   "worship Govinda, O foolish mind!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 89,
+  "start": "01:15:30.800",
+  "end": "01:15:44.600",
+  "start_seconds": 4530.8,
+  "end_seconds": 4544.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhaja Govindam, verse beginning \"punar api jananam\"",
+  "devanagari": [
+   "पुनरपि जननं पुनरपि मरणं",
+   "पुनरपि जननीजठरे शयनम्।"
+  ],
+  "iast": [
+   "punarapi jananaṃ punarapi maraṇaṃ",
+   "punarapi jananījaṭhare śayanam |"
+  ],
+  "english": [
+   "Birth again, and death again,",
+   "and again to lie in a mother's womb."
+  ],
+  "note": ""
+ },
+ {
+  "id": 90,
+  "start": "01:15:44.800",
+  "end": "01:15:59.100",
+  "start_seconds": 4544.8,
+  "end_seconds": 4559.1,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhaja Govindam, verse beginning \"punar api jananam\" (continued)",
+  "devanagari": [
+   "इह संसारे खलु दुस्तारे",
+   "कृपयाऽपारे पाहि मुरारे॥"
+  ],
+  "iast": [
+   "iha saṃsāre khalu dustāre",
+   "kṛpayā'pāre pāhi murāre ||"
+  ],
+  "english": [
+   "This round of worlds is hard to cross:",
+   "in your boundless mercy, save me, Murari!"
+  ],
+  "note": "Sung as \"khalu dustare\"; many editions read \"bahu-dustare\"."
+ },
+ {
+  "id": 91,
+  "start": "01:16:05.000",
+  "end": "01:16:17.500",
+  "start_seconds": 4565.0,
+  "end_seconds": 4577.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhaja Govindam, refrain",
+  "devanagari": [
+   "भज गोविन्दं भज गोविन्दं",
+   "गोविन्दं भज मूढमते।"
+  ],
+  "iast": [
+   "bhaja govindaṃ bhaja govindaṃ",
+   "govindaṃ bhaja mūḍhamate |"
+  ],
+  "english": [
+   "Worship Govinda, worship Govinda,",
+   "worship Govinda, O foolish mind!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 92,
+  "start": "01:16:51.300",
+  "end": "01:16:59.400",
+  "start_seconds": 4611.3,
+  "end_seconds": 4619.4,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship (first half)",
+  "devanagari": [
+   "आकाशात्पतितं तोयं",
+   "सागरं प्रतिगच्छति।"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ",
+   "sāgaraṃ pratigacchati |"
+  ],
+  "english": [
+   "As rain fallen from the sky",
+   "makes its way to the sea..."
+  ],
+  "note": "Sung with \"sagaram pratigacchati\", as heard; the usual text reads \"yatha gacchati sagaram\"."
+ },
+ {
+  "id": 93,
+  "start": "01:17:30.200",
+  "end": "01:17:33.000",
+  "start_seconds": 4650.2,
+  "end_seconds": 4653.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Katha Upanishad 1.1.28, last line (quoted)",
+  "devanagari": [
+   "अतिदीर्घे जीविते को रमेत॥"
+  ],
+  "iast": [
+   "atidīrghe jīvite ko rameta ||"
+  ],
+  "english": [
+   "Who would delight in a life too long?"
+  ],
+  "note": "Said to Death, who has come as a boy; only the quotation is given here."
+ },
+ {
+  "id": 94,
+  "start": "01:18:45.500",
+  "end": "01:18:58.000",
+  "start_seconds": 4725.5,
+  "end_seconds": 4738.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Manisha Panchakam, verse 2, line 1",
+  "devanagari": [
+   "ब्रह्मैवाहम् इदं जगच्च",
+   "सकलं चिन्मात्रविस्तारितम् ।"
+  ],
+  "iast": [
+   "brahmaivāham idaṃ jagacca",
+   "sakalaṃ cinmātravistāritam |"
+  ],
+  "english": [
+   "Brahman alone am I; and all this world",
+   "is but an outspreading of pure Consciousness."
+  ],
+  "note": ""
+ },
+ {
+  "id": 95,
+  "start": "01:19:01.400",
+  "end": "01:19:05.200",
+  "start_seconds": 4741.4,
+  "end_seconds": 4745.2,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Manisha Panchakam, verse 2, line 2",
+  "devanagari": [
+   "सर्वं चैतद् अविद्यया",
+   "त्रिगुणयाशेषं मया कल्पितम् ।"
+  ],
+  "iast": [
+   "sarvaṃ caitad avidyayā",
+   "triguṇayāśeṣaṃ mayā kalpitam |"
+  ],
+  "english": [
+   "And all of it, without remainder, is conjured by me",
+   "through the three-stranded power of ignorance."
+  ],
+  "note": ""
+ },
+ {
+  "id": 96,
+  "start": "01:19:05.300",
+  "end": "01:19:16.400",
+  "start_seconds": 4745.3,
+  "end_seconds": 4756.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Manisha Panchakam, verse 2, line 3",
+  "devanagari": [
+   "इत्थं यस्य दृढा मतिः",
+   "सुखतरे नित्ये परे निर्मले —"
+  ],
+  "iast": [
+   "itthaṃ yasya dṛḍhā matiḥ",
+   "sukhatare nitye pare nirmale —"
+  ],
+  "english": [
+   "He whose conviction stands firm in that",
+   "utterly blissful, eternal, supreme, stainless Reality,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 97,
+  "start": "01:19:26.400",
+  "end": "01:19:32.000",
+  "start_seconds": 4766.4,
+  "end_seconds": 4772.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Manisha Panchakam, verse 2, line 4 (the refrain)",
+  "devanagari": [
+   "चण्डालोऽस्तु स तु द्विजोऽस्तु",
+   "गुरुरित्येषा मनीषा मम ॥"
+  ],
+  "iast": [
+   "caṇḍālo'stu sa tu dvijo'stu",
+   "gururityeṣā manīṣā mama ||"
+  ],
+  "english": [
+   "be he an outcaste, be he a Brahmin, is my Guru:",
+   "this is my firm conviction."
+  ],
+  "note": ""
+ },
+ {
+  "id": 98,
+  "start": "01:19:55.800",
+  "end": "01:20:06.000",
+  "start_seconds": 4795.8,
+  "end_seconds": 4806.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Kashi Panchakam (attributed to Shankara), verse beginning \"kashyam hi kashate kashi\"",
+  "devanagari": [
+   "काश्यां हि काशते काशी",
+   "काशी सर्वप्रकाशिका।"
+  ],
+  "iast": [
+   "kāśyāṃ hi kāśate kāśī",
+   "kāśī sarvaprakāśikā |"
+  ],
+  "english": [
+   "Kashi shines out within Kashi:",
+   "Kashi is the light that illumines all."
+  ],
+  "note": "Kashi is named from \"kash\", to shine: the hymn identifies the holy city with consciousness itself."
+ },
+ {
+  "id": 99,
+  "start": "01:20:06.100",
+  "end": "01:20:18.900",
+  "start_seconds": 4806.1,
+  "end_seconds": 4818.9,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Kashi Panchakam, verse beginning \"kashyam hi kashate kashi\" (continued)",
+  "devanagari": [
+   "सा काशी विदिता येन",
+   "तेन प्राप्ता हि काशिका॥"
+  ],
+  "iast": [
+   "sā kāśī viditā yena",
+   "tena prāptā hi kāśikā ||"
+  ],
+  "english": [
+   "Whoever has known that Kashi",
+   "has truly arrived in Kashi."
+  ],
+  "note": ""
+ },
+ {
+  "id": 100,
+  "start": "01:22:01.400",
+  "end": "01:22:04.300",
+  "start_seconds": 4921.4,
+  "end_seconds": 4924.3,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 6.1.4 (quoted)",
+  "devanagari": [
+   "मृत्तिकेत्येव सत्यम्।"
+  ],
+  "iast": [
+   "mṛttiketyeva satyam |"
+  ],
+  "english": [
+   "Only the clay is real."
+  ],
+  "note": ""
+ },
+ {
+  "id": 101,
+  "start": "01:22:33.000",
+  "end": "01:22:43.000",
+  "start_seconds": 4953.0,
+  "end_seconds": 4963.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Brihadaranyaka Upanishad 2.2.2",
+  "devanagari": [
+   "अथ या अक्षन्नापस्ताभिः पर्जन्यो",
+   "या कनीनका तयादित्यः।"
+  ],
+  "iast": [
+   "atha yā akṣannāpastābhiḥ parjanyo",
+   "yā kanīnakā tayādityaḥ |"
+  ],
+  "english": [
+   "The water in the eye is the god of rain,",
+   "the pupil is the sun;"
+  ],
+  "note": "The passage begins earlier, with Rudra in the red lines of the eye, which is not clearly audible."
+ },
+ {
+  "id": 102,
+  "start": "01:22:43.100",
+  "end": "01:22:52.700",
+  "start_seconds": 4963.1,
+  "end_seconds": 4972.7,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Brihadaranyaka Upanishad 2.2.2 (continued)",
+  "devanagari": [
+   "यत्कृष्णं तेनाग्निर्यच्छुक्लं तेनेन्द्रः।",
+   "अधरयैनं वर्तन्या पृथिव्यन्वायत्ता।"
+  ],
+  "iast": [
+   "yatkṛṣṇaṃ tenāgniryacchuklaṃ tenendraḥ |",
+   "adharayainaṃ vartanyā pṛthivyanvāyattā |"
+  ],
+  "english": [
+   "its black is fire, its white is Indra,",
+   "and through the lower eyelid, the earth attends it."
+  ],
+  "note": ""
+ },
+ {
+  "id": 103,
+  "start": "01:23:35.500",
+  "end": "01:23:45.200",
+  "start_seconds": 5015.5,
+  "end_seconds": 5025.2,
+  "type": "verse",
+  "speaker": "Hastamalaka",
+  "source": "Hastamalakiya Stotram, by Hastamalaka (Shankara's disciple)",
+  "devanagari": [
+   "समस्तेषु वस्तुष्वनुस्यूतमेकं",
+   "समस्तानि वस्तूनि यन्न स्पृशन्ति।"
+  ],
+  "iast": [
+   "samasteṣu vastuṣvanusyūtamekaṃ",
+   "samastāni vastūni yanna spṛśanti |"
+  ],
+  "english": [
+   "The One that runs through all things,",
+   "yet is touched by none of them,"
+  ],
+  "note": "The boy thought to be mute answers Shankara with this verse; Shankara names him Hastamalaka, \"amalaka fruit in the hand\"."
+ },
+ {
+  "id": 104,
+  "start": "01:23:45.300",
+  "end": "01:23:54.800",
+  "start_seconds": 5025.3,
+  "end_seconds": 5034.8,
+  "type": "verse",
+  "speaker": "Hastamalaka",
+  "source": "Hastamalakiya Stotram (continued)",
+  "devanagari": [
+   "वियद्वत्सदा शुद्धमच्छस्वरूपं",
+   "स नित्योपलब्धिस्वरूपोऽहमात्मा॥"
+  ],
+  "iast": [
+   "viyadvatsadā śuddhamacchasvarūpaṃ",
+   "sa nityopalabdhisvarūpo'hamātmā ||"
+  ],
+  "english": [
+   "ever pure and clear like the sky:",
+   "I am that Self, whose nature is eternal awareness."
+  ],
+  "note": ""
+ },
+ {
+  "id": 105,
+  "start": "01:24:46.000",
+  "end": "01:24:52.400",
+  "start_seconds": 5086.0,
+  "end_seconds": 5092.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 2.69, first half (quoted)",
+  "devanagari": [
+   "या निशा सर्वभूतानां",
+   "तस्यां जागर्ति संयमी।"
+  ],
+  "iast": [
+   "yā niśā sarvabhūtānāṃ",
+   "tasyāṃ jāgarti saṃyamī |"
+  ],
+  "english": [
+   "What is night for all beings,",
+   "in that the one who is restrained is awake."
+  ],
+  "note": ""
+ },
+ {
+  "id": 106,
+  "start": "01:25:46.200",
+  "end": "01:25:54.400",
+  "start_seconds": 5146.2,
+  "end_seconds": 5154.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Brahma Sutra 3.1.1",
+  "devanagari": [
+   "तदन्तरप्रतिपत्तौ रंहति सम्परिष्वक्तः",
+   "प्रश्ननिरूपणाभ्याम्॥"
+  ],
+  "iast": [
+   "tadantarapratipattau raṃhati sampariṣvaktaḥ",
+   "praśnanirūpaṇābhyām ||"
+  ],
+  "english": [
+   "Passing to another body, the self goes enveloped:",
+   "so the question and the answer show."
+  ],
+  "note": ""
+ },
+ {
+  "id": 107,
+  "start": "01:25:58.300",
+  "end": "01:26:05.400",
+  "start_seconds": 5158.3,
+  "end_seconds": 5165.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1",
+  "devanagari": [
+   "जीवः पूर्वदेहं विहाय देहान्तरं",
+   "प्रतिपद्यत इत्येतदवगतम्।"
+  ],
+  "iast": [
+   "jīvaḥ pūrvadehaṃ vihāya dehāntaraṃ",
+   "pratipadyata ityetadavagatam |"
+  ],
+  "english": [
+   "It is understood that the soul leaves its former body",
+   "and passes into another."
+  ],
+  "note": "The debate follows the wording of Shankara's own commentary closely; only those passages are given here."
+ },
+ {
+  "id": 108,
+  "start": "01:26:05.600",
+  "end": "01:26:15.600",
+  "start_seconds": 5165.6,
+  "end_seconds": 5175.6,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1",
+  "devanagari": [
+   "स किं भूतसूक्ष्मैः सम्परिष्वक्तो गच्छति",
+   "आहोस्विदसम्परिष्वक्त इति चिन्त्यते।"
+  ],
+  "iast": [
+   "sa kiṃ bhūtasūkṣmaiḥ sampariṣvakto gacchati",
+   "āhosvidasampariṣvakta iti cintyate |"
+  ],
+  "english": [
+   "The question is whether it goes",
+   "wrapped in the subtle elements, or not."
+  ],
+  "note": "The commentary has \"deha-bijair\" before \"bhuta-sukshmaih\" and puts the two alternatives the other way round; the film's wording is slightly simplified."
+ },
+ {
+  "id": 109,
+  "start": "01:26:16.000",
+  "end": "01:26:27.200",
+  "start_seconds": 5176.0,
+  "end_seconds": 5187.2,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1",
+  "devanagari": [
+   "तदन्तरप्रतिपत्तौ देहान्तरप्रतिपत्तौ",
+   "भूतसूक्ष्मैः सम्परिष्वक्तो रंहति गच्छतीति।"
+  ],
+  "iast": [
+   "tadantarapratipattau dehāntarapratipattau",
+   "bhūtasūkṣmaiḥ sampariṣvakto raṃhati gacchatīti |"
+  ],
+  "english": [
+   "\"Passing to another\" means to another body:",
+   "it goes forth wrapped in the subtle elements."
+  ],
+  "note": ""
+ },
+ {
+  "id": 110,
+  "start": "01:26:27.300",
+  "end": "01:26:31.200",
+  "start_seconds": 5187.3,
+  "end_seconds": 5191.2,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1",
+  "devanagari": [
+   "कुतः? प्रश्ननिरूपणाभ्याम्।"
+  ],
+  "iast": [
+   "kutaḥ? praśnanirūpaṇābhyām |"
+  ],
+  "english": [
+   "How do we know? From the question and the answer."
+  ],
+  "note": ""
+ },
+ {
+  "id": 111,
+  "start": "01:26:31.300",
+  "end": "01:26:39.500",
+  "start_seconds": 5191.3,
+  "end_seconds": 5199.5,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.3.3",
+  "devanagari": [
+   "तथा हि प्रश्नः — वेत्थ यथा पञ्चम्याम्",
+   "आहुतावापः पुरुषवचसो भवन्ति इति।"
+  ],
+  "iast": [
+   "tathā hi praśnaḥ — vettha yathā pañcamyām",
+   "āhutāvāpaḥ puruṣavacaso bhavanti iti |"
+  ],
+  "english": [
+   "The question is: \"Do you know how, at the fifth offering,",
+   "the waters come to be called man?\""
+  ],
+  "note": ""
+ },
+ {
+  "id": 112,
+  "start": "01:26:39.600",
+  "end": "01:26:49.400",
+  "start_seconds": 5199.6,
+  "end_seconds": 5209.4,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.9.1",
+  "devanagari": [
+   "निरूपणं च प्रतिवचनं च — इति तु पञ्चम्याम्",
+   "आहुतावापः पुरुषवचसो भवन्ति इति।"
+  ],
+  "iast": [
+   "nirūpaṇaṃ ca prativacanaṃ ca — iti tu pañcamyām",
+   "āhutāvāpaḥ puruṣavacaso bhavanti iti |"
+  ],
+  "english": [
+   "And the answer that explains it:",
+   "\"Thus at the fifth offering the waters are called man.\""
+  ],
+  "note": ""
+ },
+ {
+  "id": 113,
+  "start": "01:27:11.500",
+  "end": "01:27:14.700",
+  "start_seconds": 5231.5,
+  "end_seconds": 5234.7,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Brahma Sutra 3.1.2",
+  "devanagari": [
+   "त्र्यात्मकत्वात्तु भूयस्त्वात्॥"
+  ],
+  "iast": [
+   "tryātmakatvāttu bhūyastvāt ||"
+  ],
+  "english": [
+   "But water is threefold,",
+   "and named for what predominates in it."
+  ],
+  "note": ""
+ },
+ {
+  "id": 114,
+  "start": "01:27:16.300",
+  "end": "01:27:25.500",
+  "start_seconds": 5236.3,
+  "end_seconds": 5245.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.4.1",
+  "devanagari": [
+   "असौ वाव लोको गौतमाग्निस्",
+   "तस्यादित्य एव समिद्रश्मयो धूमः"
+  ],
+  "iast": [
+   "asau vāva loko gautamāgnis",
+   "tasyāditya eva samidraśmayo dhūmaḥ"
+  ],
+  "english": [
+   "That world is a fire, Gautama:",
+   "the sun is its fuel, the rays its smoke,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 115,
+  "start": "01:27:25.600",
+  "end": "01:27:34.600",
+  "start_seconds": 5245.6,
+  "end_seconds": 5254.6,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.4.1 (continued)",
+  "devanagari": [
+   "अहरर्चिश्चन्द्रमा अङ्गारा",
+   "नक्षत्राणि विस्फुलिङ्गाः।"
+  ],
+  "iast": [
+   "ahararciścandramā aṅgārā",
+   "nakṣatrāṇi visphuliṅgāḥ |"
+  ],
+  "english": [
+   "the day its flame, the moon its embers,",
+   "the stars its sparks."
+  ],
+  "note": ""
+ },
+ {
+  "id": 116,
+  "start": "01:27:34.700",
+  "end": "01:27:46.000",
+  "start_seconds": 5254.7,
+  "end_seconds": 5266.0,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.4.2",
+  "devanagari": [
+   "तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां जुह्वति",
+   "तस्या आहुतेः सोमो राजा सम्भवति॥"
+  ],
+  "iast": [
+   "tasminnetasminnagnau devāḥ śraddhāṃ juhvati",
+   "tasyā āhuteḥ somo rājā sambhavati ||"
+  ],
+  "english": [
+   "Into this fire the gods offer faith;",
+   "from that offering King Soma is born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 117,
+  "start": "01:27:46.800",
+  "end": "01:27:55.900",
+  "start_seconds": 5266.8,
+  "end_seconds": 5275.9,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.5.1",
+  "devanagari": [
+   "पर्जन्यो वाव गौतमाग्निस्",
+   "तस्य वायुरेव समिदभ्रं धूमः"
+  ],
+  "iast": [
+   "parjanyo vāva gautamāgnis",
+   "tasya vāyureva samidabhraṃ dhūmaḥ"
+  ],
+  "english": [
+   "The rain-cloud is a fire, Gautama:",
+   "the wind its fuel, the mist its smoke,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 118,
+  "start": "01:27:56.000",
+  "end": "01:28:02.500",
+  "start_seconds": 5276.0,
+  "end_seconds": 5282.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.5.1 (continued)",
+  "devanagari": [
+   "विद्युदर्चिरशनिरङ्गारा",
+   "ह्रादनयो विस्फुलिङ्गाः।"
+  ],
+  "iast": [
+   "vidyudarciraśaniraṅgārā",
+   "hrādanayo visphuliṅgāḥ |"
+  ],
+  "english": [
+   "lightning its flame, the thunderbolt its embers,",
+   "the rolling thunder its sparks."
+  ],
+  "note": ""
+ },
+ {
+  "id": 119,
+  "start": "01:28:02.600",
+  "end": "01:28:13.500",
+  "start_seconds": 5282.6,
+  "end_seconds": 5293.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.5.2",
+  "devanagari": [
+   "तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति",
+   "तस्या आहुतेर्वर्षं सम्भवति॥"
+  ],
+  "iast": [
+   "tasminnetasminnagnau devāḥ somaṃ rājānaṃ juhvati",
+   "tasyā āhutervarṣaṃ sambhavati ||"
+  ],
+  "english": [
+   "Into this fire the gods offer King Soma;",
+   "from that offering rain is born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 120,
+  "start": "01:28:13.600",
+  "end": "01:28:23.300",
+  "start_seconds": 5293.6,
+  "end_seconds": 5303.3,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.6.1",
+  "devanagari": [
+   "पृथिवी वाव गौतमाग्निस्",
+   "तस्याः संवत्सर एव समिदाकाशो धूमः"
+  ],
+  "iast": [
+   "pṛthivī vāva gautamāgnis",
+   "tasyāḥ saṃvatsara eva samidākāśo dhūmaḥ"
+  ],
+  "english": [
+   "The earth is a fire, Gautama:",
+   "the year its fuel, the sky its smoke,"
+  ],
+  "note": "Recognition heard \"purusho\" here, but the text is \"prthivi\" (earth), as the feminine \"tasyah\" that follows confirms."
+ },
+ {
+  "id": 121,
+  "start": "01:28:23.400",
+  "end": "01:28:30.900",
+  "start_seconds": 5303.4,
+  "end_seconds": 5310.9,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.6.1 (continued)",
+  "devanagari": [
+   "रात्रिरर्चिर्दिशोऽङ्गारा",
+   "अवान्तरदिशो विस्फुलिङ्गाः।"
+  ],
+  "iast": [
+   "rātrirarcirdiśo'ṅgārā",
+   "avāntaradiśo visphuliṅgāḥ |"
+  ],
+  "english": [
+   "the night its flame, the four quarters its embers,",
+   "the points between them its sparks."
+  ],
+  "note": ""
+ },
+ {
+  "id": 122,
+  "start": "01:28:31.000",
+  "end": "01:28:40.000",
+  "start_seconds": 5311.0,
+  "end_seconds": 5320.0,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.6.2",
+  "devanagari": [
+   "तस्मिन्नेतस्मिन्नग्नौ देवा वर्षं जुह्वति",
+   "तस्या आहुतेरन्नं सम्भवति॥"
+  ],
+  "iast": [
+   "tasminnetasminnagnau devā varṣaṃ juhvati",
+   "tasyā āhuterannaṃ sambhavati ||"
+  ],
+  "english": [
+   "Into this fire the gods offer rain;",
+   "from that offering food is born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 123,
+  "start": "01:28:40.500",
+  "end": "01:28:49.000",
+  "start_seconds": 5320.5,
+  "end_seconds": 5329.0,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.7.1",
+  "devanagari": [
+   "पुरुषो वाव गौतमाग्निस्",
+   "तस्य वागेव समित्प्राणो धूमः"
+  ],
+  "iast": [
+   "puruṣo vāva gautamāgnis",
+   "tasya vāgeva samitprāṇo dhūmaḥ"
+  ],
+  "english": [
+   "Man is a fire, Gautama:",
+   "speech its fuel, breath its smoke,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 124,
+  "start": "01:28:49.100",
+  "end": "01:28:56.500",
+  "start_seconds": 5329.1,
+  "end_seconds": 5336.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.7.1 (continued)",
+  "devanagari": [
+   "जिह्वार्चिश्चक्षुरङ्गाराः",
+   "श्रोत्रं विस्फुलिङ्गाः।"
+  ],
+  "iast": [
+   "jihvārciścakṣuraṅgārāḥ",
+   "śrotraṃ visphuliṅgāḥ |"
+  ],
+  "english": [
+   "the tongue its flame, the eyes its embers,",
+   "the ears its sparks."
+  ],
+  "note": ""
+ },
+ {
+  "id": 125,
+  "start": "01:28:56.600",
+  "end": "01:29:06.600",
+  "start_seconds": 5336.6,
+  "end_seconds": 5346.6,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.7.2",
+  "devanagari": [
+   "तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति",
+   "तस्या आहुते रेतः सम्भवति॥"
+  ],
+  "iast": [
+   "tasminnetasminnagnau devā annaṃ juhvati",
+   "tasyā āhute retaḥ sambhavati ||"
+  ],
+  "english": [
+   "Into this fire the gods offer food;",
+   "from that offering seed is born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 126,
+  "start": "01:29:08.000",
+  "end": "01:29:16.400",
+  "start_seconds": 5348.0,
+  "end_seconds": 5356.4,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.8.1",
+  "devanagari": [
+   "योषा वाव गौतमाग्निस्",
+   "तस्या उपस्थ एव समिद्यदुपमन्त्रयते स धूमः"
+  ],
+  "iast": [
+   "yoṣā vāva gautamāgnis",
+   "tasyā upastha eva samidyadupamantrayate sa dhūmaḥ"
+  ],
+  "english": [
+   "Woman is a fire, Gautama:",
+   "her loins the fuel, the invitation the smoke,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 127,
+  "start": "01:29:16.500",
+  "end": "01:29:25.500",
+  "start_seconds": 5356.5,
+  "end_seconds": 5365.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.8.1 (continued)",
+  "devanagari": [
+   "योनिरर्चिर्यदन्तः करोति तेऽङ्गारा",
+   "अभिनन्दा विस्फुलिङ्गाः।"
+  ],
+  "iast": [
+   "yonirarciryadantaḥ karoti te'ṅgārā",
+   "abhinandā visphuliṅgāḥ |"
+  ],
+  "english": [
+   "the womb the flame, union the embers,",
+   "its pleasures the sparks."
+  ],
+  "note": ""
+ },
+ {
+  "id": 128,
+  "start": "01:29:25.600",
+  "end": "01:29:34.400",
+  "start_seconds": 5365.6,
+  "end_seconds": 5374.4,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.8.2",
+  "devanagari": [
+   "तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुह्वति",
+   "तस्या आहुतेर्गर्भः सम्भवति॥"
+  ],
+  "iast": [
+   "tasminnetasminnagnau devā reto juhvati",
+   "tasyā āhutergarbhaḥ sambhavati ||"
+  ],
+  "english": [
+   "Into this fire the gods offer seed;",
+   "from that offering the child in the womb is born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 129,
+  "start": "01:29:34.600",
+  "end": "01:29:41.500",
+  "start_seconds": 5374.6,
+  "end_seconds": 5381.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.9.1",
+  "devanagari": [
+   "इति तु पञ्चम्यामाहुतावापः",
+   "पुरुषवचसो भवन्तीति।"
+  ],
+  "iast": [
+   "iti tu pañcamyāmāhutāvāpaḥ",
+   "puruṣavacaso bhavantīti |"
+  ],
+  "english": [
+   "So it is that, at the fifth offering,",
+   "the waters come to be called man."
+  ],
+  "note": ""
+ },
+ {
+  "id": 130,
+  "start": "01:29:41.600",
+  "end": "01:29:51.200",
+  "start_seconds": 5381.6,
+  "end_seconds": 5391.2,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.9.1 (continued)",
+  "devanagari": [
+   "स उल्बावृतो गर्भो दश वा नव वा",
+   "मासानन्तः शयित्वा यावद्वाथ जायते॥"
+  ],
+  "iast": [
+   "sa ulbāvṛto garbho daśa vā nava vā",
+   "māsānantaḥ śayitvā yāvadvātha jāyate ||"
+  ],
+  "english": [
+   "Wrapped in the caul, the child lies within for ten months,",
+   "or nine, or however long, and then is born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 131,
+  "start": "01:29:51.300",
+  "end": "01:29:55.000",
+  "start_seconds": 5391.3,
+  "end_seconds": 5395.0,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.9.2",
+  "devanagari": [
+   "स जातो यावदायुषं जीवति।"
+  ],
+  "iast": [
+   "sa jāto yāvadāyuṣaṃ jīvati |"
+  ],
+  "english": [
+   "Once born, he lives out his allotted span."
+  ],
+  "note": ""
+ },
+ {
+  "id": 132,
+  "start": "01:29:55.100",
+  "end": "01:30:03.800",
+  "start_seconds": 5395.1,
+  "end_seconds": 5403.8,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 5.9.2 (continued)",
+  "devanagari": [
+   "तं प्रेतं दिष्टमितोऽग्नय एव हरन्ति",
+   "यत एवेतो यतः सम्भूतो भवति॥"
+  ],
+  "iast": [
+   "taṃ pretaṃ diṣṭamito'gnaya eva haranti",
+   "yata eveto yataḥ sambhūto bhavati ||"
+  ],
+  "english": [
+   "When he has died, they carry him to the fire,",
+   "back to where he came from, where he was born."
+  ],
+  "note": ""
+ },
+ {
+  "id": 133,
+  "start": "01:35:01.400",
+  "end": "01:35:03.700",
+  "start_seconds": 5701.4,
+  "end_seconds": 5703.7,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship (opening words)",
+  "devanagari": [
+   "आकाशात्पतितं तोयं…"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ…"
+  ],
+  "english": [
+   "As rain fallen from the sky..."
+  ],
+  "note": ""
+ },
+ {
+  "id": 134,
+  "start": "01:36:02.200",
+  "end": "01:36:13.300",
+  "start_seconds": 5762.2,
+  "end_seconds": 5773.3,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional prayer to the Narmada, said for protection from snakes",
+  "devanagari": [
+   "नर्मदायै नमः प्रातर्नर्मदायै नमो निशि।",
+   "नमोऽस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः॥"
+  ],
+  "iast": [
+   "narmadāyai namaḥ prātarnarmadāyai namo niśi |",
+   "namo'stu narmade tubhyaṃ trāhi māṃ viṣasarpataḥ ||"
+  ],
+  "english": [
+   "Homage to the Narmada at dawn and at night;",
+   "homage to you, Narmada: guard me from serpents' venom."
+  ],
+  "note": "Often attributed to the Vishnu Purana; we have not been able to confirm this."
+ },
+ {
+  "id": 135,
+  "start": "01:36:13.400",
+  "end": "01:36:24.000",
+  "start_seconds": 5773.4,
+  "end_seconds": 5784.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Hymn to Mitra (Rigveda 3.59.6, in a variant reading)",
+  "devanagari": [
+   "मित्रस्य चर्षणीधृतः श्रवो देवस्य सानसिम्।",
+   "सत्यं चित्रश्रवस्तमम्॥"
+  ],
+  "iast": [
+   "mitrasya carṣaṇīdhṛtaḥ śravo devasya sānasim |",
+   "satyaṃ citraśravastamam ||"
+  ],
+  "english": [
+   "The glory of Mitra, the god who upholds all peoples,",
+   "is true, all-winning, and of the brightest renown."
+  ],
+  "note": ""
+ },
+ {
+  "id": 136,
+  "start": "01:36:27.600",
+  "end": "01:36:31.400",
+  "start_seconds": 5787.6,
+  "end_seconds": 5791.4,
+  "type": "sung",
+  "speaker": "",
+  "source": "Hymn to Mitra (Rigveda 3.59.1, in a variant reading), opening words",
+  "devanagari": [
+   "मित्रो जनान्यातयति प्रजानन्…"
+  ],
+  "iast": [
+   "mitro janānyātayati prajānan…"
+  ],
+  "english": [
+   "Mitra, knowing all, sets the peoples in order..."
+  ],
+  "note": ""
+ },
+ {
+  "id": 137,
+  "start": "01:38:49.800",
+  "end": "01:38:52.900",
+  "start_seconds": 5929.8,
+  "end_seconds": 5932.9,
+  "type": "verse",
+  "speaker": "Mandana Mishra",
+  "source": "Vedic injunction, often cited in Mimamsa (quoted)",
+  "devanagari": [
+   "यावज्जीवमग्निहोत्रं जुहोति।"
+  ],
+  "iast": [
+   "yāvajjīvamagnihotraṃ juhoti |"
+  ],
+  "english": [
+   "As long as he lives, he offers the Agnihotra."
+  ],
+  "note": "Mandana cites it to argue that ritual action is a lifelong duty. Exact source to be confirmed."
+ },
+ {
+  "id": 138,
+  "start": "01:43:33.800",
+  "end": "01:43:38.000",
+  "start_seconds": 6213.8,
+  "end_seconds": 6218.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Purusha Sukta, Taittiriya Aranyaka 3.12.7 (quoted)",
+  "devanagari": [
+   "तमेवं विद्वानमृत इह भवति।",
+   "नान्यः पन्था…"
+  ],
+  "iast": [
+   "tamevaṃ vidvānamṛta iha bhavati |",
+   "nānyaḥ panthā…"
+  ],
+  "english": [
+   "Knowing Him thus, one becomes immortal here and now:",
+   "there is no other way..."
+  ],
+  "note": "Quoted only as far as \"nanyah pantha\". A similar line is in the Shvetashvatara Upanishad, 3.8."
+ },
+ {
+  "id": 139,
+  "start": "01:45:33.800",
+  "end": "01:45:36.400",
+  "start_seconds": 6333.8,
+  "end_seconds": 6336.4,
+  "type": "verse",
+  "speaker": "Ubhaya Bharati",
+  "source": "Taittiriya Upanishad 2.4.1 (quoted)",
+  "devanagari": [
+   "यतो वाचो निवर्तन्ते…"
+  ],
+  "iast": [
+   "yato vāco nivartante…"
+  ],
+  "english": [
+   "That from which words turn back..."
+  ],
+  "note": "Only the quotation is given here."
+ },
+ {
+  "id": 140,
+  "start": "01:46:03.400",
+  "end": "01:46:22.300",
+  "start_seconds": 6363.4,
+  "end_seconds": 6382.3,
+  "type": "verse",
+  "speaker": "",
+  "source": "Mundaka Upanishad 3.2.8",
+  "devanagari": [
+   "यथा नद्यः स्यन्दमानाः समुद्रे",
+   "अस्तं गच्छन्ति नामरूपे विहाय।"
+  ],
+  "iast": [
+   "yathā nadyaḥ syandamānāḥ samudre",
+   "astaṃ gacchanti nāmarūpe vihāya |"
+  ],
+  "english": [
+   "As flowing rivers vanish into the ocean,",
+   "leaving behind their names and forms,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 141,
+  "start": "01:46:25.000",
+  "end": "01:46:36.500",
+  "start_seconds": 6385.0,
+  "end_seconds": 6396.5,
+  "type": "verse",
+  "speaker": "",
+  "source": "Mundaka Upanishad 3.2.8 (continued)",
+  "devanagari": [
+   "तथा विद्वान्नामरूपाद्विमुक्तः",
+   "परात्परं पुरुषमुपैति दिव्यम्॥"
+  ],
+  "iast": [
+   "tathā vidvānnāmarūpādvimuktaḥ",
+   "parātparaṃ puruṣamupaiti divyam ||"
+  ],
+  "english": [
+   "so the knower, freed from name and form,",
+   "reaches the divine Person, beyond the beyond."
+  ],
+  "note": ""
+ },
+ {
+  "id": 142,
+  "start": "01:46:56.200",
+  "end": "01:47:26.600",
+  "start_seconds": 6416.2,
+  "end_seconds": 6446.6,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Nirvana Shatkam (Atma Shatkam), verse 4 (attributed to Shankara)",
+  "devanagari": [
+   "न पुण्यं न पापं न सौख्यं न दुःखं",
+   "न मन्त्रो न तीर्थं न वेदा न यज्ञाः।"
+  ],
+  "iast": [
+   "na puṇyaṃ na pāpaṃ na saukhyaṃ na duḥkhaṃ",
+   "na mantro na tīrthaṃ na vedā na yajñāḥ |"
+  ],
+  "english": [
+   "No merit, no sin; no pleasure, no pain;",
+   "no mantra, no pilgrimage, no Vedas, no sacrifice."
+  ],
+  "note": ""
+ },
+ {
+  "id": 143,
+  "start": "01:47:26.700",
+  "end": "01:47:54.400",
+  "start_seconds": 6446.7,
+  "end_seconds": 6474.4,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Nirvana Shatkam, verse 4 (continued)",
+  "devanagari": [
+   "अहं भोजनं नैव भोज्यं न भोक्ता",
+   "चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥"
+  ],
+  "iast": [
+   "ahaṃ bhojanaṃ naiva bhojyaṃ na bhoktā",
+   "cidānandarūpaḥ śivo'haṃ śivo'ham ||"
+  ],
+  "english": [
+   "Not the eating, not the food, not the one who eats:",
+   "I am consciousness and bliss. I am Shiva, I am Shiva."
+  ],
+  "note": ""
+ },
+ {
+  "id": 144,
+  "start": "01:49:05.000",
+  "end": "01:49:22.700",
+  "start_seconds": 6545.0,
+  "end_seconds": 6562.7,
+  "type": "sung",
+  "speaker": "",
+  "source": "Prapanchasara Tantra, opening verse, in praise of Sharada (attributed to Shankara)",
+  "devanagari": [
+   "अकचटतपयाद्यैः सप्तभिर्वर्णवर्गैर्",
+   "विरचितमुखबाहापादमध्याक्षिरूपा।"
+  ],
+  "iast": [
+   "akacaṭatapayādyaiḥ saptabhirvarṇavargair",
+   "viracitamukhabāhāpādamadhyākṣirūpā |"
+  ],
+  "english": [
+   "Whose face, arms, feet, waist and eyes are made",
+   "of the seven groups of letters, from a to ya:"
+  ],
+  "note": "Editions differ in the second line; ours follows the audio (\"madhyakshirupa\")."
+ },
+ {
+  "id": 145,
+  "start": "01:49:22.800",
+  "end": "01:49:46.000",
+  "start_seconds": 6562.8,
+  "end_seconds": 6586.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Hymn to Sharada (continued)",
+  "devanagari": [
+   "सकलजगदधीशा शाश्वता विश्वयोनिः",
+   "वितरतु परिशुद्धिं चेतसः शारदा वः॥"
+  ],
+  "iast": [
+   "sakalajagadadhīśā śāśvatā viśvayoniḥ",
+   "vitaratu pariśuddhiṃ cetasaḥ śāradā vaḥ ||"
+  ],
+  "english": [
+   "ruler of all the worlds, eternal, the source of all:",
+   "may Sharada grant your minds their purity."
+  ],
+  "note": ""
+ },
+ {
+  "id": 146,
+  "start": "01:52:44.700",
+  "end": "01:52:53.800",
+  "start_seconds": 6764.7,
+  "end_seconds": 6773.8,
+  "type": "sung",
+  "speaker": "",
+  "source": "Mantra to Agni, Yajurveda (Vajasaneyi Samhita 17.79)",
+  "devanagari": [
+   "सप्त ते अग्ने समिधः सप्त जिह्वाः",
+   "सप्त ऋषयः सप्त धाम प्रियाणि।"
+  ],
+  "iast": [
+   "sapta te agne samidhaḥ sapta jihvāḥ",
+   "sapta ṛṣayaḥ sapta dhāma priyāṇi |"
+  ],
+  "english": [
+   "Seven are your fuel-sticks, Agni, seven your tongues,",
+   "seven your seers, seven your beloved abodes;"
+  ],
+  "note": "Recovered from the pass with the voice filter off; heavily garbled but unmistakable. The Samhita ends the verse with \"svaha\", which is not clearly audible here."
+ },
+ {
+  "id": 147,
+  "start": "01:52:53.900",
+  "end": "01:53:03.600",
+  "start_seconds": 6773.9,
+  "end_seconds": 6783.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Mantra to Agni (continued)",
+  "devanagari": [
+   "सप्त होत्राः सप्तधा त्वा यजन्ति",
+   "सप्त योनीरापृणस्व घृतेन॥"
+  ],
+  "iast": [
+   "sapta hotrāḥ saptadhā tvā yajanti",
+   "sapta yonīrāpṛṇasva ghṛtena ||"
+  ],
+  "english": [
+   "seven priests worship you in seven ways:",
+   "fill your seven sources with ghee."
+  ],
+  "note": ""
+ },
+ {
+  "id": 148,
+  "start": "02:01:38.200",
+  "end": "02:01:59.000",
+  "start_seconds": 7298.2,
+  "end_seconds": 7319.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram (attributed to Shankara), verse beginning \"nityanandakari\"",
+  "devanagari": [
+   "नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी",
+   "निर्धूताखिलघोरपावनकरी प्रत्यक्षमाहेश्वरी।"
+  ],
+  "iast": [
+   "nityānandakarī varābhayakarī saundaryaratnākarī",
+   "nirdhūtākhilaghorapāvanakarī pratyakṣamāheśvarī |"
+  ],
+  "english": [
+   "Ever-joyful, granting boons and fearlessness,",
+   "sea of beauty, great Goddess who washes sin away,"
+  ],
+  "note": "Readings follow the audio where editions differ. Every line has been checked against the metre (shardulavikridita)."
+ },
+ {
+  "id": 149,
+  "start": "02:01:59.100",
+  "end": "02:02:21.000",
+  "start_seconds": 7319.1,
+  "end_seconds": 7341.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"nityanandakari\" (continued)",
+  "devanagari": [
+   "प्रालेयाचलवंशपावनकरी काशीपुराधीश्वरी",
+   "भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥"
+  ],
+  "iast": [
+   "prāleyācalavaṃśapāvanakarī kāśīpurādhīśvarī",
+   "bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||"
+  ],
+  "english": [
+   "purifier of the Himalaya's royal line:",
+   "Queen of Kashi, gracious Annapurna, give me alms!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 150,
+  "start": "02:02:33.800",
+  "end": "02:02:57.500",
+  "start_seconds": 7353.8,
+  "end_seconds": 7377.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"drshyadrshya\"",
+  "devanagari": [
+   "दृश्यादृश्यविभूतिवाहनकरी ब्रह्माण्डभाण्डोदरी",
+   "लीलानाटकसूत्रखेलनकरी विज्ञानदीपाङ्कुरी।"
+  ],
+  "iast": [
+   "dṛśyādṛśyavibhūtivāhanakarī brahmāṇḍabhāṇḍodarī",
+   "līlānāṭakasūtrakhelanakarī vijñānadīpāṅkurī |"
+  ],
+  "english": [
+   "Womb of the universe, bearer of all its glories,",
+   "who plays out the drama of the world, flame of wisdom,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 151,
+  "start": "02:02:57.600",
+  "end": "02:03:22.900",
+  "start_seconds": 7377.6,
+  "end_seconds": 7402.9,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"drshyadrshya\" (continued)",
+  "devanagari": [
+   "श्रीविश्वेशमनःप्रसादनकरी काशीपुराधीश्वरी",
+   "भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥"
+  ],
+  "iast": [
+   "śrīviśveśamanaḥprasādanakarī kāśīpurādhīśvarī",
+   "bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||"
+  ],
+  "english": [
+   "you who gladden the heart of Vishvanatha:",
+   "Queen of Kashi, gracious Annapurna, give me alms!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 152,
+  "start": "02:03:34.500",
+  "end": "02:03:54.000",
+  "start_seconds": 7414.5,
+  "end_seconds": 7434.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"yogananda\"",
+  "devanagari": [
+   "योगानन्दकरी रिपुक्षयकरी धर्मैकनिष्ठाकरी",
+   "चन्द्रार्कानलभासमानलहरी त्रैलोक्यरक्षाकरी।"
+  ],
+  "iast": [
+   "yogānandakarī ripukṣayakarī dharmaikaniṣṭhākarī",
+   "candrārkānalabhāsamānalaharī trailokyarakṣākarī |"
+  ],
+  "english": [
+   "Bliss of yoga, slayer of foes, upholder of dharma,",
+   "bright as sun, moon and fire, guarding the three worlds,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 153,
+  "start": "02:03:54.100",
+  "end": "02:04:14.000",
+  "start_seconds": 7434.1,
+  "end_seconds": 7454.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"yogananda\" (continued)",
+  "devanagari": [
+   "सर्वैश्वर्यकरी तपःफलकरी काशीपुराधीश्वरी",
+   "भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥"
+  ],
+  "iast": [
+   "sarvaiśvaryakarī tapaḥphalakarī kāśīpurādhīśvarī",
+   "bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||"
+  ],
+  "english": [
+   "giver of all power, and of the fruit of penance:",
+   "Queen of Kashi, gracious Annapurna, give me alms!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 154,
+  "start": "02:04:24.000",
+  "end": "02:04:45.000",
+  "start_seconds": 7464.0,
+  "end_seconds": 7485.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"devi sarvavicitra\"",
+  "devanagari": [
+   "देवी सर्वविचित्ररत्नरुचिरा दाक्षायणी सुन्दरी",
+   "वामा स्वादुपयोधरा प्रियकरी सौभाग्यमाहेश्वरी।"
+  ],
+  "iast": [
+   "devī sarvavicitraratnarucirā dākṣāyaṇī sundarī",
+   "vāmā svādupayodharā priyakarī saubhāgyamāheśvarī |"
+  ],
+  "english": [
+   "Goddess bright with every jewel, Dakshayani, the fair,",
+   "gracious, nourishing, loving, goddess of good fortune,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 155,
+  "start": "02:04:45.100",
+  "end": "02:05:05.000",
+  "start_seconds": 7485.1,
+  "end_seconds": 7505.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"devi sarvavicitra\" (continued)",
+  "devanagari": [
+   "भक्ताभीष्टकरी सदा शुभकरी काशीपुराधीश्वरी",
+   "भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥"
+  ],
+  "iast": [
+   "bhaktābhīṣṭakarī sadā śubhakarī kāśīpurādhīśvarī",
+   "bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||"
+  ],
+  "english": [
+   "granting the devotee's wish, ever bringing good:",
+   "Queen of Kashi, gracious Annapurna, give me alms!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 156,
+  "start": "02:05:12.500",
+  "end": "02:05:35.500",
+  "start_seconds": 7512.5,
+  "end_seconds": 7535.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"urvi sarvajaneshvari\"",
+  "devanagari": [
+   "उर्वी सर्वजनेश्वरी जयकरी माता कृपासागरी",
+   "वेणीनीलसमानकुन्तलधरी नित्यान्नदानेश्वरी।"
+  ],
+  "iast": [
+   "urvī sarvajaneśvarī jayakarī mātā kṛpāsāgarī",
+   "veṇīnīlasamānakuntaladharī nityānnadāneśvarī |"
+  ],
+  "english": [
+   "Queen of the earth and all its peoples, sea of mercy,",
+   "her hair dark as a braid of blue, giver of daily food,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 157,
+  "start": "02:05:35.600",
+  "end": "02:06:01.500",
+  "start_seconds": 7535.6,
+  "end_seconds": 7561.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Annapurna Stotram, verse beginning \"urvi sarvajaneshvari\" (continued)",
+  "devanagari": [
+   "साक्षान्मोक्षकरी सदा शुभकरी काशीपुराधीश्वरी",
+   "भिक्षां देहि कृपावलम्बनकरी मातान्नपूर्णेश्वरी॥"
+  ],
+  "iast": [
+   "sākṣānmokṣakarī sadā śubhakarī kāśīpurādhīśvarī",
+   "bhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||"
+  ],
+  "english": [
+   "giver of liberation itself, ever bringing good:",
+   "Queen of Kashi, gracious Annapurna, give me alms!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 158,
+  "start": "02:06:41.700",
+  "end": "02:06:43.600",
+  "start_seconds": 7601.7,
+  "end_seconds": 7603.6,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Annapurna Stotram, closing verse (quoted)",
+  "devanagari": [
+   "स्वदेशो भुवनत्रयम्।"
+  ],
+  "iast": [
+   "svadeśo bhuvanatrayam |"
+  ],
+  "english": [
+   "My homeland is the three worlds."
+  ],
+  "note": "Shankara's answer when asked where he will live; only the quotation is given here."
+ },
+ {
+  "id": 159,
+  "start": "02:09:40.500",
+  "end": "02:09:56.000",
+  "start_seconds": 7780.5,
+  "end_seconds": 7796.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Vedasara Shiva Stava (attributed to Shankara), verse beginning \"paratmanam ekam\"",
+  "devanagari": [
+   "परात्मानमेकं जगद्बीजमाद्यं",
+   "निरीहं निराकारमोङ्कारवेद्यम्।"
+  ],
+  "iast": [
+   "parātmānamekaṃ jagadbījamādyaṃ",
+   "nirīhaṃ nirākāramoṅkāravedyam |"
+  ],
+  "english": [
+   "The supreme Self, the One, the first seed of the world,",
+   "free of desire, formless, known through Om:"
+  ],
+  "note": "The same verse as at 0:08:03, now sung in full."
+ },
+ {
+  "id": 160,
+  "start": "02:09:56.100",
+  "end": "02:10:13.500",
+  "start_seconds": 7796.1,
+  "end_seconds": 7813.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Vedasara Shiva Stava, verse beginning \"paratmanam ekam\" (continued)",
+  "devanagari": [
+   "यतो जायते पाल्यते येन विश्वं",
+   "तमीशं भजे लीयते यत्र विश्वम्॥"
+  ],
+  "iast": [
+   "yato jāyate pālyate yena viśvaṃ",
+   "tamīśaṃ bhaje līyate yatra viśvam ||"
+  ],
+  "english": [
+   "from whom the world is born, by whom it is sustained,",
+   "I worship that Lord, in whom the world dissolves."
+  ],
+  "note": ""
+ },
+ {
+  "id": 161,
+  "start": "02:11:14.500",
+  "end": "02:11:19.500",
+  "start_seconds": 7874.5,
+  "end_seconds": 7879.5,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Traditional verse (quoted)",
+  "devanagari": [
+   "निस्त्रैगुण्ये पथि विचरतां",
+   "को विधिः को निषेधः॥"
+  ],
+  "iast": [
+   "nistraiguṇye pathi vicaratāṃ",
+   "ko vidhiḥ ko niṣedhaḥ ||"
+  ],
+  "english": [
+   "For those who walk the path beyond the three gunas,",
+   "what is enjoined, and what forbidden?"
+  ],
+  "note": "Shankara's answer when told that scripture forbids a monk to perform his mother's funeral rites. A widely quoted line; its source is to be confirmed."
+ },
+ {
+  "id": 162,
+  "start": "02:12:09.500",
+  "end": "02:12:20.500",
+  "start_seconds": 7929.5,
+  "end_seconds": 7940.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse on detachment",
+  "devanagari": [
+   "माता नास्ति पिता नास्ति",
+   "नास्ति बन्धुः सहोदरः।"
+  ],
+  "iast": [
+   "mātā nāsti pitā nāsti",
+   "nāsti bandhuḥ sahodaraḥ |"
+  ],
+  "english": [
+   "No mother, no father,",
+   "no kinsman, no brother;"
+  ],
+  "note": "A well-known traditional verse; its source is to be confirmed. The first words are not clearly audible."
+ },
+ {
+  "id": 163,
+  "start": "02:12:20.600",
+  "end": "02:12:31.900",
+  "start_seconds": 7940.6,
+  "end_seconds": 7951.9,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse on detachment (continued)",
+  "devanagari": [
+   "अर्थो नास्ति गृहं नास्ति",
+   "तस्माज्जाग्रत जाग्रत॥"
+  ],
+  "iast": [
+   "artho nāsti gṛhaṃ nāsti",
+   "tasmājjāgrata jāgrata ||"
+  ],
+  "english": [
+   "no wealth, no home:",
+   "so wake up, wake up!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 164,
+  "start": "02:12:32.700",
+  "end": "02:12:38.600",
+  "start_seconds": 7952.7,
+  "end_seconds": 7958.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse on detachment (refrain)",
+  "devanagari": [
+   "तस्माज्जाग्रत जाग्रत॥"
+  ],
+  "iast": [
+   "tasmājjāgrata jāgrata ||"
+  ],
+  "english": [
+   "So wake up, wake up!"
+  ],
+  "note": ""
+ },
+ {
+  "id": 165,
+  "start": "02:14:03.800",
+  "end": "02:14:21.000",
+  "start_seconds": 8043.8,
+  "end_seconds": 8061.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Saundarya Lahari, verse 4 (attributed to Shankara)",
+  "devanagari": [
+   "त्वदन्यः पाणिभ्यामभयवरदो दैवतगणः",
+   "त्वमेका नैवासि प्रकटितवराभीत्यभिनया।"
+  ],
+  "iast": [
+   "tvadanyaḥ pāṇibhyāmabhayavarado daivatagaṇaḥ",
+   "tvamekā naivāsi prakaṭitavarābhītyabhinayā |"
+  ],
+  "english": [
+   "Other gods raise a hand to grant boons and safety;",
+   "you alone make no such sign,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 166,
+  "start": "02:14:21.100",
+  "end": "02:14:42.000",
+  "start_seconds": 8061.1,
+  "end_seconds": 8082.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Saundarya Lahari, verse 4 (continued)",
+  "devanagari": [
+   "भयात्त्रातुं दातुं फलमपि च वाञ्छासमधिकं",
+   "शरण्ये लोकानां तव हि चरणावेव निपुणौ॥"
+  ],
+  "iast": [
+   "bhayāttrātuṃ dātuṃ phalamapi ca vāñchāsamadhikaṃ",
+   "śaraṇye lokānāṃ tava hi caraṇāveva nipuṇau ||"
+  ],
+  "english": [
+   "for to save from fear, and give more than is wished,",
+   "your feet alone suffice, refuge of the worlds."
+  ],
+  "note": ""
+ },
+ {
+  "id": 167,
+  "start": "02:19:00.500",
+  "end": "02:19:02.900",
+  "start_seconds": 8340.5,
+  "end_seconds": 8342.9,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 4.3.3 (quoted)",
+  "devanagari": [
+   "प्राणो वाव संवर्गः।"
+  ],
+  "iast": [
+   "prāṇo vāva saṃvargaḥ |"
+  ],
+  "english": [
+   "Breath, truly, is the gatherer."
+  ],
+  "note": "From the story of Raikva and King Janashruti; only the Upanishad's words are given here."
+ },
+ {
+  "id": 168,
+  "start": "02:19:10.800",
+  "end": "02:19:23.000",
+  "start_seconds": 8350.8,
+  "end_seconds": 8363.0,
+  "type": "verse",
+  "speaker": "",
+  "source": "Chandogya Upanishad 4.3.3 (quoted)",
+  "devanagari": [
+   "प्राणमेव वागप्येति प्राणं चक्षुः",
+   "प्राणं श्रोत्रं प्राणं मनः। प्राणो ह्येवैतान्सर्वान्संवृङ्क्ते॥"
+  ],
+  "iast": [
+   "prāṇameva vāgapyeti prāṇaṃ cakṣuḥ",
+   "prāṇaṃ śrotraṃ prāṇaṃ manaḥ | prāṇo hyevaitānsarvānsaṃvṛṅkte ||"
+  ],
+  "english": [
+   "Speech goes into breath, and the eye, the ear, the mind:",
+   "breath gathers all of them into itself."
+  ],
+  "note": ""
+ },
+ {
+  "id": 169,
+  "start": "02:21:27.200",
+  "end": "02:21:28.800",
+  "start_seconds": 8487.2,
+  "end_seconds": 8488.8,
+  "type": "verse",
+  "speaker": "",
+  "source": "Brihadaranyaka Upanishad 1.4.10 (quoted)",
+  "devanagari": [
+   "अहं ब्रह्मास्मि।"
+  ],
+  "iast": [
+   "ahaṃ brahmāsmi |"
+  ],
+  "english": [
+   "I am Brahman."
+  ],
+  "note": "Thrown back at Shankara mockingly by a Kapalika who wants to sacrifice him; only the quotation is given here."
+ },
+ {
+  "id": 170,
+  "start": "02:23:17.600",
+  "end": "02:23:33.000",
+  "start_seconds": 8597.6,
+  "end_seconds": 8613.0,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Saundarya Lahari, verse 27 (attributed to Shankara)",
+  "devanagari": [
+   "जपो जल्पः शिल्पं सकलमपि मुद्राविरचना",
+   "गतिः प्रादक्षिण्यक्रमणमशनाद्याहुतिविधिः।"
+  ],
+  "iast": [
+   "japo jalpaḥ śilpaṃ sakalamapi mudrāviracanā",
+   "gatiḥ prādakṣiṇyakramaṇamaśanādyāhutividhiḥ |"
+  ],
+  "english": [
+   "Let my chatter be prayer, every gesture a mudra,",
+   "my walking a circling of you, my eating an offering,"
+  ],
+  "note": "Shankara's prayer as he offers his body to the Kapalika."
+ },
+ {
+  "id": 171,
+  "start": "02:23:33.100",
+  "end": "02:23:53.400",
+  "start_seconds": 8613.1,
+  "end_seconds": 8633.4,
+  "type": "sung",
+  "speaker": "Shankara",
+  "source": "Saundarya Lahari, verse 27 (continued)",
+  "devanagari": [
+   "प्रणामः संवेशः सुखमखिलमात्मार्पणदृशा",
+   "सपर्यापर्यायस्तव भवतु यन्मे विलसितम्॥"
+  ],
+  "iast": [
+   "praṇāmaḥ saṃveśaḥ sukhamakhilamātmārpaṇadṛśā",
+   "saparyāparyāyastava bhavatu yanme vilasitam ||"
+  ],
+  "english": [
+   "my lying down a prostration, all my joys self-giving:",
+   "may all that I do become your worship."
+  ],
+  "note": ""
+ },
+ {
+  "id": 172,
+  "start": "02:30:19.700",
+  "end": "02:30:38.000",
+  "start_seconds": 9019.7,
+  "end_seconds": 9038.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Saundarya Lahari, verse 46",
+  "devanagari": [
+   "ललाटं लावण्यद्युतिविमलमाभाति तव यद्",
+   "द्वितीयं तन्मन्ये मकुटघटितं चन्द्रशकलम्।"
+  ],
+  "iast": [
+   "lalāṭaṃ lāvaṇyadyutivimalamābhāti tava yad",
+   "dvitīyaṃ tanmanye makuṭaghaṭitaṃ candraśakalam |"
+  ],
+  "english": [
+   "Your brow, shining with the pure light of beauty,",
+   "seems a second crescent, beside the one in your crown;"
+  ],
+  "note": ""
+ },
+ {
+  "id": 173,
+  "start": "02:30:43.800",
+  "end": "02:30:56.700",
+  "start_seconds": 9043.8,
+  "end_seconds": 9056.7,
+  "type": "sung",
+  "speaker": "",
+  "source": "Saundarya Lahari, verse 46 (continued)",
+  "devanagari": [
+   "विपर्यासन्यासादुभयमपि सम्भूय च मिथः",
+   "सुधालेपस्यूतिः परिणमति राकाहिमकरः॥"
+  ],
+  "iast": [
+   "viparyāsanyāsādubhayamapi sambhūya ca mithaḥ",
+   "sudhālepasyūtiḥ pariṇamati rākāhimakaraḥ ||"
+  ],
+  "english": [
+   "set together the other way round, the two would join,",
+   "sealed with nectar, into the full moon."
+  ],
+  "note": ""
+ },
+ {
+  "id": 174,
+  "start": "02:31:04.000",
+  "end": "02:31:21.600",
+  "start_seconds": 9064.0,
+  "end_seconds": 9081.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Saundarya Lahari, verse 75",
+  "devanagari": [
+   "तव स्तन्यं मन्ये धरणिधरकन्ये हृदयतः",
+   "पयःपारावारः परिवहति सारस्वतमिव।"
+  ],
+  "iast": [
+   "tava stanyaṃ manye dharaṇidharakanye hṛdayataḥ",
+   "payaḥpārāvāraḥ parivahati sārasvatamiva |"
+  ],
+  "english": [
+   "Mountain-born mother, the milk from your heart",
+   "is an ocean, I think, of Sarasvati's eloquence;"
+  ],
+  "note": ""
+ },
+ {
+  "id": 175,
+  "start": "02:31:24.000",
+  "end": "02:31:45.000",
+  "start_seconds": 9084.0,
+  "end_seconds": 9105.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Saundarya Lahari, verse 75 (continued)",
+  "devanagari": [
+   "दयावत्या दत्तं द्रविडशिशुरास्वाद्य तव यत्",
+   "कवीनां प्रौढानामजनि कमनीयः कवयिता॥"
+  ],
+  "iast": [
+   "dayāvatyā dattaṃ draviḍaśiśurāsvādya tava yat",
+   "kavīnāṃ prauḍhānāmajani kamanīyaḥ kavayitā ||"
+  ],
+  "english": [
+   "tasting what you gave in mercy, the Dravida child",
+   "became a poet, beloved among the great poets."
+  ],
+  "note": "Tradition reads the \"Dravida child\" as the Tamil saint Jnanasambandar, or as Shankara himself."
+ },
+ {
+  "id": 176,
+  "start": "02:31:55.400",
+  "end": "02:31:58.000",
+  "start_seconds": 9115.4,
+  "end_seconds": 9118.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Katha Upanishad 1.3.14 (quoted)",
+  "devanagari": [
+   "उत्तिष्ठत। जाग्रत।"
+  ],
+  "iast": [
+   "uttiṣṭhata | jāgrata |"
+  ],
+  "english": [
+   "Arise! Awake!"
+  ],
+  "note": "Only the quotation is given here."
+ },
+ {
+  "id": 177,
+  "start": "02:32:57.000",
+  "end": "02:33:01.400",
+  "start_seconds": 9177.0,
+  "end_seconds": 9181.4,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Taittiriya Upanishad 3.10.5",
+  "devanagari": [
+   "एतं प्राणमयमात्मानमुपसंक्रम्य…"
+  ],
+  "iast": [
+   "etaṃ prāṇamayamātmānamupasaṃkramya…"
+  ],
+  "english": [
+   "Passing beyond this self made of breath..."
+  ],
+  "note": "Recognition looped on this one phrase. The chant probably passes through all five \"selves\" (food, breath, mind, understanding, bliss) and may begin well before this. Needs a careful listen."
+ },
+ {
+  "id": 178,
+  "start": "02:34:32.500",
+  "end": "02:34:43.000",
+  "start_seconds": 9272.5,
+  "end_seconds": 9283.0,
+  "type": "verse",
+  "speaker": "",
+  "source": "Avadhuta Gita 1.1, first half (quoted)",
+  "devanagari": [
+   "ईश्वरानुग्रहादेव",
+   "पुंसामद्वैतवासना।"
+  ],
+  "iast": [
+   "īśvarānugrahādeva",
+   "puṃsāmadvaitavāsanā |"
+  ],
+  "english": [
+   "Only by the grace of God",
+   "does the longing for non-duality arise in a person."
+  ],
+  "note": "The film follows it with a line of its own, which is not given here."
+ },
+ {
+  "id": 179,
+  "start": "02:37:25.800",
+  "end": "02:37:35.000",
+  "start_seconds": 9445.8,
+  "end_seconds": 9455.0,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 18.51, first half",
+  "devanagari": [
+   "बुद्ध्या विशुद्धया युक्तो",
+   "धृत्यात्मानं नियम्य च।"
+  ],
+  "iast": [
+   "buddhyā viśuddhayā yukto",
+   "dhṛtyātmānaṃ niyamya ca |"
+  ],
+  "english": [
+   "Joined to a purified understanding,",
+   "mastering himself with steadiness,"
+  ],
+  "note": "The film strings together verses 18.51, 18.49 and 18.53."
+ },
+ {
+  "id": 180,
+  "start": "02:37:35.100",
+  "end": "02:37:46.800",
+  "start_seconds": 9455.1,
+  "end_seconds": 9466.8,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 18.51, second half",
+  "devanagari": [
+   "शब्दादीन्विषयांस्त्यक्त्वा",
+   "रागद्वेषौ व्युदस्य च॥"
+  ],
+  "iast": [
+   "śabdādīnviṣayāṃstyaktvā",
+   "rāgadveṣau vyudasya ca ||"
+  ],
+  "english": [
+   "letting go of sound and the other objects of sense,",
+   "casting off attraction and aversion,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 181,
+  "start": "02:37:46.900",
+  "end": "02:38:04.900",
+  "start_seconds": 9466.9,
+  "end_seconds": 9484.9,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 18.49",
+  "devanagari": [
+   "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।",
+   "नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति॥"
+  ],
+  "iast": [
+   "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ |",
+   "naiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||"
+  ],
+  "english": [
+   "Unattached in mind, self-mastered, free of longing,",
+   "he reaches, through renunciation, perfect actionlessness."
+  ],
+  "note": ""
+ },
+ {
+  "id": 182,
+  "start": "02:38:05.000",
+  "end": "02:38:22.100",
+  "start_seconds": 9485.0,
+  "end_seconds": 9502.1,
+  "type": "verse",
+  "speaker": "Shankara",
+  "source": "Bhagavad-gita 18.53",
+  "devanagari": [
+   "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।",
+   "विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते॥"
+  ],
+  "iast": [
+   "ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham |",
+   "vimucya nirmamaḥ śānto brahmabhūyāya kalpate ||"
+  ],
+  "english": [
+   "Free of ego, force, pride, desire, anger and grasping,",
+   "selfless and at peace, he is fit to become Brahman."
+  ],
+  "note": ""
+ },
+ {
+  "id": 183,
+  "start": "02:38:56.400",
+  "end": "02:39:04.600",
+  "start_seconds": 9536.4,
+  "end_seconds": 9544.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship (first half)",
+  "devanagari": [
+   "आकाशात्पतितं तोयं",
+   "सागरं प्रतिगच्छति।"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ",
+   "sāgaraṃ pratigacchati |"
+  ],
+  "english": [
+   "As rain fallen from the sky",
+   "makes its way to the sea..."
+  ],
+  "note": "The film ends as it began. Sung with \"sagaram pratigacchati\", as heard."
+ },
+ {
+  "id": 184,
+  "start": "02:39:04.700",
+  "end": "02:39:17.000",
+  "start_seconds": 9544.7,
+  "end_seconds": 9557.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Traditional verse, recited at the close of daily worship (first half, repeated)",
+  "devanagari": [
+   "आकाशात्पतितं तोयं",
+   "सागरं प्रतिगच्छति।"
+  ],
+  "iast": [
+   "ākāśātpatitaṃ toyaṃ",
+   "sāgaraṃ pratigacchati |"
+  ],
+  "english": [
+   "As rain fallen from the sky",
+   "makes its way to the sea..."
+  ],
+  "note": ""
+ },
+ {
+  "id": 185,
+  "start": "02:39:21.500",
+  "end": "02:39:39.300",
+  "start_seconds": 9561.5,
+  "end_seconds": 9579.3,
+  "type": "sung",
+  "speaker": "",
+  "source": "Peace invocation of the Isha Upanishad (also Brihadaranyaka Upanishad 5.1.1)",
+  "devanagari": [
+   "ॐ पूर्णमदः पूर्णमिदं",
+   "पूर्णात्पूर्णमुदच्यते।"
+  ],
+  "iast": [
+   "oṃ pūrṇamadaḥ pūrṇamidaṃ",
+   "pūrṇātpūrṇamudacyate |"
+  ],
+  "english": [
+   "That is whole; this is whole;",
+   "from the whole, the whole comes forth."
+  ],
+  "note": ""
+ },
+ {
+  "id": 186,
+  "start": "02:39:39.400",
+  "end": "02:39:48.000",
+  "start_seconds": 9579.4,
+  "end_seconds": 9588.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Peace invocation of the Isha Upanishad (continued)",
+  "devanagari": [
+   "पूर्णस्य पूर्णमादाय",
+   "पूर्णमेवावशिष्यते॥"
+  ],
+  "iast": [
+   "pūrṇasya pūrṇamādāya",
+   "pūrṇamevāvaśiṣyate ||"
+  ],
+  "english": [
+   "Take the whole from the whole,",
+   "and the whole alone remains."
+  ],
+  "note": ""
+ }
+]

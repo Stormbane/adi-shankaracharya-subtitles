@@ -1,0 +1,202 @@
+[Script Info]
+Title: Adi Shankaracharya (1983) - IAST + English
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English,Noto Sans,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,2.6,1,2,120,120,48,1
+Style: Sanskrit,Noto Sans,50,&H00B4E6FF,&H00B4E6FF,&H00000000,&H64000000,0,-1,0,0,100,100,0,0,1,2.4,1,2,120,120,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:53.90,0:01:10.60,English,,0,0,0,,{\rSanskrit}oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |\Ndhiyo yo naḥ pracodayāt ||\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:03:45.40,0:03:54.00,English,,0,0,0,,{\rSanskrit}mitrasya carṣaṇīdhṛtaḥ śravo devasya sānasim |\Nsatyaṃ citraśravastamam ||\N{\rEnglish}The glory of Mitra, the god who upholds all peoples,\Nis true, all-winning, and of the brightest renown.
+Dialogue: 0,0:03:54.10,0:04:05.00,English,,0,0,0,,{\rSanskrit}mitro janānyātayati prajānan\Nmitro dādhāra pṛthivīmuta dyām |\N{\rEnglish}Mitra, knowing all, sets the peoples in order;\NMitra holds up the earth and the sky.
+Dialogue: 0,0:04:17.70,0:04:31.26,English,,0,0,0,,{\rSanskrit}buddhaṃ śaraṇaṃ gacchāmi | dhammaṃ śaraṇaṃ gacchāmi |\Nsaṅghaṃ śaraṇaṃ gacchāmi |\N{\rEnglish}I take refuge in the Buddha. I take refuge in the Dharma.\NI take refuge in the Sangha.
+Dialogue: 0,0:04:31.30,0:04:44.70,English,,0,0,0,,{\rSanskrit}oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |\Ndhiyo yo naḥ pracodayāt ||\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:05:50.30,0:06:04.90,English,,0,0,0,,{\rSanskrit}madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ |\Nmādhvīrnaḥ santvoṣadhīḥ ||\N{\rEnglish}The winds blow honey-sweet for the righteous,\Nthe rivers run sweet; may the plants be sweet for us.
+Dialogue: 0,0:06:05.90,0:06:19.56,English,,0,0,0,,{\rSanskrit}madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ |\Nmādhvīrnaḥ santvoṣadhīḥ ||\N{\rEnglish}The winds blow honey-sweet for the righteous,\Nthe rivers run sweet; may the plants be sweet for us.
+Dialogue: 0,0:06:19.60,0:06:30.00,English,,0,0,0,,{\rSanskrit}madhu naktamutoṣaso madhumatpārthivaṃ rajaḥ |\Nmadhu dyaurastu naḥ pitā ||\N{\rEnglish}Sweet be the night and the dawns, sweet the earth's air;\Nsweet be Heaven, our father.
+Dialogue: 0,0:06:30.10,0:06:40.60,English,,0,0,0,,{\rSanskrit}madhumānno vanaspatirmadhumā̃ astu sūryaḥ |\Nmādhvīrgāvo bhavantu naḥ ||\N{\rEnglish}Sweet be the trees to us, and sweet the sun;\Nsweet be the cows to us.
+Dialogue: 0,0:06:53.80,0:07:01.80,English,,0,0,0,,{\rSanskrit}mūrdhnyādhāyātmanaḥ prāṇam\Nāsthito yogadhāraṇām |\N{\rEnglish}...holding the life-breath at the crown of the head,\Nsteadfast in the discipline of yoga,
+Dialogue: 0,0:07:01.90,0:07:06.30,English,,0,0,0,,{\rSanskrit}omityekākṣaraṃ brahma\Nvyāharanmāmanusmaran |\N{\rEnglish}uttering Om, the one syllable that is Brahman,\Nand remembering Me,
+Dialogue: 0,0:07:06.40,0:07:10.90,English,,0,0,0,,{\rSanskrit}yaḥ prayāti tyajandehaṃ\Nsa yāti paramāṃ gatim ||\N{\rEnglish}whoever departs, leaving the body,\Nreaches the highest goal.
+Dialogue: 0,0:08:03.60,0:08:17.50,English,,0,0,0,,{\rSanskrit}parātmānamekaṃ jagadbījamādyaṃ\Nnirīhaṃ nirākāramoṅkāravedyam |\N{\rEnglish}The supreme Self, the One, the first seed of the world,\Nfree of desire, formless, known through Om.
+Dialogue: 0,0:10:04.00,0:10:15.50,English,,0,0,0,,{\rSanskrit}vāyuranilamamṛtamathedaṃ\Nbhasmāntaṃ śarīram |\N{\rEnglish}Let my breath return to the deathless wind,\Nand this body end in ashes.
+Dialogue: 0,0:11:00.50,0:11:06.00,English,,0,0,0,,{\rSanskrit}oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |\Ndhiyo yo naḥ pracodayāt ||\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:11:15.40,0:11:19.20,English,,0,0,0,,{\rSanskrit}bhavati bhikṣāṃ dehi |\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:12:48.80,0:13:03.00,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ yathā gacchati sāgaram |\Nsarvadevanamaskāraḥ keśavaṃ pratigacchati ||\N{\rEnglish}As rain fallen from the sky makes its way to the sea,\Nso worship of every god goes on to Keshava.
+Dialogue: 0,0:13:04.90,0:13:14.10,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ sāgaraṃ pratigacchati |\N{\rEnglish}As rain fallen from the sky makes its way to the sea...
+Dialogue: 0,0:14:16.50,0:14:44.00,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ\Nsāgaraṃ pratigacchati |\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea,
+Dialogue: 0,0:14:44.10,0:15:03.00,English,,0,0,0,,{\rSanskrit}sarvadevanamaskāraḥ\Nkeśavaṃ pratigacchati ||\N{\rEnglish}so worship of every god\Ngoes on to Keshava.
+Dialogue: 0,0:15:47.50,0:16:02.40,English,,0,0,0,,{\rSanskrit}oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |\Ndhiyo yo naḥ pracodayāt | svāhā ||\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds. Svaha!
+Dialogue: 0,0:16:06.60,0:16:41.40,English,,0,0,0,,{\rSanskrit}oṃ bhūrbhuvaḥ svaḥ | tatsaviturvareṇyaṃ bhargo devasya dhīmahi |\Ndhiyo yo naḥ pracodayāt ||\N{\rEnglish}Om. We meditate on the divine Sun's glorious light;\Nmay it awaken our minds.
+Dialogue: 0,0:18:37.40,0:18:55.50,English,,0,0,0,,{\rSanskrit}dvā suparṇā sayujā sakhāyā\Nsamānaṃ vṛkṣaṃ pariṣasvajāte |\N{\rEnglish}Two birds, close companions,\Ncling to the same tree.
+Dialogue: 0,0:18:59.20,0:19:13.90,English,,0,0,0,,{\rSanskrit}tayoranyaḥ pippalaṃ svādvatti\Nanaśnannanyo abhicākaśīti ||\N{\rEnglish}One of them eats the sweet fruit;\Nthe other, not eating, simply looks on.
+Dialogue: 0,0:19:19.90,0:19:22.70,English,,0,0,0,,{\rSanskrit}anaśnannanyo abhicākaśīti ||\N{\rEnglish}The other, not eating, simply looks on.
+Dialogue: 0,0:19:35.00,0:19:47.50,English,,0,0,0,,{\rSanskrit}vāgarthāviva saṃpṛktau vāgarthapratipattaye |\Njagataḥ pitarau vande pārvatīparameśvarau ||\N{\rEnglish}I bow to Parvati and Shiva, parents of the world,\Njoined like word and meaning, that I may grasp both.
+Dialogue: 0,0:19:47.60,0:19:58.00,English,,0,0,0,,{\rSanskrit}vidheḥ sāyantanasyānte\Nsa dadarśa taponidhim |\N{\rEnglish}At the close of the evening rite\Nhe saw the sage, a treasure of austerity,
+Dialogue: 0,0:20:10.30,0:20:14.80,English,,0,0,0,,{\rSanskrit}anvāsitamarundhatyā\Nsvāhayeva havirbhujam ||\N{\rEnglish}with Arundhati beside him,\Nlike the sacred fire with Svaha at its side.
+Dialogue: 0,0:21:12.00,0:21:17.20,English,,0,0,0,,{\rSanskrit}avajānanti māṃ mūḍhā\Nmānuṣīṃ tanumāśritam |\N{\rEnglish}Fools disregard Me\Nwhen I take on a human form.
+Dialogue: 0,0:21:24.60,0:21:26.80,English,,0,0,0,,{\rSanskrit}bhavati bhikṣāṃ dehi |\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:21:27.00,0:21:45.20,English,,0,0,0,,{\rSanskrit}nigamakalpatarorgalitaṃ phalaṃ\Nśukamukhādamṛtadravasaṃyutam |\N{\rEnglish}Fruit fallen from the wish-tree of the Veda,\Nsweetened by nectar from Shuka's lips:
+Dialogue: 0,0:21:45.30,0:22:04.30,English,,0,0,0,,{\rSanskrit}pibata bhāgavataṃ rasamālayaṃ\Nmuhuraho rasikā bhuvi bhāvukāḥ ||\N{\rEnglish}drink deep of the Bhagavata, again and again,\Nyou on earth who know its taste and are moved!
+Dialogue: 0,0:22:34.00,0:22:46.90,English,,0,0,0,,{\rSanskrit}aṅgaṃ hareḥ pulakabhūṣaṇamāśrayantī\Nbhṛṅgāṅganeva mukulābharaṇaṃ tamālam |\N{\rEnglish}Like a bee alighting on a tamala tree in bud,\Nit rests on Hari, whose body thrills with joy:
+Dialogue: 0,0:22:51.80,0:23:00.20,English,,0,0,0,,{\rSanskrit}aṅgīkṛtākhilavibhūtirapāṅgalīlā\Nmāṅgalyadāstu mama maṅgaladevatāyāḥ ||\N{\rEnglish}that playful sidelong glance, which holds all riches:\Nmay the glance of the goddess of fortune bless me.
+Dialogue: 0,0:24:13.50,0:24:17.10,English,,0,0,0,,{\rSanskrit}bhavati bhikṣāṃ dehi |\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:24:21.00,0:24:24.60,English,,0,0,0,,{\rSanskrit}bhavati bhikṣāṃ dehi |\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:24:30.20,0:24:33.00,English,,0,0,0,,{\rSanskrit}bhavati bhikṣāṃ dehi |\N{\rEnglish}Revered lady, give me alms.
+Dialogue: 0,0:26:17.40,0:26:19.80,English,,0,0,0,,{\rSanskrit}tena tyaktena bhuñjīthāḥ |\N{\rEnglish}Enjoy through renunciation.
+Dialogue: 0,0:40:07.00,0:40:20.90,English,,0,0,0,,{\rSanskrit}vaiśvānaraḥ praviśatyatithirbrāhmaṇo gṛhān |\Ntasyaitāṃ śāntiṃ kurvanti hara vaivasvatodakam ||\N{\rEnglish}A Brahmin guest enters a house like fire itself;\Nthey soothe him so: bring water, O Yama!
+Dialogue: 0,0:40:21.10,0:40:30.70,English,,0,0,0,,{\rSanskrit}tisro rātrīryadavātsīrgṛhe me\Nanaśnanbrahmannatithirnamasyaḥ |\N{\rEnglish}Three nights you have stayed in my house unfed,\NO Brahmin, a guest worthy of honour.
+Dialogue: 0,0:40:30.80,0:40:38.50,English,,0,0,0,,{\rSanskrit}namaste'stu brahmansvasti me'stu\Ntasmātprati trīnvarānvṛṇīṣva ||\N{\rEnglish}My homage to you, Brahmin; may all be well with me.\NIn return, choose three boons.
+Dialogue: 0,0:40:38.90,0:40:45.70,English,,0,0,0,,{\rSanskrit}śāntasaṃkalpaḥ sumanā yathā syād\Nvītamanyurgautamo mā'bhi mṛtyo |\N{\rEnglish}That my father may be calm and kind of heart,\Nhis anger toward me gone, O Death...
+Dialogue: 0,0:40:47.80,0:40:54.60,English,,0,0,0,,{\rSanskrit}sa tvamagniṃ svargyamadhyeṣi mṛtyo\Nprabrūhi taṃ śraddadhānāya mahyam |\N{\rEnglish}You know the fire that leads to heaven, O Death;\Nexplain it to me, for I have faith.
+Dialogue: 0,0:40:56.20,0:41:04.50,English,,0,0,0,,{\rSanskrit}yeyaṃ prete vicikitsā manuṣye\Nastītyeke nāyamastīti caike |\N{\rEnglish}When a man has died, there is this doubt:\Nsome say he is, and some say he is not.
+Dialogue: 0,0:41:04.60,0:41:12.80,English,,0,0,0,,{\rSanskrit}etadvidyāmanuśiṣṭastvayāhaṃ\Nvarāṇāmeṣa varastṛtīyaḥ ||\N{\rEnglish}Taught by you, let me know the truth of it.\NOf my boons, this is the third.
+Dialogue: 0,0:41:13.10,0:41:19.60,English,,0,0,0,,{\rSanskrit}naciketo maraṇaṃ mā'nuprākṣīḥ |\Nanyaṃ varaṃ vṛṇīṣva |\N{\rEnglish}Nachiketa, do not question me about death.\NChoose another boon.
+Dialogue: 0,0:41:20.70,0:41:26.50,English,,0,0,0,,{\rSanskrit}nānyo varastulya etasya kaścit ||\N{\rEnglish}No other boon is equal to this one.
+Dialogue: 0,0:41:26.70,0:41:35.20,English,,0,0,0,,{\rSanskrit}śatāyuṣaḥ putrapautrānvṛṇīṣva\Nbahūnpaśūnhastihiraṇyamaśvān |\N{\rEnglish}Choose sons and grandsons to live a hundred years,\Ncattle in plenty, elephants, gold and horses;
+Dialogue: 0,0:41:35.30,0:41:43.70,English,,0,0,0,,{\rSanskrit}bhūmermahadāyatanaṃ vṛṇīṣva\Nsvayaṃ ca jīva śarado yāvadicchasi ||\N{\rEnglish}choose a vast estate on the earth,\Nand live yourself as many autumns as you wish.
+Dialogue: 0,0:41:43.80,0:41:52.60,English,,0,0,0,,{\rSanskrit}na vittena tarpaṇīyo manuṣyo\Nlapsyāmahe vittamadrākṣma cettvā |\N{\rEnglish}No one is ever satisfied by wealth.\NHaving seen you, we shall have wealth enough;
+Dialogue: 0,0:41:52.70,0:42:01.30,English,,0,0,0,,{\rSanskrit}jīviṣyāmo yāvadīśiṣyasi tvaṃ\Nvarastu me varaṇīyaḥ sa eva ||\N{\rEnglish}we shall live as long as you hold sway.\NBut the boon I choose is that one alone.
+Dialogue: 0,0:42:01.40,0:42:10.90,English,,0,0,0,,{\rSanskrit}naiṣā tarkeṇa matirāpaneyā\Nproktānyenaiva sujñānāya preṣṭha |\N{\rEnglish}This insight is not won by argument;\Ntaught by another, dear one, it is truly understood.
+Dialogue: 0,0:42:11.00,0:42:19.40,English,,0,0,0,,{\rSanskrit}yāṃ tvamāpaḥ satyadhṛtirbatāsi\Ntvādṛṅno bhūyānnaciketaḥ praṣṭā ||\N{\rEnglish}You have found it, for you hold fast to truth.\NMay we always have a questioner like you, Nachiketa!
+Dialogue: 0,0:44:09.80,0:44:30.60,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ sāgaraṃ pratigacchati |\Nsarvadevanamaskāraḥ keśavaṃ pratigacchati ||\N{\rEnglish}As rain fallen from the sky makes its way to the sea,\Nso worship of every god goes on to Keshava.
+Dialogue: 0,0:45:44.00,0:45:54.50,English,,0,0,0,,{\rSanskrit}ākhyāhi me ko bhavānugrarūpo\Nnamo'stu te devavara prasīda |\N{\rEnglish}Tell me who You are, so terrible in form.\NI bow to You, greatest of gods: be gracious.
+Dialogue: 0,0:45:54.60,0:46:05.00,English,,0,0,0,,{\rSanskrit}vijñātumicchāmi bhavantamādyaṃ\Nna hi prajānāmi tava pravṛttim ||\N{\rEnglish}I long to know You, the Primal One,\Nfor I do not understand what You are doing.
+Dialogue: 0,0:46:17.50,0:46:32.50,English,,0,0,0,,{\rSanskrit}namo arihaṃtāṇaṃ | namo siddhāṇaṃ | namo āyariyāṇaṃ |\Nnamo uvajjhāyāṇaṃ | namo loe savvasāhūṇaṃ ||\N{\rEnglish}Homage to the Arihants, to the Siddhas, to the Acharyas,\Nto the teachers, and to all the holy ones in the world.
+Dialogue: 0,0:46:33.40,0:46:58.20,English,,0,0,0,,{\rSanskrit}āyatanavān bhavati | ya evaṃ veda |\Nyo'pāmāyatanaṃ veda |\N{\rEnglish}He finds a firm abode, who knows this.\NHe who knows the abode of the waters...
+Dialogue: 0,0:51:28.00,0:51:32.70,English,,0,0,0,,{\rSanskrit}yogasthaḥ kuru karmāṇi\Nsaṅgaṃ tyaktvā dhanañjaya |\N{\rEnglish}Established in yoga, do your work, Arjuna,\Nsetting attachment aside.
+Dialogue: 0,0:53:17.90,0:53:32.30,English,,0,0,0,,{\rSanskrit}oṃ mitrasya carṣaṇīdhṛtaḥ śravo devasya sānasim |\Nsatyaṃ citraśravastamam ||\N{\rEnglish}The glory of Mitra, the god who upholds all peoples,\Nis true, all-winning, and of the brightest renown.
+Dialogue: 0,0:53:41.30,0:53:44.30,English,,0,0,0,,{\rSanskrit}brahmacaryādeva pravrajet |\N{\rEnglish}One may renounce straight from studenthood.
+Dialogue: 0,0:54:47.70,0:55:00.50,English,,0,0,0,,{\rSanskrit}tvamādidevaḥ puruṣaḥ purāṇas\Ntvamasya viśvasya paraṃ nidhānam |\N{\rEnglish}You are the first of gods, the ancient Person,\Nthe final resting place of all this world.
+Dialogue: 0,0:55:00.60,0:55:13.20,English,,0,0,0,,{\rSanskrit}vettāsi vedyaṃ ca paraṃ ca dhāma\Ntvayā tataṃ viśvamanantarūpa ||\N{\rEnglish}You are the knower and the known, the highest home;\Nby You, of endless forms, the world is pervaded.
+Dialogue: 0,0:57:37.30,0:57:41.20,English,,0,0,0,,{\rSanskrit}nāsato vidyate bhāvo\Nnābhāvo vidyate sataḥ |\N{\rEnglish}What is unreal never comes to be;\Nwhat is real never ceases to be.
+Dialogue: 0,0:58:13.60,0:58:22.10,English,,0,0,0,,{\rSanskrit}ātmā dakṣiṇata ātmottarata\Nātmaivedaṃ sarvamiti |\N{\rEnglish}The Self is to the south, the Self is to the north;\Nthe Self alone is all this.
+Dialogue: 0,0:58:22.20,0:58:28.00,English,,0,0,0,,{\rSanskrit}sa vā eṣa evaṃ paśyannevaṃ manvāna\Nevaṃ vijānan\N{\rEnglish}One who sees this, who thinks this,\Nwho knows this,
+Dialogue: 0,0:58:28.10,0:58:37.70,English,,0,0,0,,{\rSanskrit}ātmaratirātmakrīḍa\Nātmamithuna ātmānandaḥ sa svarāḍbhavati |\N{\rEnglish}rejoicing in the Self, playing in the Self,\None with it, in its bliss, is his own sovereign.
+Dialogue: 0,1:04:40.80,1:04:44.50,English,,0,0,0,,{\rSanskrit}mṛttiketyeva satyam |\N{\rEnglish}Only the clay is real.
+Dialogue: 0,1:05:28.20,1:05:38.40,English,,0,0,0,,{\rSanskrit}satyakāmo ha jābālo\Njabālāṃ mātaramāmantrayāñcakre |\N{\rEnglish}Satyakama Jabala\Nonce said to his mother, Jabala:
+Dialogue: 0,1:05:39.40,1:05:47.40,English,,0,0,0,,{\rSanskrit}brahmacaryaṃ bhavati vivatsyāmi\Nkiṃgotro nvahamasmīti ||\N{\rEnglish}"Mother, I wish to become a student of the Veda.\NWhat is my lineage?"
+Dialogue: 0,1:07:11.50,1:07:29.90,English,,0,0,0,,{\rSanskrit}bahvahaṃ carantī paricāriṇī\Nyauvane tvāmalabhe |\N{\rEnglish}In my youth I wandered much, a servant girl,\Nand then I had you.
+Dialogue: 0,1:07:30.00,1:07:37.20,English,,0,0,0,,{\rSanskrit}sāhametanna veda\Nyadgotrastvamasi |\N{\rEnglish}So I do not know\Nwhat lineage you are of.
+Dialogue: 0,1:07:46.30,1:07:49.50,English,,0,0,0,,{\rSanskrit}jabālā tu nāmāhamasmi\Nsatyakāmo nāma tvamasi |\N{\rEnglish}But my name is Jabala,\Nand your name is Satyakama.
+Dialogue: 0,1:07:56.00,1:08:03.60,English,,0,0,0,,{\rSanskrit}nāhametadveda bho yadgotro'hamasmi |\Napṛcchaṃ mātaraṃ, sā mā pratyabravīt |\N{\rEnglish}I do not know, sir, what my lineage is.\NI asked my mother, and she answered me:
+Dialogue: 0,1:08:04.20,1:08:11.16,English,,0,0,0,,{\rSanskrit}nāhametadveda tāteti | jabālā tu nāmāhamasmi\Nsatyakāmo nāma tvamasīti |\N{\rEnglish}"I do not know it, child. My name is Jabala,\Nand yours is Satyakama."
+Dialogue: 0,1:08:11.20,1:08:16.70,English,,0,0,0,,{\rSanskrit}so'haṃ satyakāmo jābālo'smi bho |\N{\rEnglish}So I am Satyakama Jabala, sir.
+Dialogue: 0,1:08:22.30,1:08:34.00,English,,0,0,0,,{\rSanskrit}naitadabrāhmaṇo vivaktumarhati |\Nsamidhaṃ somyāharopa tvā neṣye |\N{\rEnglish}None but a true Brahmin could speak like this.\NFetch the firewood, my boy: I will initiate you.
+Dialogue: 0,1:08:34.80,1:08:48.70,English,,0,0,0,,{\rSanskrit}naitādṛśaṃ brāhmaṇasyāsti vittaṃ\Nyathaikatā samatā satyatā ca |\N{\rEnglish}A Brahmin has no wealth to match this:\Noneness, even-mindedness, and truth.
+Dialogue: 0,1:11:23.10,1:11:37.60,English,,0,0,0,,{\rSanskrit}bhava śaṅkara deśika me śaraṇam ||\N{\rEnglish}Be my refuge, Shankara, my teacher.
+Dialogue: 0,1:11:37.70,1:11:56.90,English,,0,0,0,,{\rSanskrit}viditākhilaśāstrasudhājaladhe\Nmahitopaniṣatkathitārthanidhe |\N{\rEnglish}Master of the nectar-sea of all the scriptures,\Ntreasury of the truths the Upanishads teach,
+Dialogue: 0,1:11:57.00,1:12:12.40,English,,0,0,0,,{\rSanskrit}hṛdaye kalaye vimalaṃ caraṇaṃ\Nbhava śaṅkara deśika me śaraṇam ||\N{\rEnglish}I hold your spotless feet within my heart:\Nbe my refuge, Shankara, my teacher.
+Dialogue: 0,1:12:46.00,1:12:56.70,English,,0,0,0,,{\rSanskrit}samprāpte sannihite kāle\Nnahi nahi rakṣati ḍukṛñkaraṇe ||\N{\rEnglish}When the appointed hour draws near,\Nno rule of grammar will save you.
+Dialogue: 0,1:12:59.30,1:13:13.10,English,,0,0,0,,{\rSanskrit}aṅgaṃ galitaṃ palitaṃ muṇḍaṃ\Ndaśanavihīnaṃ jātaṃ tuṇḍam |\N{\rEnglish}The limbs are worn, the head gone grey,\Nthe mouth now empty of its teeth;
+Dialogue: 0,1:13:13.20,1:13:27.40,English,,0,0,0,,{\rSanskrit}vṛddho yāti gṛhītvā daṇḍaṃ\Ntadapi na muñcatyāśāpiṇḍam ||\N{\rEnglish}the old man hobbles on a stick,\Nand still he clutches at his hopes.
+Dialogue: 0,1:13:30.70,1:13:42.60,English,,0,0,0,,{\rSanskrit}bhaja govindaṃ bhaja govindaṃ\Ngovindaṃ bhaja mūḍhamate |\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:13:45.10,1:13:56.80,English,,0,0,0,,{\rSanskrit}bhaja govindaṃ bhaja govindaṃ\Ngovindaṃ bhaja mūḍhamate |\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:13:56.90,1:14:09.10,English,,0,0,0,,{\rSanskrit}bhaja govindaṃ bhaja govindaṃ\Ngovindaṃ bhaja mūḍhamate |\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:14:10.50,1:14:27.40,English,,0,0,0,,{\rSanskrit}bhaja govindaṃ bhaja govindaṃ\Ngovindaṃ bhaja mūḍhamate |\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:15:30.80,1:15:44.60,English,,0,0,0,,{\rSanskrit}punarapi jananaṃ punarapi maraṇaṃ\Npunarapi jananījaṭhare śayanam |\N{\rEnglish}Birth again, and death again,\Nand again to lie in a mother's womb.
+Dialogue: 0,1:15:44.80,1:15:59.10,English,,0,0,0,,{\rSanskrit}iha saṃsāre khalu dustāre\Nkṛpayā'pāre pāhi murāre ||\N{\rEnglish}This round of worlds is hard to cross:\Nin your boundless mercy, save me, Murari!
+Dialogue: 0,1:16:05.00,1:16:17.50,English,,0,0,0,,{\rSanskrit}bhaja govindaṃ bhaja govindaṃ\Ngovindaṃ bhaja mūḍhamate |\N{\rEnglish}Worship Govinda, worship Govinda,\Nworship Govinda, O foolish mind!
+Dialogue: 0,1:16:51.30,1:16:59.40,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ\Nsāgaraṃ pratigacchati |\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea...
+Dialogue: 0,1:17:30.20,1:17:33.00,English,,0,0,0,,{\rSanskrit}atidīrghe jīvite ko rameta ||\N{\rEnglish}Who would delight in a life too long?
+Dialogue: 0,1:18:45.50,1:18:58.00,English,,0,0,0,,{\rSanskrit}brahmaivāham idaṃ jagacca\Nsakalaṃ cinmātravistāritam |\N{\rEnglish}Brahman alone am I; and all this world\Nis but an outspreading of pure Consciousness.
+Dialogue: 0,1:19:01.40,1:19:05.20,English,,0,0,0,,{\rSanskrit}sarvaṃ caitad avidyayā\Ntriguṇayāśeṣaṃ mayā kalpitam |\N{\rEnglish}And all of it, without remainder, is conjured by me\Nthrough the three-stranded power of ignorance.
+Dialogue: 0,1:19:05.30,1:19:16.40,English,,0,0,0,,{\rSanskrit}itthaṃ yasya dṛḍhā matiḥ\Nsukhatare nitye pare nirmale —\N{\rEnglish}He whose conviction stands firm in that\Nutterly blissful, eternal, supreme, stainless Reality,
+Dialogue: 0,1:19:26.40,1:19:32.00,English,,0,0,0,,{\rSanskrit}caṇḍālo'stu sa tu dvijo'stu\Ngururityeṣā manīṣā mama ||\N{\rEnglish}be he an outcaste, be he a Brahmin, is my Guru:\Nthis is my firm conviction.
+Dialogue: 0,1:19:55.80,1:20:06.00,English,,0,0,0,,{\rSanskrit}kāśyāṃ hi kāśate kāśī\Nkāśī sarvaprakāśikā |\N{\rEnglish}Kashi shines out within Kashi:\NKashi is the light that illumines all.
+Dialogue: 0,1:20:06.10,1:20:18.90,English,,0,0,0,,{\rSanskrit}sā kāśī viditā yena\Ntena prāptā hi kāśikā ||\N{\rEnglish}Whoever has known that Kashi\Nhas truly arrived in Kashi.
+Dialogue: 0,1:22:01.40,1:22:04.30,English,,0,0,0,,{\rSanskrit}mṛttiketyeva satyam |\N{\rEnglish}Only the clay is real.
+Dialogue: 0,1:22:33.00,1:22:43.00,English,,0,0,0,,{\rSanskrit}atha yā akṣannāpastābhiḥ parjanyo\Nyā kanīnakā tayādityaḥ |\N{\rEnglish}The water in the eye is the god of rain,\Nthe pupil is the sun;
+Dialogue: 0,1:22:43.10,1:22:52.70,English,,0,0,0,,{\rSanskrit}yatkṛṣṇaṃ tenāgniryacchuklaṃ tenendraḥ |\Nadharayainaṃ vartanyā pṛthivyanvāyattā |\N{\rEnglish}its black is fire, its white is Indra,\Nand through the lower eyelid, the earth attends it.
+Dialogue: 0,1:23:35.50,1:23:45.20,English,,0,0,0,,{\rSanskrit}samasteṣu vastuṣvanusyūtamekaṃ\Nsamastāni vastūni yanna spṛśanti |\N{\rEnglish}The One that runs through all things,\Nyet is touched by none of them,
+Dialogue: 0,1:23:45.30,1:23:54.80,English,,0,0,0,,{\rSanskrit}viyadvatsadā śuddhamacchasvarūpaṃ\Nsa nityopalabdhisvarūpo'hamātmā ||\N{\rEnglish}ever pure and clear like the sky:\NI am that Self, whose nature is eternal awareness.
+Dialogue: 0,1:24:46.00,1:24:52.40,English,,0,0,0,,{\rSanskrit}yā niśā sarvabhūtānāṃ\Ntasyāṃ jāgarti saṃyamī |\N{\rEnglish}What is night for all beings,\Nin that the one who is restrained is awake.
+Dialogue: 0,1:25:46.20,1:25:54.40,English,,0,0,0,,{\rSanskrit}tadantarapratipattau raṃhati sampariṣvaktaḥ\Npraśnanirūpaṇābhyām ||\N{\rEnglish}Passing to another body, the self goes enveloped:\Nso the question and the answer show.
+Dialogue: 0,1:25:58.30,1:26:05.40,English,,0,0,0,,{\rSanskrit}jīvaḥ pūrvadehaṃ vihāya dehāntaraṃ\Npratipadyata ityetadavagatam |\N{\rEnglish}It is understood that the soul leaves its former body\Nand passes into another.
+Dialogue: 0,1:26:05.60,1:26:15.60,English,,0,0,0,,{\rSanskrit}sa kiṃ bhūtasūkṣmaiḥ sampariṣvakto gacchati\Nāhosvidasampariṣvakta iti cintyate |\N{\rEnglish}The question is whether it goes\Nwrapped in the subtle elements, or not.
+Dialogue: 0,1:26:16.00,1:26:27.20,English,,0,0,0,,{\rSanskrit}tadantarapratipattau dehāntarapratipattau\Nbhūtasūkṣmaiḥ sampariṣvakto raṃhati gacchatīti |\N{\rEnglish}"Passing to another" means to another body:\Nit goes forth wrapped in the subtle elements.
+Dialogue: 0,1:26:27.30,1:26:31.20,English,,0,0,0,,{\rSanskrit}kutaḥ? praśnanirūpaṇābhyām |\N{\rEnglish}How do we know? From the question and the answer.
+Dialogue: 0,1:26:31.30,1:26:39.50,English,,0,0,0,,{\rSanskrit}tathā hi praśnaḥ — vettha yathā pañcamyām\Nāhutāvāpaḥ puruṣavacaso bhavanti iti |\N{\rEnglish}The question is: "Do you know how, at the fifth offering,\Nthe waters come to be called man?"
+Dialogue: 0,1:26:39.60,1:26:49.40,English,,0,0,0,,{\rSanskrit}nirūpaṇaṃ ca prativacanaṃ ca — iti tu pañcamyām\Nāhutāvāpaḥ puruṣavacaso bhavanti iti |\N{\rEnglish}And the answer that explains it:\N"Thus at the fifth offering the waters are called man."
+Dialogue: 0,1:27:11.50,1:27:14.70,English,,0,0,0,,{\rSanskrit}tryātmakatvāttu bhūyastvāt ||\N{\rEnglish}But water is threefold,\Nand named for what predominates in it.
+Dialogue: 0,1:27:16.30,1:27:25.50,English,,0,0,0,,{\rSanskrit}asau vāva loko gautamāgnis\Ntasyāditya eva samidraśmayo dhūmaḥ\N{\rEnglish}That world is a fire, Gautama:\Nthe sun is its fuel, the rays its smoke,
+Dialogue: 0,1:27:25.60,1:27:34.60,English,,0,0,0,,{\rSanskrit}ahararciścandramā aṅgārā\Nnakṣatrāṇi visphuliṅgāḥ |\N{\rEnglish}the day its flame, the moon its embers,\Nthe stars its sparks.
+Dialogue: 0,1:27:34.70,1:27:46.00,English,,0,0,0,,{\rSanskrit}tasminnetasminnagnau devāḥ śraddhāṃ juhvati\Ntasyā āhuteḥ somo rājā sambhavati ||\N{\rEnglish}Into this fire the gods offer faith;\Nfrom that offering King Soma is born.
+Dialogue: 0,1:27:46.80,1:27:55.90,English,,0,0,0,,{\rSanskrit}parjanyo vāva gautamāgnis\Ntasya vāyureva samidabhraṃ dhūmaḥ\N{\rEnglish}The rain-cloud is a fire, Gautama:\Nthe wind its fuel, the mist its smoke,
+Dialogue: 0,1:27:56.00,1:28:02.50,English,,0,0,0,,{\rSanskrit}vidyudarciraśaniraṅgārā\Nhrādanayo visphuliṅgāḥ |\N{\rEnglish}lightning its flame, the thunderbolt its embers,\Nthe rolling thunder its sparks.
+Dialogue: 0,1:28:02.60,1:28:13.50,English,,0,0,0,,{\rSanskrit}tasminnetasminnagnau devāḥ somaṃ rājānaṃ juhvati\Ntasyā āhutervarṣaṃ sambhavati ||\N{\rEnglish}Into this fire the gods offer King Soma;\Nfrom that offering rain is born.
+Dialogue: 0,1:28:13.60,1:28:23.30,English,,0,0,0,,{\rSanskrit}pṛthivī vāva gautamāgnis\Ntasyāḥ saṃvatsara eva samidākāśo dhūmaḥ\N{\rEnglish}The earth is a fire, Gautama:\Nthe year its fuel, the sky its smoke,
+Dialogue: 0,1:28:23.40,1:28:30.90,English,,0,0,0,,{\rSanskrit}rātrirarcirdiśo'ṅgārā\Navāntaradiśo visphuliṅgāḥ |\N{\rEnglish}the night its flame, the four quarters its embers,\Nthe points between them its sparks.
+Dialogue: 0,1:28:31.00,1:28:40.00,English,,0,0,0,,{\rSanskrit}tasminnetasminnagnau devā varṣaṃ juhvati\Ntasyā āhuterannaṃ sambhavati ||\N{\rEnglish}Into this fire the gods offer rain;\Nfrom that offering food is born.
+Dialogue: 0,1:28:40.50,1:28:49.00,English,,0,0,0,,{\rSanskrit}puruṣo vāva gautamāgnis\Ntasya vāgeva samitprāṇo dhūmaḥ\N{\rEnglish}Man is a fire, Gautama:\Nspeech its fuel, breath its smoke,
+Dialogue: 0,1:28:49.10,1:28:56.50,English,,0,0,0,,{\rSanskrit}jihvārciścakṣuraṅgārāḥ\Nśrotraṃ visphuliṅgāḥ |\N{\rEnglish}the tongue its flame, the eyes its embers,\Nthe ears its sparks.
+Dialogue: 0,1:28:56.60,1:29:06.60,English,,0,0,0,,{\rSanskrit}tasminnetasminnagnau devā annaṃ juhvati\Ntasyā āhute retaḥ sambhavati ||\N{\rEnglish}Into this fire the gods offer food;\Nfrom that offering seed is born.
+Dialogue: 0,1:29:08.00,1:29:16.40,English,,0,0,0,,{\rSanskrit}yoṣā vāva gautamāgnis\Ntasyā upastha eva samidyadupamantrayate sa dhūmaḥ\N{\rEnglish}Woman is a fire, Gautama:\Nher loins the fuel, the invitation the smoke,
+Dialogue: 0,1:29:16.50,1:29:25.50,English,,0,0,0,,{\rSanskrit}yonirarciryadantaḥ karoti te'ṅgārā\Nabhinandā visphuliṅgāḥ |\N{\rEnglish}the womb the flame, union the embers,\Nits pleasures the sparks.
+Dialogue: 0,1:29:25.60,1:29:34.40,English,,0,0,0,,{\rSanskrit}tasminnetasminnagnau devā reto juhvati\Ntasyā āhutergarbhaḥ sambhavati ||\N{\rEnglish}Into this fire the gods offer seed;\Nfrom that offering the child in the womb is born.
+Dialogue: 0,1:29:34.60,1:29:41.50,English,,0,0,0,,{\rSanskrit}iti tu pañcamyāmāhutāvāpaḥ\Npuruṣavacaso bhavantīti |\N{\rEnglish}So it is that, at the fifth offering,\Nthe waters come to be called man.
+Dialogue: 0,1:29:41.60,1:29:51.20,English,,0,0,0,,{\rSanskrit}sa ulbāvṛto garbho daśa vā nava vā\Nmāsānantaḥ śayitvā yāvadvātha jāyate ||\N{\rEnglish}Wrapped in the caul, the child lies within for ten months,\Nor nine, or however long, and then is born.
+Dialogue: 0,1:29:51.30,1:29:55.00,English,,0,0,0,,{\rSanskrit}sa jāto yāvadāyuṣaṃ jīvati |\N{\rEnglish}Once born, he lives out his allotted span.
+Dialogue: 0,1:29:55.10,1:30:03.80,English,,0,0,0,,{\rSanskrit}taṃ pretaṃ diṣṭamito'gnaya eva haranti\Nyata eveto yataḥ sambhūto bhavati ||\N{\rEnglish}When he has died, they carry him to the fire,\Nback to where he came from, where he was born.
+Dialogue: 0,1:35:01.40,1:35:03.70,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ…\N{\rEnglish}As rain fallen from the sky...
+Dialogue: 0,1:36:02.20,1:36:13.30,English,,0,0,0,,{\rSanskrit}narmadāyai namaḥ prātarnarmadāyai namo niśi |\Nnamo'stu narmade tubhyaṃ trāhi māṃ viṣasarpataḥ ||\N{\rEnglish}Homage to the Narmada at dawn and at night;\Nhomage to you, Narmada: guard me from serpents' venom.
+Dialogue: 0,1:36:13.40,1:36:24.00,English,,0,0,0,,{\rSanskrit}mitrasya carṣaṇīdhṛtaḥ śravo devasya sānasim |\Nsatyaṃ citraśravastamam ||\N{\rEnglish}The glory of Mitra, the god who upholds all peoples,\Nis true, all-winning, and of the brightest renown.
+Dialogue: 0,1:36:27.60,1:36:31.40,English,,0,0,0,,{\rSanskrit}mitro janānyātayati prajānan…\N{\rEnglish}Mitra, knowing all, sets the peoples in order...
+Dialogue: 0,1:38:49.80,1:38:52.90,English,,0,0,0,,{\rSanskrit}yāvajjīvamagnihotraṃ juhoti |\N{\rEnglish}As long as he lives, he offers the Agnihotra.
+Dialogue: 0,1:43:33.80,1:43:38.00,English,,0,0,0,,{\rSanskrit}tamevaṃ vidvānamṛta iha bhavati |\Nnānyaḥ panthā…\N{\rEnglish}Knowing Him thus, one becomes immortal here and now:\Nthere is no other way...
+Dialogue: 0,1:45:33.80,1:45:36.40,English,,0,0,0,,{\rSanskrit}yato vāco nivartante…\N{\rEnglish}That from which words turn back...
+Dialogue: 0,1:46:03.40,1:46:22.30,English,,0,0,0,,{\rSanskrit}yathā nadyaḥ syandamānāḥ samudre\Nastaṃ gacchanti nāmarūpe vihāya |\N{\rEnglish}As flowing rivers vanish into the ocean,\Nleaving behind their names and forms,
+Dialogue: 0,1:46:25.00,1:46:36.50,English,,0,0,0,,{\rSanskrit}tathā vidvānnāmarūpādvimuktaḥ\Nparātparaṃ puruṣamupaiti divyam ||\N{\rEnglish}so the knower, freed from name and form,\Nreaches the divine Person, beyond the beyond.
+Dialogue: 0,1:46:56.20,1:47:26.60,English,,0,0,0,,{\rSanskrit}na puṇyaṃ na pāpaṃ na saukhyaṃ na duḥkhaṃ\Nna mantro na tīrthaṃ na vedā na yajñāḥ |\N{\rEnglish}No merit, no sin; no pleasure, no pain;\Nno mantra, no pilgrimage, no Vedas, no sacrifice.
+Dialogue: 0,1:47:26.70,1:47:54.40,English,,0,0,0,,{\rSanskrit}ahaṃ bhojanaṃ naiva bhojyaṃ na bhoktā\Ncidānandarūpaḥ śivo'haṃ śivo'ham ||\N{\rEnglish}Not the eating, not the food, not the one who eats:\NI am consciousness and bliss. I am Shiva, I am Shiva.
+Dialogue: 0,1:49:05.00,1:49:22.70,English,,0,0,0,,{\rSanskrit}akacaṭatapayādyaiḥ saptabhirvarṇavargair\Nviracitamukhabāhāpādamadhyākṣirūpā |\N{\rEnglish}Whose face, arms, feet, waist and eyes are made\Nof the seven groups of letters, from a to ya:
+Dialogue: 0,1:49:22.80,1:49:46.00,English,,0,0,0,,{\rSanskrit}sakalajagadadhīśā śāśvatā viśvayoniḥ\Nvitaratu pariśuddhiṃ cetasaḥ śāradā vaḥ ||\N{\rEnglish}ruler of all the worlds, eternal, the source of all:\Nmay Sharada grant your minds their purity.
+Dialogue: 0,1:52:44.70,1:52:53.80,English,,0,0,0,,{\rSanskrit}sapta te agne samidhaḥ sapta jihvāḥ\Nsapta ṛṣayaḥ sapta dhāma priyāṇi |\N{\rEnglish}Seven are your fuel-sticks, Agni, seven your tongues,\Nseven your seers, seven your beloved abodes;
+Dialogue: 0,1:52:53.90,1:53:03.60,English,,0,0,0,,{\rSanskrit}sapta hotrāḥ saptadhā tvā yajanti\Nsapta yonīrāpṛṇasva ghṛtena ||\N{\rEnglish}seven priests worship you in seven ways:\Nfill your seven sources with ghee.
+Dialogue: 0,2:01:38.20,2:01:59.00,English,,0,0,0,,{\rSanskrit}nityānandakarī varābhayakarī saundaryaratnākarī\Nnirdhūtākhilaghorapāvanakarī pratyakṣamāheśvarī |\N{\rEnglish}Ever-joyful, granting boons and fearlessness,\Nsea of beauty, great Goddess who washes sin away,
+Dialogue: 0,2:01:59.10,2:02:21.00,English,,0,0,0,,{\rSanskrit}prāleyācalavaṃśapāvanakarī kāśīpurādhīśvarī\Nbhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||\N{\rEnglish}purifier of the Himalaya's royal line:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:02:33.80,2:02:57.50,English,,0,0,0,,{\rSanskrit}dṛśyādṛśyavibhūtivāhanakarī brahmāṇḍabhāṇḍodarī\Nlīlānāṭakasūtrakhelanakarī vijñānadīpāṅkurī |\N{\rEnglish}Womb of the universe, bearer of all its glories,\Nwho plays out the drama of the world, flame of wisdom,
+Dialogue: 0,2:02:57.60,2:03:22.90,English,,0,0,0,,{\rSanskrit}śrīviśveśamanaḥprasādanakarī kāśīpurādhīśvarī\Nbhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||\N{\rEnglish}you who gladden the heart of Vishvanatha:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:03:34.50,2:03:54.00,English,,0,0,0,,{\rSanskrit}yogānandakarī ripukṣayakarī dharmaikaniṣṭhākarī\Ncandrārkānalabhāsamānalaharī trailokyarakṣākarī |\N{\rEnglish}Bliss of yoga, slayer of foes, upholder of dharma,\Nbright as sun, moon and fire, guarding the three worlds,
+Dialogue: 0,2:03:54.10,2:04:14.00,English,,0,0,0,,{\rSanskrit}sarvaiśvaryakarī tapaḥphalakarī kāśīpurādhīśvarī\Nbhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||\N{\rEnglish}giver of all power, and of the fruit of penance:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:04:24.00,2:04:45.00,English,,0,0,0,,{\rSanskrit}devī sarvavicitraratnarucirā dākṣāyaṇī sundarī\Nvāmā svādupayodharā priyakarī saubhāgyamāheśvarī |\N{\rEnglish}Goddess bright with every jewel, Dakshayani, the fair,\Ngracious, nourishing, loving, goddess of good fortune,
+Dialogue: 0,2:04:45.10,2:05:05.00,English,,0,0,0,,{\rSanskrit}bhaktābhīṣṭakarī sadā śubhakarī kāśīpurādhīśvarī\Nbhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||\N{\rEnglish}granting the devotee's wish, ever bringing good:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:05:12.50,2:05:35.50,English,,0,0,0,,{\rSanskrit}urvī sarvajaneśvarī jayakarī mātā kṛpāsāgarī\Nveṇīnīlasamānakuntaladharī nityānnadāneśvarī |\N{\rEnglish}Queen of the earth and all its peoples, sea of mercy,\Nher hair dark as a braid of blue, giver of daily food,
+Dialogue: 0,2:05:35.60,2:06:01.50,English,,0,0,0,,{\rSanskrit}sākṣānmokṣakarī sadā śubhakarī kāśīpurādhīśvarī\Nbhikṣāṃ dehi kṛpāvalambanakarī mātānnapūrṇeśvarī ||\N{\rEnglish}giver of liberation itself, ever bringing good:\NQueen of Kashi, gracious Annapurna, give me alms!
+Dialogue: 0,2:06:41.70,2:06:43.60,English,,0,0,0,,{\rSanskrit}svadeśo bhuvanatrayam |\N{\rEnglish}My homeland is the three worlds.
+Dialogue: 0,2:09:40.50,2:09:56.00,English,,0,0,0,,{\rSanskrit}parātmānamekaṃ jagadbījamādyaṃ\Nnirīhaṃ nirākāramoṅkāravedyam |\N{\rEnglish}The supreme Self, the One, the first seed of the world,\Nfree of desire, formless, known through Om:
+Dialogue: 0,2:09:56.10,2:10:13.50,English,,0,0,0,,{\rSanskrit}yato jāyate pālyate yena viśvaṃ\Ntamīśaṃ bhaje līyate yatra viśvam ||\N{\rEnglish}from whom the world is born, by whom it is sustained,\NI worship that Lord, in whom the world dissolves.
+Dialogue: 0,2:11:14.50,2:11:19.50,English,,0,0,0,,{\rSanskrit}nistraiguṇye pathi vicaratāṃ\Nko vidhiḥ ko niṣedhaḥ ||\N{\rEnglish}For those who walk the path beyond the three gunas,\Nwhat is enjoined, and what forbidden?
+Dialogue: 0,2:12:09.50,2:12:20.50,English,,0,0,0,,{\rSanskrit}mātā nāsti pitā nāsti\Nnāsti bandhuḥ sahodaraḥ |\N{\rEnglish}No mother, no father,\Nno kinsman, no brother;
+Dialogue: 0,2:12:20.60,2:12:31.90,English,,0,0,0,,{\rSanskrit}artho nāsti gṛhaṃ nāsti\Ntasmājjāgrata jāgrata ||\N{\rEnglish}no wealth, no home:\Nso wake up, wake up!
+Dialogue: 0,2:12:32.70,2:12:38.60,English,,0,0,0,,{\rSanskrit}tasmājjāgrata jāgrata ||\N{\rEnglish}So wake up, wake up!
+Dialogue: 0,2:14:03.80,2:14:21.00,English,,0,0,0,,{\rSanskrit}tvadanyaḥ pāṇibhyāmabhayavarado daivatagaṇaḥ\Ntvamekā naivāsi prakaṭitavarābhītyabhinayā |\N{\rEnglish}Other gods raise a hand to grant boons and safety;\Nyou alone make no such sign,
+Dialogue: 0,2:14:21.10,2:14:42.00,English,,0,0,0,,{\rSanskrit}bhayāttrātuṃ dātuṃ phalamapi ca vāñchāsamadhikaṃ\Nśaraṇye lokānāṃ tava hi caraṇāveva nipuṇau ||\N{\rEnglish}for to save from fear, and give more than is wished,\Nyour feet alone suffice, refuge of the worlds.
+Dialogue: 0,2:19:00.50,2:19:02.90,English,,0,0,0,,{\rSanskrit}prāṇo vāva saṃvargaḥ |\N{\rEnglish}Breath, truly, is the gatherer.
+Dialogue: 0,2:19:10.80,2:19:23.00,English,,0,0,0,,{\rSanskrit}prāṇameva vāgapyeti prāṇaṃ cakṣuḥ\Nprāṇaṃ śrotraṃ prāṇaṃ manaḥ | prāṇo hyevaitānsarvānsaṃvṛṅkte ||\N{\rEnglish}Speech goes into breath, and the eye, the ear, the mind:\Nbreath gathers all of them into itself.
+Dialogue: 0,2:21:27.20,2:21:28.80,English,,0,0,0,,{\rSanskrit}ahaṃ brahmāsmi |\N{\rEnglish}I am Brahman.
+Dialogue: 0,2:23:17.60,2:23:33.00,English,,0,0,0,,{\rSanskrit}japo jalpaḥ śilpaṃ sakalamapi mudrāviracanā\Ngatiḥ prādakṣiṇyakramaṇamaśanādyāhutividhiḥ |\N{\rEnglish}Let my chatter be prayer, every gesture a mudra,\Nmy walking a circling of you, my eating an offering,
+Dialogue: 0,2:23:33.10,2:23:53.40,English,,0,0,0,,{\rSanskrit}praṇāmaḥ saṃveśaḥ sukhamakhilamātmārpaṇadṛśā\Nsaparyāparyāyastava bhavatu yanme vilasitam ||\N{\rEnglish}my lying down a prostration, all my joys self-giving:\Nmay all that I do become your worship.
+Dialogue: 0,2:30:19.70,2:30:38.00,English,,0,0,0,,{\rSanskrit}lalāṭaṃ lāvaṇyadyutivimalamābhāti tava yad\Ndvitīyaṃ tanmanye makuṭaghaṭitaṃ candraśakalam |\N{\rEnglish}Your brow, shining with the pure light of beauty,\Nseems a second crescent, beside the one in your crown;
+Dialogue: 0,2:30:43.80,2:30:56.70,English,,0,0,0,,{\rSanskrit}viparyāsanyāsādubhayamapi sambhūya ca mithaḥ\Nsudhālepasyūtiḥ pariṇamati rākāhimakaraḥ ||\N{\rEnglish}set together the other way round, the two would join,\Nsealed with nectar, into the full moon.
+Dialogue: 0,2:31:04.00,2:31:21.60,English,,0,0,0,,{\rSanskrit}tava stanyaṃ manye dharaṇidharakanye hṛdayataḥ\Npayaḥpārāvāraḥ parivahati sārasvatamiva |\N{\rEnglish}Mountain-born mother, the milk from your heart\Nis an ocean, I think, of Sarasvati's eloquence;
+Dialogue: 0,2:31:24.00,2:31:45.00,English,,0,0,0,,{\rSanskrit}dayāvatyā dattaṃ draviḍaśiśurāsvādya tava yat\Nkavīnāṃ prauḍhānāmajani kamanīyaḥ kavayitā ||\N{\rEnglish}tasting what you gave in mercy, the Dravida child\Nbecame a poet, beloved among the great poets.
+Dialogue: 0,2:31:55.40,2:31:58.00,English,,0,0,0,,{\rSanskrit}uttiṣṭhata | jāgrata |\N{\rEnglish}Arise! Awake!
+Dialogue: 0,2:32:57.00,2:33:01.40,English,,0,0,0,,{\rSanskrit}etaṃ prāṇamayamātmānamupasaṃkramya…\N{\rEnglish}Passing beyond this self made of breath...
+Dialogue: 0,2:34:32.50,2:34:43.00,English,,0,0,0,,{\rSanskrit}īśvarānugrahādeva\Npuṃsāmadvaitavāsanā |\N{\rEnglish}Only by the grace of God\Ndoes the longing for non-duality arise in a person.
+Dialogue: 0,2:37:25.80,2:37:35.00,English,,0,0,0,,{\rSanskrit}buddhyā viśuddhayā yukto\Ndhṛtyātmānaṃ niyamya ca |\N{\rEnglish}Joined to a purified understanding,\Nmastering himself with steadiness,
+Dialogue: 0,2:37:35.10,2:37:46.80,English,,0,0,0,,{\rSanskrit}śabdādīnviṣayāṃstyaktvā\Nrāgadveṣau vyudasya ca ||\N{\rEnglish}letting go of sound and the other objects of sense,\Ncasting off attraction and aversion,
+Dialogue: 0,2:37:46.90,2:38:04.90,English,,0,0,0,,{\rSanskrit}asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ |\Nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||\N{\rEnglish}Unattached in mind, self-mastered, free of longing,\Nhe reaches, through renunciation, perfect actionlessness.
+Dialogue: 0,2:38:05.00,2:38:22.10,English,,0,0,0,,{\rSanskrit}ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham |\Nvimucya nirmamaḥ śānto brahmabhūyāya kalpate ||\N{\rEnglish}Free of ego, force, pride, desire, anger and grasping,\Nselfless and at peace, he is fit to become Brahman.
+Dialogue: 0,2:38:56.40,2:39:04.60,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ\Nsāgaraṃ pratigacchati |\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea...
+Dialogue: 0,2:39:04.70,2:39:17.00,English,,0,0,0,,{\rSanskrit}ākāśātpatitaṃ toyaṃ\Nsāgaraṃ pratigacchati |\N{\rEnglish}As rain fallen from the sky\Nmakes its way to the sea...
+Dialogue: 0,2:39:21.50,2:39:39.30,English,,0,0,0,,{\rSanskrit}oṃ pūrṇamadaḥ pūrṇamidaṃ\Npūrṇātpūrṇamudacyate |\N{\rEnglish}That is whole; this is whole;\Nfrom the whole, the whole comes forth.
+Dialogue: 0,2:39:39.40,2:39:48.00,English,,0,0,0,,{\rSanskrit}pūrṇasya pūrṇamādāya\Npūrṇamevāvaśiṣyate ||\N{\rEnglish}Take the whole from the whole,\Nand the whole alone remains.
