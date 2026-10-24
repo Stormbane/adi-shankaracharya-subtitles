@@ -66,7 +66,7 @@
    "Mitra, knowing all, sets the peoples in order;",
    "Mitra holds up the earth and the sky."
   ],
-  "note": "Only the first half is clearly identifiable. The chant has \"prajanan\" (knowing) where the Rigveda has \"bruvanah\" (speaking), apparently the same variant tradition as the verse above; the line is heard again at 1:36:27."
+  "note": "Only the first half is clearly identifiable. The chant has \"prajanan\" (knowing) where the Rigveda has \"bruvanah\" (speaking), apparently the same variant tradition as the verse above, whose source is still to be confirmed. The line is heard again at 1:36:27."
  },
  {
   "id": 4,
@@ -163,55 +163,78 @@
  {
   "id": 8,
   "start": "00:06:19.600",
-  "end": "00:06:30.000",
+  "end": "00:06:29.400",
   "start_seconds": 379.6,
-  "end_seconds": 390.0,
-  "type": "reconstructed",
+  "end_seconds": 389.4,
+  "type": "sung",
   "speaker": "",
-  "source": "Rigveda 1.90.7",
+  "source": "Medha Sukta, Mahanarayana Upanishad (Taittiriya Aranyaka 10)",
   "devanagari": [
-   "मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः।",
-   "मधु द्यौरस्तु नः पिता॥"
+   "मयि मेधां मयि प्रजां मय्यग्निस्तेजो दधातु।",
+   "… मयि सूर्यो भ्राजो दधातु॥"
   ],
   "iast": [
-   "madhu naktamutoṣaso madhumatpārthivaṃ rajaḥ |",
-   "madhu dyaurastu naḥ pitā ||"
+   "mayi medhāṃ mayi prajāṃ mayyagnistejo dadhātu |",
+   "… mayi sūryo bhrājo dadhātu ||"
   ],
   "english": [
-   "Sweet be the night and the dawns, sweet the earth's air;",
-   "sweet be Heaven, our father."
+   "Grant me wisdom and offspring; may Agni give me fire,",
+   "...and may the Sun give me radiance."
   ],
-  "note": "Heavily garbled in recognition; identified because these verses conventionally follow 1.90.6. Needs a careful listen."
+  "note": "Identified from a voice-enhanced pass (\"mayi ... prajam\", \"mayi suryo bhrajo dadhatu\"). An earlier draft guessed Rigveda 1.90.7 here, wrongly. The mantra has a middle line (Indra) that is not clearly audible."
  },
  {
   "id": 9,
-  "start": "00:06:30.100",
-  "end": "00:06:40.600",
-  "start_seconds": 390.1,
-  "end_seconds": 400.6,
-  "type": "reconstructed",
+  "start": "00:06:29.500",
+  "end": "00:06:39.500",
+  "start_seconds": 389.5,
+  "end_seconds": 399.5,
+  "type": "sung",
   "speaker": "",
-  "source": "Rigveda 1.90.8",
+  "source": "Prayer to Agni, recited in fire rituals",
   "devanagari": [
-   "मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः।",
-   "माध्वीर्गावो भवन्तु नः॥"
+   "यत्ते अग्ने तेजस्तेनाहं",
+   "तेजस्वी भूयासम्।"
   ],
   "iast": [
-   "madhumānno vanaspatirmadhumā̃ astu sūryaḥ |",
-   "mādhvīrgāvo bhavantu naḥ ||"
+   "yatte agne tejastenāhaṃ",
+   "tejasvī bhūyāsam |"
   ],
   "english": [
-   "Sweet be the trees to us, and sweet the sun;",
-   "sweet be the cows to us."
+   "Agni, by your fire",
+   "may I be full of fire."
   ],
-  "note": "As above; the word \"suryah\" is audible."
+  "note": "Identified from a voice-enhanced pass. The exact Vedic source is still to be confirmed."
  },
  {
   "id": 10,
+  "start": "00:06:39.600",
+  "end": "00:06:50.000",
+  "start_seconds": 399.6,
+  "end_seconds": 410.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Prayer to Agni, recited in fire rituals (continued)",
+  "devanagari": [
+   "यत्ते अग्ने वर्चस्तेनाहं वर्चस्वी भूयासम्।",
+   "यत्ते अग्ने हरस्तेनाहं हरस्वी भूयासम्॥"
+  ],
+  "iast": [
+   "yatte agne varcastenāhaṃ varcasvī bhūyāsam |",
+   "yatte agne harastenāhaṃ harasvī bhūyāsam ||"
+  ],
+  "english": [
+   "By your splendour may I be splendid;",
+   "by your strength, Agni, may I be strong."
+  ],
+  "note": "The exact Vedic source is still to be confirmed."
+ },
+ {
+  "id": 11,
   "start": "00:06:53.800",
-  "end": "00:07:01.800",
+  "end": "00:06:58.000",
   "start_seconds": 413.8,
-  "end_seconds": 421.8,
+  "end_seconds": 418.0,
   "type": "sung",
   "speaker": "",
   "source": "Bhagavad-gita 8.12, second half",
@@ -225,58 +248,81 @@
   ],
   "english": [
    "...holding the life-breath at the crown of the head,",
-   "steadfast in the discipline of yoga,"
+   "steadfast in the discipline of yoga."
   ],
-  "note": "Timing within this passage is approximate until word-level timings are checked."
- },
- {
-  "id": 11,
-  "start": "00:07:01.900",
-  "end": "00:07:06.300",
-  "start_seconds": 421.9,
-  "end_seconds": 426.3,
-  "type": "reconstructed",
-  "speaker": "",
-  "source": "Bhagavad-gita 8.13, first half",
-  "devanagari": [
-   "ओमित्येकाक्षरं ब्रह्म",
-   "व्याहरन्मामनुस्मरन्।"
-  ],
-  "iast": [
-   "omityekākṣaraṃ brahma",
-   "vyāharanmāmanusmaran |"
-  ],
-  "english": [
-   "uttering Om, the one syllable that is Brahman,",
-   "and remembering Me,"
-  ],
-  "note": "Only fragments are audible; identified from 8.12 above."
+  "note": "Identified from badly garbled recognition and confirmed with a voice-enhanced pass. Verse 8.13 is not chanted; the film goes straight on to 8.14 and 8.15."
  },
  {
   "id": 12,
-  "start": "00:07:06.400",
-  "end": "00:07:10.900",
-  "start_seconds": 426.4,
-  "end_seconds": 430.9,
-  "type": "reconstructed",
+  "start": "00:06:58.100",
+  "end": "00:07:05.400",
+  "start_seconds": 418.1,
+  "end_seconds": 425.4,
+  "type": "sung",
   "speaker": "",
-  "source": "Bhagavad-gita 8.13, second half",
+  "source": "Bhagavad-gita 8.14, first half",
   "devanagari": [
-   "यः प्रयाति त्यजन्देहं",
-   "स याति परमां गतिम्॥"
+   "अनन्यचेताः सततं",
+   "यो मां स्मरति नित्यशः।"
   ],
   "iast": [
-   "yaḥ prayāti tyajandehaṃ",
-   "sa yāti paramāṃ gatim ||"
+   "ananyacetāḥ satataṃ",
+   "yo māṃ smarati nityaśaḥ |"
   ],
   "english": [
-   "whoever departs, leaving the body,",
-   "reaches the highest goal."
+   "Whoever thinks of Me always,",
+   "with a mind set on nothing else,"
   ],
-  "note": "Only fragments are audible; identified from 8.12 above."
+  "note": "An earlier draft guessed 8.13 here, wrongly; the voice-enhanced pass shows 8.14."
  },
  {
   "id": 13,
+  "start": "00:07:05.500",
+  "end": "00:07:10.700",
+  "start_seconds": 425.5,
+  "end_seconds": 430.7,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhagavad-gita 8.14, second half",
+  "devanagari": [
+   "तस्याहं सुलभः पार्थ",
+   "नित्ययुक्तस्य योगिनः॥"
+  ],
+  "iast": [
+   "tasyāhaṃ sulabhaḥ pārtha",
+   "nityayuktasya yoginaḥ ||"
+  ],
+  "english": [
+   "is easily reached by Me, Arjuna:",
+   "that yogi, ever steadfast."
+  ],
+  "note": ""
+ },
+ {
+  "id": 14,
+  "start": "00:07:10.800",
+  "end": "00:07:20.000",
+  "start_seconds": 430.8,
+  "end_seconds": 440.0,
+  "type": "sung",
+  "speaker": "",
+  "source": "Bhagavad-gita 8.15",
+  "devanagari": [
+   "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्।",
+   "नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः॥"
+  ],
+  "iast": [
+   "māmupetya punarjanma duḥkhālayamaśāśvatam |",
+   "nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||"
+  ],
+  "english": [
+   "Having come to Me, the great-souled, gone to the highest perfection,",
+   "are not born again into this fleeting home of sorrow."
+  ],
+  "note": "The first half is clearly audible; the second half is faint, and the end time is approximate."
+ },
+ {
+  "id": 15,
   "start": "00:08:03.600",
   "end": "00:08:17.500",
   "start_seconds": 483.6,
@@ -299,12 +345,35 @@
   "note": ""
  },
  {
-  "id": 14,
-  "start": "00:10:04.000",
-  "end": "00:10:15.500",
-  "start_seconds": 604.0,
-  "end_seconds": 615.5,
-  "type": "reconstructed",
+  "id": 16,
+  "start": "00:09:37.400",
+  "end": "00:09:59.500",
+  "start_seconds": 577.4,
+  "end_seconds": 599.5,
+  "type": "sung",
+  "speaker": "",
+  "source": "Vedasara Shiva Stava, verse beginning \"paratmanam ekam\" (continued)",
+  "devanagari": [
+   "यतो जायते पाल्यते येन विश्वं",
+   "तमीशं भजे लीयते यत्र विश्वम्॥"
+  ],
+  "iast": [
+   "yato jāyate pālyate yena viśvaṃ",
+   "tamīśaṃ bhaje līyate yatra viśvam ||"
+  ],
+  "english": [
+   "from whom the world is born, by whom it is sustained,",
+   "I worship that Lord, in whom the world dissolves."
+  ],
+  "note": "Found with the voice-enhanced pass; the earlier passes missed it."
+ },
+ {
+  "id": 17,
+  "start": "00:10:06.500",
+  "end": "00:10:16.800",
+  "start_seconds": 606.5,
+  "end_seconds": 616.8,
+  "type": "sung",
   "speaker": "",
   "source": "Isha Upanishad 17",
   "devanagari": [
@@ -319,10 +388,10 @@
    "Let my breath return to the deathless wind,",
    "and this body end in ashes."
   ],
-  "note": "Only \"amrtam athedam bhasmantam\" is clearly audible. The older subtitles place a related line near 0:09:31, so the start time needs checking."
+  "note": "Confirmed and placed with the voice-enhanced pass. The second half (\"om krato smara...\") is not audible."
  },
  {
-  "id": 15,
+  "id": 18,
   "start": "00:11:00.500",
   "end": "00:11:06.000",
   "start_seconds": 660.5,
@@ -345,7 +414,7 @@
   "note": "Only the end of the mantra is audible; it probably begins earlier."
  },
  {
-  "id": 16,
+  "id": 19,
   "start": "00:11:15.400",
   "end": "00:11:19.200",
   "start_seconds": 675.4,
@@ -365,7 +434,7 @@
   "note": ""
  },
  {
-  "id": 17,
+  "id": 20,
   "start": "00:12:48.800",
   "end": "00:13:03.000",
   "start_seconds": 768.8,
@@ -388,7 +457,7 @@
   "note": ""
  },
  {
-  "id": 18,
+  "id": 21,
   "start": "00:13:04.900",
   "end": "00:13:14.100",
   "start_seconds": 784.9,
@@ -408,7 +477,7 @@
   "note": "Sung with \"sagaram pratigacchati\", as heard; the usual text reads \"yatha gacchati sagaram\"."
  },
  {
-  "id": 19,
+  "id": 22,
   "start": "00:14:16.500",
   "end": "00:14:44.000",
   "start_seconds": 856.5,
@@ -431,7 +500,7 @@
   "note": "Chanted at Shivaguru's funeral. Sung with \"sagaram pratigacchati\", as heard; the usual text reads \"yatha gacchati sagaram\"."
  },
  {
-  "id": 20,
+  "id": 23,
   "start": "00:14:44.100",
   "end": "00:15:03.000",
   "start_seconds": 884.1,
@@ -454,7 +523,7 @@
   "note": ""
  },
  {
-  "id": 21,
+  "id": 24,
   "start": "00:15:47.500",
   "end": "00:16:02.400",
   "start_seconds": 947.5,
@@ -477,7 +546,7 @@
   "note": ""
  },
  {
-  "id": 22,
+  "id": 25,
   "start": "00:16:06.600",
   "end": "00:16:41.400",
   "start_seconds": 966.6,
@@ -500,7 +569,7 @@
   "note": ""
  },
  {
-  "id": 23,
+  "id": 26,
   "start": "00:18:37.400",
   "end": "00:18:55.500",
   "start_seconds": 1117.4,
@@ -523,7 +592,7 @@
   "note": ""
  },
  {
-  "id": 24,
+  "id": 27,
   "start": "00:18:59.200",
   "end": "00:19:13.900",
   "start_seconds": 1139.2,
@@ -546,7 +615,7 @@
   "note": ""
  },
  {
-  "id": 25,
+  "id": 28,
   "start": "00:19:19.900",
   "end": "00:19:22.700",
   "start_seconds": 1159.9,
@@ -566,7 +635,7 @@
   "note": ""
  },
  {
-  "id": 26,
+  "id": 29,
   "start": "00:19:35.000",
   "end": "00:19:47.500",
   "start_seconds": 1175.0,
@@ -589,7 +658,7 @@
   "note": "Only the second half is clearly audible; the verse probably begins a little earlier."
  },
  {
-  "id": 27,
+  "id": 30,
   "start": "00:19:47.600",
   "end": "00:19:58.000",
   "start_seconds": 1187.6,
@@ -612,7 +681,7 @@
   "note": ""
  },
  {
-  "id": 28,
+  "id": 31,
   "start": "00:20:10.300",
   "end": "00:20:14.800",
   "start_seconds": 1210.3,
@@ -635,7 +704,7 @@
   "note": "The audio seems to have \"adhyasitam\"; the standard text reads \"anvasitam\"."
  },
  {
-  "id": 29,
+  "id": 32,
   "start": "00:21:12.000",
   "end": "00:21:17.200",
   "start_seconds": 1272.0,
@@ -658,7 +727,7 @@
   "note": "Quoted half in jest by a boy who feels ignored."
  },
  {
-  "id": 30,
+  "id": 33,
   "start": "00:21:24.600",
   "end": "00:21:26.800",
   "start_seconds": 1284.6,
@@ -678,7 +747,7 @@
   "note": ""
  },
  {
-  "id": 31,
+  "id": 34,
   "start": "00:21:27.000",
   "end": "00:21:45.200",
   "start_seconds": 1287.0,
@@ -701,7 +770,7 @@
   "note": "Heard in the background while Shankara waits at the door."
  },
  {
-  "id": 32,
+  "id": 35,
   "start": "00:21:45.300",
   "end": "00:22:04.300",
   "start_seconds": 1305.3,
@@ -724,7 +793,7 @@
   "note": ""
  },
  {
-  "id": 33,
+  "id": 36,
   "start": "00:22:34.000",
   "end": "00:22:46.900",
   "start_seconds": 1354.0,
@@ -747,7 +816,7 @@
   "note": "Tradition says Shankara composed this hymn to Lakshmi for a poor woman who could give him only an amalaka (gooseberry), and that golden gooseberries rained on her house."
  },
  {
-  "id": 34,
+  "id": 37,
   "start": "00:22:51.800",
   "end": "00:23:00.200",
   "start_seconds": 1371.8,
@@ -770,7 +839,7 @@
   "note": ""
  },
  {
-  "id": 35,
+  "id": 38,
   "start": "00:24:13.500",
   "end": "00:24:17.100",
   "start_seconds": 1453.5,
@@ -790,7 +859,7 @@
   "note": ""
  },
  {
-  "id": 36,
+  "id": 39,
   "start": "00:24:21.000",
   "end": "00:24:24.600",
   "start_seconds": 1461.0,
@@ -810,7 +879,7 @@
   "note": ""
  },
  {
-  "id": 37,
+  "id": 40,
   "start": "00:24:30.200",
   "end": "00:24:33.000",
   "start_seconds": 1470.2,
@@ -830,7 +899,7 @@
   "note": ""
  },
  {
-  "id": 38,
+  "id": 41,
   "start": "00:26:17.400",
   "end": "00:26:19.800",
   "start_seconds": 1577.4,
@@ -850,7 +919,7 @@
   "note": "Quoted within a conversation about sharing food; only the quotation is given here."
  },
  {
-  "id": 39,
+  "id": 42,
   "start": "00:40:07.000",
   "end": "00:40:20.900",
   "start_seconds": 2407.0,
@@ -873,7 +942,7 @@
   "note": "Yama's household warns him that a Brahmin guest has waited unfed."
  },
  {
-  "id": 40,
+  "id": 43,
   "start": "00:40:21.100",
   "end": "00:40:30.700",
   "start_seconds": 2421.1,
@@ -896,7 +965,7 @@
   "note": ""
  },
  {
-  "id": 41,
+  "id": 44,
   "start": "00:40:30.800",
   "end": "00:40:38.500",
   "start_seconds": 2430.8,
@@ -919,7 +988,7 @@
   "note": ""
  },
  {
-  "id": 42,
+  "id": 45,
   "start": "00:40:38.900",
   "end": "00:40:45.700",
   "start_seconds": 2438.9,
@@ -942,7 +1011,7 @@
   "note": ""
  },
  {
-  "id": 43,
+  "id": 46,
   "start": "00:40:47.800",
   "end": "00:40:54.600",
   "start_seconds": 2447.8,
@@ -965,7 +1034,7 @@
   "note": ""
  },
  {
-  "id": 44,
+  "id": 47,
   "start": "00:40:56.200",
   "end": "00:41:04.500",
   "start_seconds": 2456.2,
@@ -988,7 +1057,7 @@
   "note": ""
  },
  {
-  "id": 45,
+  "id": 48,
   "start": "00:41:04.600",
   "end": "00:41:12.800",
   "start_seconds": 2464.6,
@@ -1011,7 +1080,7 @@
   "note": ""
  },
  {
-  "id": 46,
+  "id": 49,
   "start": "00:41:13.100",
   "end": "00:41:19.600",
   "start_seconds": 2473.1,
@@ -1034,7 +1103,7 @@
   "note": "The play joins phrases from two of Yama's verses."
  },
  {
-  "id": 47,
+  "id": 50,
   "start": "00:41:20.700",
   "end": "00:41:26.500",
   "start_seconds": 2480.7,
@@ -1054,7 +1123,7 @@
   "note": ""
  },
  {
-  "id": 48,
+  "id": 51,
   "start": "00:41:26.700",
   "end": "00:41:35.200",
   "start_seconds": 2486.7,
@@ -1077,7 +1146,7 @@
   "note": ""
  },
  {
-  "id": 49,
+  "id": 52,
   "start": "00:41:35.300",
   "end": "00:41:43.700",
   "start_seconds": 2495.3,
@@ -1100,7 +1169,7 @@
   "note": ""
  },
  {
-  "id": 50,
+  "id": 53,
   "start": "00:41:43.800",
   "end": "00:41:52.600",
   "start_seconds": 2503.8,
@@ -1123,7 +1192,7 @@
   "note": ""
  },
  {
-  "id": 51,
+  "id": 54,
   "start": "00:41:52.700",
   "end": "00:42:01.300",
   "start_seconds": 2512.7,
@@ -1146,7 +1215,7 @@
   "note": ""
  },
  {
-  "id": 52,
+  "id": 55,
   "start": "00:42:01.400",
   "end": "00:42:10.900",
   "start_seconds": 2521.4,
@@ -1169,7 +1238,7 @@
   "note": ""
  },
  {
-  "id": 53,
+  "id": 56,
   "start": "00:42:11.000",
   "end": "00:42:19.400",
   "start_seconds": 2531.0,
@@ -1192,7 +1261,7 @@
   "note": ""
  },
  {
-  "id": 54,
+  "id": 57,
   "start": "00:44:09.800",
   "end": "00:44:30.600",
   "start_seconds": 2649.8,
@@ -1215,7 +1284,7 @@
   "note": "Sung on the journey; only parts are clearly audible. As elsewhere in the film's singing, the first line ends \"sagaram pratigacchati\"."
  },
  {
-  "id": 55,
+  "id": 58,
   "start": "00:45:44.000",
   "end": "00:45:54.500",
   "start_seconds": 2744.0,
@@ -1238,7 +1307,7 @@
   "note": "Shankara's vision of the cosmos in its terrible form. Timing within the verse is approximate."
  },
  {
-  "id": 56,
+  "id": 59,
   "start": "00:45:54.600",
   "end": "00:46:05.000",
   "start_seconds": 2754.6,
@@ -1261,7 +1330,7 @@
   "note": ""
  },
  {
-  "id": 57,
+  "id": 60,
   "start": "00:46:17.500",
   "end": "00:46:32.500",
   "start_seconds": 2777.5,
@@ -1284,7 +1353,7 @@
   "note": "Jain monks chanting as Shankara passes. The first three lines are clearly audible."
  },
  {
-  "id": 58,
+  "id": 61,
   "start": "00:46:33.400",
   "end": "00:46:58.200",
   "start_seconds": 2793.4,
@@ -1307,7 +1376,7 @@
   "note": "The same lines are chanted twice."
  },
  {
-  "id": 59,
+  "id": 62,
   "start": "00:51:28.000",
   "end": "00:51:32.700",
   "start_seconds": 3088.0,
@@ -1330,7 +1399,7 @@
   "note": "Quoted by Shankara's friend Vishnu; only the quotation is given here."
  },
  {
-  "id": 60,
+  "id": 63,
   "start": "00:53:17.900",
   "end": "00:53:32.300",
   "start_seconds": 3197.9,
@@ -1353,7 +1422,7 @@
   "note": ""
  },
  {
-  "id": 61,
+  "id": 64,
   "start": "00:53:41.300",
   "end": "00:53:44.300",
   "start_seconds": 3221.3,
@@ -1373,7 +1442,7 @@
   "note": "Quoted to justify renouncing the world without first becoming a householder; only the quotation is given here."
  },
  {
-  "id": 62,
+  "id": 65,
   "start": "00:54:47.700",
   "end": "00:55:00.500",
   "start_seconds": 3287.7,
@@ -1396,7 +1465,7 @@
   "note": "Recited to calm the flooding Narmada."
  },
  {
-  "id": 63,
+  "id": 66,
   "start": "00:55:00.600",
   "end": "00:55:13.200",
   "start_seconds": 3300.6,
@@ -1419,7 +1488,7 @@
   "note": ""
  },
  {
-  "id": 64,
+  "id": 67,
   "start": "00:57:37.300",
   "end": "00:57:41.200",
   "start_seconds": 3457.3,
@@ -1442,7 +1511,7 @@
   "note": "Quoted within a conversation about the body and the Self; only the quotation is given here."
  },
  {
-  "id": 65,
+  "id": 68,
   "start": "00:58:13.600",
   "end": "00:58:22.100",
   "start_seconds": 3493.6,
@@ -1465,7 +1534,7 @@
   "note": "The chant may begin a little earlier, with \"atmaivadhastat...\", which is not clearly audible."
  },
  {
-  "id": 66,
+  "id": 69,
   "start": "00:58:22.200",
   "end": "00:58:28.000",
   "start_seconds": 3502.2,
@@ -1488,7 +1557,7 @@
   "note": ""
  },
  {
-  "id": 67,
+  "id": 70,
   "start": "00:58:28.100",
   "end": "00:58:37.700",
   "start_seconds": 3508.1,
@@ -1511,7 +1580,7 @@
   "note": ""
  },
  {
-  "id": 68,
+  "id": 71,
   "start": "01:04:40.800",
   "end": "01:04:44.500",
   "start_seconds": 3880.8,
@@ -1531,7 +1600,7 @@
   "note": "Quoted in an argument with doubters; only the quotation is given here."
  },
  {
-  "id": 69,
+  "id": 72,
   "start": "01:05:28.200",
   "end": "01:05:38.400",
   "start_seconds": 3928.2,
@@ -1554,7 +1623,7 @@
   "note": ""
  },
  {
-  "id": 70,
+  "id": 73,
   "start": "01:05:39.400",
   "end": "01:05:47.400",
   "start_seconds": 3939.4,
@@ -1577,11 +1646,11 @@
   "note": ""
  },
  {
-  "id": 71,
-  "start": "01:07:11.500",
-  "end": "01:07:29.900",
-  "start_seconds": 4031.5,
-  "end_seconds": 4049.9,
+  "id": 74,
+  "start": "01:07:17.800",
+  "end": "01:07:27.000",
+  "start_seconds": 4037.8,
+  "end_seconds": 4047.0,
   "type": "verse",
   "speaker": "Jabala",
   "source": "Chandogya Upanishad 4.4.2",
@@ -1600,12 +1669,12 @@
   "note": "The scene is now acted out, in the Upanishad's own words."
  },
  {
-  "id": 72,
-  "start": "01:07:30.000",
-  "end": "01:07:37.200",
-  "start_seconds": 4050.0,
-  "end_seconds": 4057.2,
-  "type": "reconstructed",
+  "id": 75,
+  "start": "01:07:27.100",
+  "end": "01:07:32.800",
+  "start_seconds": 4047.1,
+  "end_seconds": 4052.8,
+  "type": "verse",
   "speaker": "Jabala",
   "source": "Chandogya Upanishad 4.4.2 (continued)",
   "devanagari": [
@@ -1620,14 +1689,14 @@
    "So I do not know",
    "what lineage you are of."
   ],
-  "note": "Placed from the flow of the text and the older subtitles; the words themselves are not clearly audible here."
+  "note": "Confirmed with a voice-enhanced pass: \"yadgotras tvam asi\" is clearly audible; the words just before it are faint."
  },
  {
-  "id": 73,
-  "start": "01:07:46.300",
-  "end": "01:07:49.500",
-  "start_seconds": 4066.3,
-  "end_seconds": 4069.5,
+  "id": 76,
+  "start": "01:07:32.900",
+  "end": "01:07:49.000",
+  "start_seconds": 4052.9,
+  "end_seconds": 4069.0,
   "type": "verse",
   "speaker": "Jabala",
   "source": "Chandogya Upanishad 4.4.2 (continued)",
@@ -1646,7 +1715,7 @@
   "note": ""
  },
  {
-  "id": 74,
+  "id": 77,
   "start": "01:07:56.000",
   "end": "01:08:03.600",
   "start_seconds": 4076.0,
@@ -1669,7 +1738,7 @@
   "note": ""
  },
  {
-  "id": 75,
+  "id": 78,
   "start": "01:08:04.200",
   "end": "01:08:11.160",
   "start_seconds": 4084.2,
@@ -1692,7 +1761,7 @@
   "note": ""
  },
  {
-  "id": 76,
+  "id": 79,
   "start": "01:08:11.200",
   "end": "01:08:16.700",
   "start_seconds": 4091.2,
@@ -1712,7 +1781,7 @@
   "note": ""
  },
  {
-  "id": 77,
+  "id": 80,
   "start": "01:08:22.300",
   "end": "01:08:34.000",
   "start_seconds": 4102.3,
@@ -1735,7 +1804,7 @@
   "note": ""
  },
  {
-  "id": 78,
+  "id": 81,
   "start": "01:08:34.800",
   "end": "01:08:48.700",
   "start_seconds": 4114.8,
@@ -1758,7 +1827,7 @@
   "note": "The audio has \"yadekata\"; the usual reading is \"yathaikata\"."
  },
  {
-  "id": 79,
+  "id": 82,
   "start": "01:11:23.100",
   "end": "01:11:37.600",
   "start_seconds": 4283.1,
@@ -1778,7 +1847,7 @@
   "note": "The disciple Giri sings this hymn to his teacher; Shankara then names him Totaka, after its metre."
  },
  {
-  "id": 80,
+  "id": 83,
   "start": "01:11:37.700",
   "end": "01:11:56.900",
   "start_seconds": 4297.7,
@@ -1801,7 +1870,7 @@
   "note": ""
  },
  {
-  "id": 81,
+  "id": 84,
   "start": "01:11:57.000",
   "end": "01:12:12.400",
   "start_seconds": 4317.0,
@@ -1824,7 +1893,7 @@
   "note": ""
  },
  {
-  "id": 82,
+  "id": 85,
   "start": "01:12:46.000",
   "end": "01:12:56.700",
   "start_seconds": 4366.0,
@@ -1847,7 +1916,7 @@
   "note": "Sung on seeing an old man still cramming rules of grammar; \"dukrn karane\" is one of Panini's verb-root entries."
  },
  {
-  "id": 83,
+  "id": 86,
   "start": "01:12:59.300",
   "end": "01:13:13.100",
   "start_seconds": 4379.3,
@@ -1870,7 +1939,7 @@
   "note": ""
  },
  {
-  "id": 84,
+  "id": 87,
   "start": "01:13:13.200",
   "end": "01:13:27.400",
   "start_seconds": 4393.2,
@@ -1893,7 +1962,7 @@
   "note": ""
  },
  {
-  "id": 85,
+  "id": 88,
   "start": "01:13:30.700",
   "end": "01:13:42.600",
   "start_seconds": 4410.7,
@@ -1916,7 +1985,7 @@
   "note": ""
  },
  {
-  "id": 86,
+  "id": 89,
   "start": "01:13:45.100",
   "end": "01:13:56.800",
   "start_seconds": 4425.1,
@@ -1939,7 +2008,7 @@
   "note": ""
  },
  {
-  "id": 87,
+  "id": 90,
   "start": "01:13:56.900",
   "end": "01:14:09.100",
   "start_seconds": 4436.9,
@@ -1962,7 +2031,7 @@
   "note": ""
  },
  {
-  "id": 88,
+  "id": 91,
   "start": "01:14:10.500",
   "end": "01:14:27.400",
   "start_seconds": 4450.5,
@@ -1985,7 +2054,7 @@
   "note": ""
  },
  {
-  "id": 89,
+  "id": 92,
   "start": "01:15:30.800",
   "end": "01:15:44.600",
   "start_seconds": 4530.8,
@@ -2008,7 +2077,7 @@
   "note": ""
  },
  {
-  "id": 90,
+  "id": 93,
   "start": "01:15:44.800",
   "end": "01:15:59.100",
   "start_seconds": 4544.8,
@@ -2031,7 +2100,7 @@
   "note": "Sung as \"khalu dustare\"; many editions read \"bahu-dustare\"."
  },
  {
-  "id": 91,
+  "id": 94,
   "start": "01:16:05.000",
   "end": "01:16:17.500",
   "start_seconds": 4565.0,
@@ -2054,7 +2123,7 @@
   "note": ""
  },
  {
-  "id": 92,
+  "id": 95,
   "start": "01:16:51.300",
   "end": "01:16:59.400",
   "start_seconds": 4611.3,
@@ -2077,7 +2146,7 @@
   "note": "Sung with \"sagaram pratigacchati\", as heard; the usual text reads \"yatha gacchati sagaram\"."
  },
  {
-  "id": 93,
+  "id": 96,
   "start": "01:17:30.200",
   "end": "01:17:33.000",
   "start_seconds": 4650.2,
@@ -2097,7 +2166,7 @@
   "note": "Said to Death, who has come as a boy; only the quotation is given here."
  },
  {
-  "id": 94,
+  "id": 97,
   "start": "01:18:45.500",
   "end": "01:18:58.000",
   "start_seconds": 4725.5,
@@ -2120,7 +2189,7 @@
   "note": ""
  },
  {
-  "id": 95,
+  "id": 98,
   "start": "01:19:01.400",
   "end": "01:19:05.200",
   "start_seconds": 4741.4,
@@ -2143,7 +2212,7 @@
   "note": ""
  },
  {
-  "id": 96,
+  "id": 99,
   "start": "01:19:05.300",
   "end": "01:19:16.400",
   "start_seconds": 4745.3,
@@ -2153,11 +2222,11 @@
   "source": "Manisha Panchakam, verse 2, line 3",
   "devanagari": [
    "इत्थं यस्य दृढा मतिः",
-   "सुखतरे नित्ये परे निर्मले —"
+   "सुखतरे नित्ये परे निर्मले"
   ],
   "iast": [
    "itthaṃ yasya dṛḍhā matiḥ",
-   "sukhatare nitye pare nirmale —"
+   "sukhatare nitye pare nirmale"
   ],
   "english": [
    "He whose conviction stands firm in that",
@@ -2166,7 +2235,7 @@
   "note": ""
  },
  {
-  "id": 97,
+  "id": 100,
   "start": "01:19:26.400",
   "end": "01:19:32.000",
   "start_seconds": 4766.4,
@@ -2189,7 +2258,7 @@
   "note": ""
  },
  {
-  "id": 98,
+  "id": 101,
   "start": "01:19:55.800",
   "end": "01:20:06.000",
   "start_seconds": 4795.8,
@@ -2212,7 +2281,7 @@
   "note": "Kashi is named from \"kash\", to shine: the hymn identifies the holy city with consciousness itself."
  },
  {
-  "id": 99,
+  "id": 102,
   "start": "01:20:06.100",
   "end": "01:20:18.900",
   "start_seconds": 4806.1,
@@ -2235,7 +2304,7 @@
   "note": ""
  },
  {
-  "id": 100,
+  "id": 103,
   "start": "01:22:01.400",
   "end": "01:22:04.300",
   "start_seconds": 4921.4,
@@ -2255,7 +2324,7 @@
   "note": ""
  },
  {
-  "id": 101,
+  "id": 104,
   "start": "01:22:33.000",
   "end": "01:22:43.000",
   "start_seconds": 4953.0,
@@ -2278,7 +2347,7 @@
   "note": "The passage begins earlier, with Rudra in the red lines of the eye, which is not clearly audible."
  },
  {
-  "id": 102,
+  "id": 105,
   "start": "01:22:43.100",
   "end": "01:22:52.700",
   "start_seconds": 4963.1,
@@ -2301,7 +2370,7 @@
   "note": ""
  },
  {
-  "id": 103,
+  "id": 106,
   "start": "01:23:35.500",
   "end": "01:23:45.200",
   "start_seconds": 5015.5,
@@ -2324,7 +2393,7 @@
   "note": "The boy thought to be mute answers Shankara with this verse; Shankara names him Hastamalaka, \"amalaka fruit in the hand\"."
  },
  {
-  "id": 104,
+  "id": 107,
   "start": "01:23:45.300",
   "end": "01:23:54.800",
   "start_seconds": 5025.3,
@@ -2347,7 +2416,7 @@
   "note": ""
  },
  {
-  "id": 105,
+  "id": 108,
   "start": "01:24:46.000",
   "end": "01:24:52.400",
   "start_seconds": 5086.0,
@@ -2370,7 +2439,7 @@
   "note": ""
  },
  {
-  "id": 106,
+  "id": 109,
   "start": "01:25:46.200",
   "end": "01:25:54.400",
   "start_seconds": 5146.2,
@@ -2393,7 +2462,7 @@
   "note": ""
  },
  {
-  "id": 107,
+  "id": 110,
   "start": "01:25:58.300",
   "end": "01:26:05.400",
   "start_seconds": 5158.3,
@@ -2416,7 +2485,7 @@
   "note": "The debate follows the wording of Shankara's own commentary closely; only those passages are given here."
  },
  {
-  "id": 108,
+  "id": 111,
   "start": "01:26:05.600",
   "end": "01:26:15.600",
   "start_seconds": 5165.6,
@@ -2439,7 +2508,7 @@
   "note": "The commentary has \"deha-bijair\" before \"bhuta-sukshmaih\" and puts the two alternatives the other way round; the film's wording is slightly simplified."
  },
  {
-  "id": 109,
+  "id": 112,
   "start": "01:26:16.000",
   "end": "01:26:27.200",
   "start_seconds": 5176.0,
@@ -2462,7 +2531,7 @@
   "note": ""
  },
  {
-  "id": 110,
+  "id": 113,
   "start": "01:26:27.300",
   "end": "01:26:31.200",
   "start_seconds": 5187.3,
@@ -2482,7 +2551,7 @@
   "note": ""
  },
  {
-  "id": 111,
+  "id": 114,
   "start": "01:26:31.300",
   "end": "01:26:39.500",
   "start_seconds": 5191.3,
@@ -2491,11 +2560,11 @@
   "speaker": "Shankara",
   "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.3.3",
   "devanagari": [
-   "तथा हि प्रश्नः — वेत्थ यथा पञ्चम्याम्",
+   "तथा हि प्रश्नः वेत्थ यथा पञ्चम्याम्",
    "आहुतावापः पुरुषवचसो भवन्ति इति।"
   ],
   "iast": [
-   "tathā hi praśnaḥ — vettha yathā pañcamyām",
+   "tathā hi praśnaḥ vettha yathā pañcamyām",
    "āhutāvāpaḥ puruṣavacaso bhavanti iti |"
   ],
   "english": [
@@ -2505,7 +2574,7 @@
   "note": ""
  },
  {
-  "id": 112,
+  "id": 115,
   "start": "01:26:39.600",
   "end": "01:26:49.400",
   "start_seconds": 5199.6,
@@ -2514,11 +2583,11 @@
   "speaker": "Shankara",
   "source": "Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.9.1",
   "devanagari": [
-   "निरूपणं च प्रतिवचनं च — इति तु पञ्चम्याम्",
+   "निरूपणं च प्रतिवचनं च इति तु पञ्चम्याम्",
    "आहुतावापः पुरुषवचसो भवन्ति इति।"
   ],
   "iast": [
-   "nirūpaṇaṃ ca prativacanaṃ ca — iti tu pañcamyām",
+   "nirūpaṇaṃ ca prativacanaṃ ca iti tu pañcamyām",
    "āhutāvāpaḥ puruṣavacaso bhavanti iti |"
   ],
   "english": [
@@ -2528,7 +2597,7 @@
   "note": ""
  },
  {
-  "id": 113,
+  "id": 116,
   "start": "01:27:11.500",
   "end": "01:27:14.700",
   "start_seconds": 5231.5,
@@ -2549,7 +2618,7 @@
   "note": ""
  },
  {
-  "id": 114,
+  "id": 117,
   "start": "01:27:16.300",
   "end": "01:27:25.500",
   "start_seconds": 5236.3,
@@ -2572,7 +2641,7 @@
   "note": ""
  },
  {
-  "id": 115,
+  "id": 118,
   "start": "01:27:25.600",
   "end": "01:27:34.600",
   "start_seconds": 5245.6,
@@ -2595,7 +2664,7 @@
   "note": ""
  },
  {
-  "id": 116,
+  "id": 119,
   "start": "01:27:34.700",
   "end": "01:27:46.000",
   "start_seconds": 5254.7,
@@ -2618,7 +2687,7 @@
   "note": ""
  },
  {
-  "id": 117,
+  "id": 120,
   "start": "01:27:46.800",
   "end": "01:27:55.900",
   "start_seconds": 5266.8,
@@ -2641,7 +2710,7 @@
   "note": ""
  },
  {
-  "id": 118,
+  "id": 121,
   "start": "01:27:56.000",
   "end": "01:28:02.500",
   "start_seconds": 5276.0,
@@ -2664,7 +2733,7 @@
   "note": ""
  },
  {
-  "id": 119,
+  "id": 122,
   "start": "01:28:02.600",
   "end": "01:28:13.500",
   "start_seconds": 5282.6,
@@ -2687,7 +2756,7 @@
   "note": ""
  },
  {
-  "id": 120,
+  "id": 123,
   "start": "01:28:13.600",
   "end": "01:28:23.300",
   "start_seconds": 5293.6,
@@ -2710,7 +2779,7 @@
   "note": "Recognition heard \"purusho\" here, but the text is \"prthivi\" (earth), as the feminine \"tasyah\" that follows confirms."
  },
  {
-  "id": 121,
+  "id": 124,
   "start": "01:28:23.400",
   "end": "01:28:30.900",
   "start_seconds": 5303.4,
@@ -2733,7 +2802,7 @@
   "note": ""
  },
  {
-  "id": 122,
+  "id": 125,
   "start": "01:28:31.000",
   "end": "01:28:40.000",
   "start_seconds": 5311.0,
@@ -2756,7 +2825,7 @@
   "note": ""
  },
  {
-  "id": 123,
+  "id": 126,
   "start": "01:28:40.500",
   "end": "01:28:49.000",
   "start_seconds": 5320.5,
@@ -2779,7 +2848,7 @@
   "note": ""
  },
  {
-  "id": 124,
+  "id": 127,
   "start": "01:28:49.100",
   "end": "01:28:56.500",
   "start_seconds": 5329.1,
@@ -2802,7 +2871,7 @@
   "note": ""
  },
  {
-  "id": 125,
+  "id": 128,
   "start": "01:28:56.600",
   "end": "01:29:06.600",
   "start_seconds": 5336.6,
@@ -2825,7 +2894,7 @@
   "note": ""
  },
  {
-  "id": 126,
+  "id": 129,
   "start": "01:29:08.000",
   "end": "01:29:16.400",
   "start_seconds": 5348.0,
@@ -2848,7 +2917,7 @@
   "note": ""
  },
  {
-  "id": 127,
+  "id": 130,
   "start": "01:29:16.500",
   "end": "01:29:25.500",
   "start_seconds": 5356.5,
@@ -2871,7 +2940,7 @@
   "note": ""
  },
  {
-  "id": 128,
+  "id": 131,
   "start": "01:29:25.600",
   "end": "01:29:34.400",
   "start_seconds": 5365.6,
@@ -2894,7 +2963,7 @@
   "note": ""
  },
  {
-  "id": 129,
+  "id": 132,
   "start": "01:29:34.600",
   "end": "01:29:41.500",
   "start_seconds": 5374.6,
@@ -2917,7 +2986,7 @@
   "note": ""
  },
  {
-  "id": 130,
+  "id": 133,
   "start": "01:29:41.600",
   "end": "01:29:51.200",
   "start_seconds": 5381.6,
@@ -2940,7 +3009,7 @@
   "note": ""
  },
  {
-  "id": 131,
+  "id": 134,
   "start": "01:29:51.300",
   "end": "01:29:55.000",
   "start_seconds": 5391.3,
@@ -2960,7 +3029,7 @@
   "note": ""
  },
  {
-  "id": 132,
+  "id": 135,
   "start": "01:29:55.100",
   "end": "01:30:03.800",
   "start_seconds": 5395.1,
@@ -2983,7 +3052,7 @@
   "note": ""
  },
  {
-  "id": 133,
+  "id": 136,
   "start": "01:35:01.400",
   "end": "01:35:03.700",
   "start_seconds": 5701.4,
@@ -3003,7 +3072,7 @@
   "note": ""
  },
  {
-  "id": 134,
+  "id": 137,
   "start": "01:36:02.200",
   "end": "01:36:13.300",
   "start_seconds": 5762.2,
@@ -3026,7 +3095,7 @@
   "note": "Often attributed to the Vishnu Purana; we have not been able to confirm this."
  },
  {
-  "id": 135,
+  "id": 138,
   "start": "01:36:13.400",
   "end": "01:36:24.000",
   "start_seconds": 5773.4,
@@ -3049,7 +3118,7 @@
   "note": ""
  },
  {
-  "id": 136,
+  "id": 139,
   "start": "01:36:27.600",
   "end": "01:36:31.400",
   "start_seconds": 5787.6,
@@ -3069,7 +3138,7 @@
   "note": ""
  },
  {
-  "id": 137,
+  "id": 140,
   "start": "01:38:49.800",
   "end": "01:38:52.900",
   "start_seconds": 5929.8,
@@ -3089,7 +3158,7 @@
   "note": "Mandana cites it to argue that ritual action is a lifelong duty. Exact source to be confirmed."
  },
  {
-  "id": 138,
+  "id": 141,
   "start": "01:43:33.800",
   "end": "01:43:38.000",
   "start_seconds": 6213.8,
@@ -3112,7 +3181,7 @@
   "note": "Quoted only as far as \"nanyah pantha\". A similar line is in the Shvetashvatara Upanishad, 3.8."
  },
  {
-  "id": 139,
+  "id": 142,
   "start": "01:45:33.800",
   "end": "01:45:36.400",
   "start_seconds": 6333.8,
@@ -3132,7 +3201,7 @@
   "note": "Only the quotation is given here."
  },
  {
-  "id": 140,
+  "id": 143,
   "start": "01:46:03.400",
   "end": "01:46:22.300",
   "start_seconds": 6363.4,
@@ -3155,7 +3224,7 @@
   "note": ""
  },
  {
-  "id": 141,
+  "id": 144,
   "start": "01:46:25.000",
   "end": "01:46:36.500",
   "start_seconds": 6385.0,
@@ -3178,7 +3247,7 @@
   "note": ""
  },
  {
-  "id": 142,
+  "id": 145,
   "start": "01:46:56.200",
   "end": "01:47:26.600",
   "start_seconds": 6416.2,
@@ -3201,7 +3270,7 @@
   "note": ""
  },
  {
-  "id": 143,
+  "id": 146,
   "start": "01:47:26.700",
   "end": "01:47:54.400",
   "start_seconds": 6446.7,
@@ -3224,7 +3293,7 @@
   "note": ""
  },
  {
-  "id": 144,
+  "id": 147,
   "start": "01:49:05.000",
   "end": "01:49:22.700",
   "start_seconds": 6545.0,
@@ -3247,7 +3316,7 @@
   "note": "Editions differ in the second line; ours follows the audio (\"madhyakshirupa\")."
  },
  {
-  "id": 145,
+  "id": 148,
   "start": "01:49:22.800",
   "end": "01:49:46.000",
   "start_seconds": 6562.8,
@@ -3270,7 +3339,7 @@
   "note": ""
  },
  {
-  "id": 146,
+  "id": 149,
   "start": "01:52:44.700",
   "end": "01:52:53.800",
   "start_seconds": 6764.7,
@@ -3293,7 +3362,7 @@
   "note": "Recovered from the pass with the voice filter off; heavily garbled but unmistakable. The Samhita ends the verse with \"svaha\", which is not clearly audible here."
  },
  {
-  "id": 147,
+  "id": 150,
   "start": "01:52:53.900",
   "end": "01:53:03.600",
   "start_seconds": 6773.9,
@@ -3316,7 +3385,7 @@
   "note": ""
  },
  {
-  "id": 148,
+  "id": 151,
   "start": "02:01:38.200",
   "end": "02:01:59.000",
   "start_seconds": 7298.2,
@@ -3339,7 +3408,7 @@
   "note": "Readings follow the audio where editions differ. Every line has been checked against the metre (shardulavikridita)."
  },
  {
-  "id": 149,
+  "id": 152,
   "start": "02:01:59.100",
   "end": "02:02:21.000",
   "start_seconds": 7319.1,
@@ -3362,7 +3431,7 @@
   "note": ""
  },
  {
-  "id": 150,
+  "id": 153,
   "start": "02:02:33.800",
   "end": "02:02:57.500",
   "start_seconds": 7353.8,
@@ -3385,7 +3454,7 @@
   "note": ""
  },
  {
-  "id": 151,
+  "id": 154,
   "start": "02:02:57.600",
   "end": "02:03:22.900",
   "start_seconds": 7377.6,
@@ -3408,7 +3477,7 @@
   "note": ""
  },
  {
-  "id": 152,
+  "id": 155,
   "start": "02:03:34.500",
   "end": "02:03:54.000",
   "start_seconds": 7414.5,
@@ -3431,7 +3500,7 @@
   "note": ""
  },
  {
-  "id": 153,
+  "id": 156,
   "start": "02:03:54.100",
   "end": "02:04:14.000",
   "start_seconds": 7434.1,
@@ -3454,7 +3523,7 @@
   "note": ""
  },
  {
-  "id": 154,
+  "id": 157,
   "start": "02:04:24.000",
   "end": "02:04:45.000",
   "start_seconds": 7464.0,
@@ -3477,7 +3546,7 @@
   "note": ""
  },
  {
-  "id": 155,
+  "id": 158,
   "start": "02:04:45.100",
   "end": "02:05:05.000",
   "start_seconds": 7485.1,
@@ -3500,7 +3569,7 @@
   "note": ""
  },
  {
-  "id": 156,
+  "id": 159,
   "start": "02:05:12.500",
   "end": "02:05:35.500",
   "start_seconds": 7512.5,
@@ -3523,7 +3592,7 @@
   "note": ""
  },
  {
-  "id": 157,
+  "id": 160,
   "start": "02:05:35.600",
   "end": "02:06:01.500",
   "start_seconds": 7535.6,
@@ -3546,7 +3615,7 @@
   "note": ""
  },
  {
-  "id": 158,
+  "id": 161,
   "start": "02:06:41.700",
   "end": "02:06:43.600",
   "start_seconds": 7601.7,
@@ -3566,7 +3635,7 @@
   "note": "Shankara's answer when asked where he will live; only the quotation is given here."
  },
  {
-  "id": 159,
+  "id": 162,
   "start": "02:09:40.500",
   "end": "02:09:56.000",
   "start_seconds": 7780.5,
@@ -3589,7 +3658,7 @@
   "note": "The same verse as at 0:08:03, now sung in full."
  },
  {
-  "id": 160,
+  "id": 163,
   "start": "02:09:56.100",
   "end": "02:10:13.500",
   "start_seconds": 7796.1,
@@ -3612,7 +3681,7 @@
   "note": ""
  },
  {
-  "id": 161,
+  "id": 164,
   "start": "02:11:14.500",
   "end": "02:11:19.500",
   "start_seconds": 7874.5,
@@ -3635,7 +3704,7 @@
   "note": "Shankara's answer when told that scripture forbids a monk to perform his mother's funeral rites. A widely quoted line; its source is to be confirmed."
  },
  {
-  "id": 162,
+  "id": 165,
   "start": "02:12:09.500",
   "end": "02:12:20.500",
   "start_seconds": 7929.5,
@@ -3658,7 +3727,7 @@
   "note": "A well-known traditional verse; its source is to be confirmed. The first words are not clearly audible."
  },
  {
-  "id": 163,
+  "id": 166,
   "start": "02:12:20.600",
   "end": "02:12:31.900",
   "start_seconds": 7940.6,
@@ -3681,7 +3750,7 @@
   "note": ""
  },
  {
-  "id": 164,
+  "id": 167,
   "start": "02:12:32.700",
   "end": "02:12:38.600",
   "start_seconds": 7952.7,
@@ -3701,7 +3770,7 @@
   "note": ""
  },
  {
-  "id": 165,
+  "id": 168,
   "start": "02:14:03.800",
   "end": "02:14:21.000",
   "start_seconds": 8043.8,
@@ -3724,7 +3793,7 @@
   "note": ""
  },
  {
-  "id": 166,
+  "id": 169,
   "start": "02:14:21.100",
   "end": "02:14:42.000",
   "start_seconds": 8061.1,
@@ -3747,7 +3816,7 @@
   "note": ""
  },
  {
-  "id": 167,
+  "id": 170,
   "start": "02:19:00.500",
   "end": "02:19:02.900",
   "start_seconds": 8340.5,
@@ -3767,7 +3836,7 @@
   "note": "From the story of Raikva and King Janashruti; only the Upanishad's words are given here."
  },
  {
-  "id": 168,
+  "id": 171,
   "start": "02:19:10.800",
   "end": "02:19:23.000",
   "start_seconds": 8350.8,
@@ -3790,7 +3859,7 @@
   "note": ""
  },
  {
-  "id": 169,
+  "id": 172,
   "start": "02:21:27.200",
   "end": "02:21:28.800",
   "start_seconds": 8487.2,
@@ -3810,7 +3879,7 @@
   "note": "Thrown back at Shankara mockingly by a Kapalika who wants to sacrifice him; only the quotation is given here."
  },
  {
-  "id": 170,
+  "id": 173,
   "start": "02:23:17.600",
   "end": "02:23:33.000",
   "start_seconds": 8597.6,
@@ -3833,7 +3902,7 @@
   "note": "Shankara's prayer as he offers his body to the Kapalika."
  },
  {
-  "id": 171,
+  "id": 174,
   "start": "02:23:33.100",
   "end": "02:23:53.400",
   "start_seconds": 8613.1,
@@ -3856,7 +3925,7 @@
   "note": ""
  },
  {
-  "id": 172,
+  "id": 175,
   "start": "02:30:19.700",
   "end": "02:30:38.000",
   "start_seconds": 9019.7,
@@ -3879,7 +3948,7 @@
   "note": ""
  },
  {
-  "id": 173,
+  "id": 176,
   "start": "02:30:43.800",
   "end": "02:30:56.700",
   "start_seconds": 9043.8,
@@ -3902,7 +3971,7 @@
   "note": ""
  },
  {
-  "id": 174,
+  "id": 177,
   "start": "02:31:04.000",
   "end": "02:31:21.600",
   "start_seconds": 9064.0,
@@ -3925,7 +3994,7 @@
   "note": ""
  },
  {
-  "id": 175,
+  "id": 178,
   "start": "02:31:24.000",
   "end": "02:31:45.000",
   "start_seconds": 9084.0,
@@ -3948,7 +4017,7 @@
   "note": "Tradition reads the \"Dravida child\" as the Tamil saint Jnanasambandar, or as Shankara himself."
  },
  {
-  "id": 176,
+  "id": 179,
   "start": "02:31:55.400",
   "end": "02:31:58.000",
   "start_seconds": 9115.4,
@@ -3968,27 +4037,73 @@
   "note": "Only the quotation is given here."
  },
  {
-  "id": 177,
-  "start": "02:32:57.000",
-  "end": "02:33:01.400",
-  "start_seconds": 9177.0,
-  "end_seconds": 9181.4,
-  "type": "reconstructed",
+  "id": 180,
+  "start": "02:32:30.000",
+  "end": "02:32:42.100",
+  "start_seconds": 9150.0,
+  "end_seconds": 9162.1,
+  "type": "sung",
   "speaker": "",
-  "source": "Taittiriya Upanishad 3.10.5",
+  "source": "Taittiriya Upanishad 3.10.5 (also 2.8.5)",
   "devanagari": [
-   "एतं प्राणमयमात्मानमुपसंक्रम्य…"
+   "एतमन्नमयमात्मानमुपसंक्रम्य।",
+   "एतं प्राणमयमात्मानमुपसंक्रम्य।"
   ],
   "iast": [
-   "etaṃ prāṇamayamātmānamupasaṃkramya…"
+   "etamannamayamātmānamupasaṃkramya |",
+   "etaṃ prāṇamayamātmānamupasaṃkramya |"
   ],
   "english": [
-   "Passing beyond this self made of breath..."
+   "Passing beyond this self made of food,",
+   "passing beyond this self made of breath,"
   ],
-  "note": "Recognition looped on this one phrase. The chant probably passes through all five \"selves\" (food, breath, mind, understanding, bliss) and may begin well before this. Needs a careful listen."
+  "note": "Confirmed with a voice-enhanced pass."
  },
  {
-  "id": 178,
+  "id": 181,
+  "start": "02:32:42.200",
+  "end": "02:32:47.600",
+  "start_seconds": 9162.2,
+  "end_seconds": 9167.6,
+  "type": "sung",
+  "speaker": "",
+  "source": "Taittiriya Upanishad 3.10.5 (continued)",
+  "devanagari": [
+   "एतं मनोमयमात्मानमुपसंक्रम्य।"
+  ],
+  "iast": [
+   "etaṃ manomayamātmānamupasaṃkramya |"
+  ],
+  "english": [
+   "beyond this self made of mind,"
+  ],
+  "note": ""
+ },
+ {
+  "id": 182,
+  "start": "02:32:47.700",
+  "end": "02:32:54.500",
+  "start_seconds": 9167.7,
+  "end_seconds": 9174.5,
+  "type": "reconstructed",
+  "speaker": "",
+  "source": "Taittiriya Upanishad 3.10.5 (continued)",
+  "devanagari": [
+   "एतं विज्ञानमयमात्मानमुपसंक्रम्य।",
+   "एतमानन्दमयमात्मानमुपसंक्रम्य।"
+  ],
+  "iast": [
+   "etaṃ vijñānamayamātmānamupasaṃkramya |",
+   "etamānandamayamātmānamupasaṃkramya |"
+  ],
+  "english": [
+   "beyond the self made of understanding,",
+   "beyond the self made of bliss..."
+  ],
+  "note": "Not clearly audible; the passage conventionally ends this way, and the verse praising Shankara begins right after it at 2:32:54."
+ },
+ {
+  "id": 183,
   "start": "02:34:32.500",
   "end": "02:34:43.000",
   "start_seconds": 9272.5,
@@ -4011,7 +4126,7 @@
   "note": "The film follows it with a line of its own, which is not given here."
  },
  {
-  "id": 179,
+  "id": 184,
   "start": "02:37:25.800",
   "end": "02:37:35.000",
   "start_seconds": 9445.8,
@@ -4034,7 +4149,7 @@
   "note": "The film strings together verses 18.51, 18.49 and 18.53."
  },
  {
-  "id": 180,
+  "id": 185,
   "start": "02:37:35.100",
   "end": "02:37:46.800",
   "start_seconds": 9455.1,
@@ -4057,7 +4172,7 @@
   "note": ""
  },
  {
-  "id": 181,
+  "id": 186,
   "start": "02:37:46.900",
   "end": "02:38:04.900",
   "start_seconds": 9466.9,
@@ -4080,7 +4195,7 @@
   "note": ""
  },
  {
-  "id": 182,
+  "id": 187,
   "start": "02:38:05.000",
   "end": "02:38:22.100",
   "start_seconds": 9485.0,
@@ -4103,7 +4218,7 @@
   "note": ""
  },
  {
-  "id": 183,
+  "id": 188,
   "start": "02:38:56.400",
   "end": "02:39:04.600",
   "start_seconds": 9536.4,
@@ -4126,7 +4241,7 @@
   "note": "The film ends as it began. Sung with \"sagaram pratigacchati\", as heard."
  },
  {
-  "id": 184,
+  "id": 189,
   "start": "02:39:04.700",
   "end": "02:39:17.000",
   "start_seconds": 9544.7,
@@ -4149,7 +4264,7 @@
   "note": ""
  },
  {
-  "id": 185,
+  "id": 190,
   "start": "02:39:21.500",
   "end": "02:39:39.300",
   "start_seconds": 9561.5,
@@ -4172,7 +4287,7 @@
   "note": ""
  },
  {
-  "id": 186,
+  "id": 191,
   "start": "02:39:39.400",
   "end": "02:39:48.000",
   "start_seconds": 9579.4,

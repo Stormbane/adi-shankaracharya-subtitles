@@ -49,6 +49,23 @@ Each stretch of recognised text was read alongside its word timings and the olde
 
 Once a text was identified, its canonical wording was written out in Devanagari, without Vedic accents, and the source was recorded. Where we were unsure of a source or a verse number, we checked it against online editions such as [GRETIL](https://gretil.sub.uni-goettingen.de/), [sanskritdocuments.org](https://sanskritdocuments.org/) and others. If it could not be confirmed, the entry's note says so.
 
+## 4a. Re-checking the doubtful passages
+
+There is no published script of the film to check against. So the passages we were least sure of went through one more test. We extracted them from the original stereo track, ran them through ffmpeg's `dialoguenhance` filter (which pulls a centred voice forward from the music), denoised and band-limited them, and transcribed them again.
+
+This settled several questions, and overturned two of our earlier readings:
+
+| Time | Before | After |
+|---|---|---|
+| 0:06:19 | guessed as Ṛgveda 1.90.7–8 | actually the Medhā Sūkta (*mayi medhāṃ mayi prajām…*) and the Agni prayer *yat te agne tejas…* |
+| 0:06:58 | guessed as Gītā 8.13 | actually 8.14 and 8.15 |
+| 0:09:37 | missed | the second half of the Vedasāra verse |
+| 0:10:06 | Īśa 17, placement uncertain | confirmed and placed |
+| 1:07:27 | Chāndogya 4.4.2, reconstructed | *yadgotras tvam asi* audible; confirmed |
+| 2:32:30 | Taittirīya 3.10.5, one phrase | *annamaya, prāṇamaya, manomaya* clearly chanted in sequence |
+
+We also tried giving Whisper our candidate text as a prompt, to see whether it would "agree". It did, even for the two readings that turned out to be wrong. It simply repeats the prompt, so a prompted run proves nothing, and we rely only on the unprompted enhanced pass.
+
 ## 5. Translation
 
 - **From the Sanskrit itself,** not from any earlier subtitle.
@@ -65,7 +82,7 @@ The IAST track is **generated automatically from the Devanagari** with [indic_tr
 ## 7. Timing
 
 - Start and end times come from Whisper's **word-level timestamps**. Long segments are split at the half-verse.
-- Chanted passages are sometimes held on screen for 20–30 seconds, because the chant itself is that slow.
+- Chanted passages are sometimes held on screen for 20 to 30 seconds, because the chant itself is that slow.
 - Where a verse clearly begins before the first audible word, the note says so.
 - The build guarantees that no two subtitles overlap.
 - Placement was spot-checked by extracting video frames at cue times and by watching a hard-subtitled preview.
@@ -81,6 +98,7 @@ We record these because they are instructive.
 - **An early timing check went wrong because of our own arithmetic.** We fed the video tool 876 seconds when we meant 1:14:36 (4476 s), and briefly concluded the older subtitles were badly out of sync. They weren't.
 - **A first draft of the Kashi scene gave a guessed reconstruction** of the lines Śaṅkara speaks after the Chandāla scene. A later, clearer recognition pass showed they are a real verse, from the **Kāśī Pañcakam** (*kāśyāṃ hi kāśate kāśī…*), and the canonical text replaced our guess.
 - **We first labelled the variant Mitra chant "the Yajurveda reading"** before we had confirmed it. It is now described as a variant reading until its source is confirmed.
+- **Two reconstructions from fragments were wrong:** the "Ṛgveda 1.90.7–8" at 0:06:19 and the "Gītā 8.13" at 0:07:01. Both looked plausible from context. Cleaner audio showed otherwise (section 4a). This is why everything reconstructed is marked, and why we'd like people to check.
 
 ## 10. Known limitations
 

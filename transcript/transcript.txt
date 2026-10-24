@@ -40,7 +40,7 @@ en: is true, all-winning, and of the brightest renown.
 
 @ 00:03:54.100 --> 00:04:05.000  [sung]
 src: Hymn to Mitra (Rigveda 3.59.1, in a variant reading), first half
-note: Only the first half is clearly identifiable. The chant has "prajanan" (knowing) where the Rigveda has "bruvanah" (speaking), apparently the same variant tradition as the verse above; the line is heard again at 1:36:27.
+note: Only the first half is clearly identifiable. The chant has "prajanan" (knowing) where the Rigveda has "bruvanah" (speaking), apparently the same variant tradition as the verse above, whose source is still to be confirmed. The line is heard again at 1:36:27.
 sa: मित्रो जनान्यातयति प्रजानन्
 sa: मित्रो दाधार पृथिवीमुत द्याम्।
 en: Mitra, knowing all, sets the peoples in order;
@@ -80,49 +80,64 @@ sa: माध्वीर्नः सन्त्वोषधीः॥
 en: The winds blow honey-sweet for the righteous,
 en: the rivers run sweet; may the plants be sweet for us.
 
-@ 00:06:19.600 --> 00:06:30.000  [reconstructed]
-src: Rigveda 1.90.7
-note: Heavily garbled in recognition; identified because these verses conventionally follow 1.90.6. Needs a careful listen.
-sa: मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः।
-sa: मधु द्यौरस्तु नः पिता॥
-en: Sweet be the night and the dawns, sweet the earth's air;
-en: sweet be Heaven, our father.
+@ 00:06:19.600 --> 00:06:29.400  [sung]
+src: Medha Sukta, Mahanarayana Upanishad (Taittiriya Aranyaka 10)
+note: Identified from a voice-enhanced pass ("mayi ... prajam", "mayi suryo bhrajo dadhatu"). An earlier draft guessed Rigveda 1.90.7 here, wrongly. The mantra has a middle line (Indra) that is not clearly audible.
+sa: मयि मेधां मयि प्रजां मय्यग्निस्तेजो दधातु।
+sa: … मयि सूर्यो भ्राजो दधातु॥
+en: Grant me wisdom and offspring; may Agni give me fire,
+en: ...and may the Sun give me radiance.
 
-@ 00:06:30.100 --> 00:06:40.600  [reconstructed]
-src: Rigveda 1.90.8
-note: As above; the word "suryah" is audible.
-sa: मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः।
-sa: माध्वीर्गावो भवन्तु नः॥
-en: Sweet be the trees to us, and sweet the sun;
-en: sweet be the cows to us.
+@ 00:06:29.500 --> 00:06:39.500  [sung]
+src: Prayer to Agni, recited in fire rituals
+note: Identified from a voice-enhanced pass. The exact Vedic source is still to be confirmed.
+sa: यत्ते अग्ने तेजस्तेनाहं
+sa: तेजस्वी भूयासम्।
+en: Agni, by your fire
+en: may I be full of fire.
+
+@ 00:06:39.600 --> 00:06:50.000  [sung]
+src: Prayer to Agni, recited in fire rituals (continued)
+note: The exact Vedic source is still to be confirmed.
+sa: यत्ते अग्ने वर्चस्तेनाहं वर्चस्वी भूयासम्।
+sa: यत्ते अग्ने हरस्तेनाहं हरस्वी भूयासम्॥
+en: By your splendour may I be splendid;
+en: by your strength, Agni, may I be strong.
 
 # ---------------------------------------------------------------------------
 # Shivaguru hears the Gita and prepares to leave the body
 # ---------------------------------------------------------------------------
 
-@ 00:06:53.800 --> 00:07:01.800  [sung]
+@ 00:06:53.800 --> 00:06:58.000  [sung]
 src: Bhagavad-gita 8.12, second half
-note: Timing within this passage is approximate until word-level timings are checked.
+note: Identified from badly garbled recognition and confirmed with a voice-enhanced pass. Verse 8.13 is not chanted; the film goes straight on to 8.14 and 8.15.
 sa: मूर्ध्न्याधायात्मनः प्राणम्
 sa: आस्थितो योगधारणाम्।
 en: ...holding the life-breath at the crown of the head,
-en: steadfast in the discipline of yoga,
+en: steadfast in the discipline of yoga.
 
-@ 00:07:01.900 --> 00:07:06.300  [reconstructed]
-src: Bhagavad-gita 8.13, first half
-note: Only fragments are audible; identified from 8.12 above.
-sa: ओमित्येकाक्षरं ब्रह्म
-sa: व्याहरन्मामनुस्मरन्।
-en: uttering Om, the one syllable that is Brahman,
-en: and remembering Me,
+@ 00:06:58.100 --> 00:07:05.400  [sung]
+src: Bhagavad-gita 8.14, first half
+note: An earlier draft guessed 8.13 here, wrongly; the voice-enhanced pass shows 8.14.
+sa: अनन्यचेताः सततं
+sa: यो मां स्मरति नित्यशः।
+en: Whoever thinks of Me always,
+en: with a mind set on nothing else,
 
-@ 00:07:06.400 --> 00:07:10.900  [reconstructed]
-src: Bhagavad-gita 8.13, second half
-note: Only fragments are audible; identified from 8.12 above.
-sa: यः प्रयाति त्यजन्देहं
-sa: स याति परमां गतिम्॥
-en: whoever departs, leaving the body,
-en: reaches the highest goal.
+@ 00:07:05.500 --> 00:07:10.700  [sung]
+src: Bhagavad-gita 8.14, second half
+sa: तस्याहं सुलभः पार्थ
+sa: नित्ययुक्तस्य योगिनः॥
+en: is easily reached by Me, Arjuna:
+en: that yogi, ever steadfast.
+
+@ 00:07:10.800 --> 00:07:20.000  [sung]
+src: Bhagavad-gita 8.15
+note: The first half is clearly audible; the second half is faint, and the end time is approximate.
+sa: मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्।
+sa: नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः॥
+en: Having come to Me, the great-souled, gone to the highest perfection,
+en: are not born again into this fleeting home of sorrow.
 
 @ 00:08:03.600 --> 00:08:17.500  [sung]
 src: Vedasara Shiva Stava (attributed to Shankara), verse beginning "paratmanam ekam"
@@ -131,9 +146,17 @@ sa: निरीहं निराकारमोङ्कारवेद्य
 en: The supreme Self, the One, the first seed of the world,
 en: free of desire, formless, known through Om.
 
-@ 00:10:04.000 --> 00:10:15.500  [reconstructed]
+@ 00:09:37.400 --> 00:09:59.500  [sung]
+src: Vedasara Shiva Stava, verse beginning "paratmanam ekam" (continued)
+note: Found with the voice-enhanced pass; the earlier passes missed it.
+sa: यतो जायते पाल्यते येन विश्वं
+sa: तमीशं भजे लीयते यत्र विश्वम्॥
+en: from whom the world is born, by whom it is sustained,
+en: I worship that Lord, in whom the world dissolves.
+
+@ 00:10:06.500 --> 00:10:16.800  [sung]
 src: Isha Upanishad 17
-note: Only "amrtam athedam bhasmantam" is clearly audible. The older subtitles place a related line near 0:09:31, so the start time needs checking.
+note: Confirmed and placed with the voice-enhanced pass. The second half ("om krato smara...") is not audible.
 sa: वायुरनिलममृतमथेदं
 sa: भस्मान्तं शरीरम्।
 en: Let my breath return to the deathless wind,
@@ -562,7 +585,7 @@ sa: किंगोत्रो न्वहमस्मीति॥
 en: "Mother, I wish to become a student of the Veda.
 en: What is my lineage?"
 
-@ 01:07:11.500 --> 01:07:29.900  [verse]  {Jabala}
+@ 01:07:17.800 --> 01:07:27.000  [verse]  {Jabala}
 src: Chandogya Upanishad 4.4.2
 note: The scene is now acted out, in the Upanishad's own words.
 sa: बह्वहं चरन्ती परिचारिणी
@@ -570,15 +593,15 @@ sa: यौवने त्वामलभे।
 en: In my youth I wandered much, a servant girl,
 en: and then I had you.
 
-@ 01:07:30.000 --> 01:07:37.200  [reconstructed]  {Jabala}
+@ 01:07:27.100 --> 01:07:32.800  [verse]  {Jabala}
 src: Chandogya Upanishad 4.4.2 (continued)
-note: Placed from the flow of the text and the older subtitles; the words themselves are not clearly audible here.
+note: Confirmed with a voice-enhanced pass: "yadgotras tvam asi" is clearly audible; the words just before it are faint.
 sa: साहमेतन्न वेद
 sa: यद्गोत्रस्त्वमसि।
 en: So I do not know
 en: what lineage you are of.
 
-@ 01:07:46.300 --> 01:07:49.500  [verse]  {Jabala}
+@ 01:07:32.900 --> 01:07:49.000  [verse]  {Jabala}
 src: Chandogya Upanishad 4.4.2 (continued)
 sa: जबाला तु नामाहमस्मि
 sa: सत्यकामो नाम त्वमसि।
@@ -754,7 +777,7 @@ en: through the three-stranded power of ignorance.
 @ 01:19:05.300 --> 01:19:16.400  [verse]  {Shankara}
 src: Manisha Panchakam, verse 2, line 3
 sa: इत्थं यस्य दृढा मतिः
-sa: सुखतरे नित्ये परे निर्मले —
+sa: सुखतरे नित्ये परे निर्मले
 en: He whose conviction stands firm in that
 en: utterly blissful, eternal, supreme, stainless Reality,
 
@@ -871,14 +894,14 @@ en: How do we know? From the question and the answer.
 
 @ 01:26:31.300 --> 01:26:39.500  [verse]  {Shankara}
 src: Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.3.3
-sa: तथा हि प्रश्नः — वेत्थ यथा पञ्चम्याम्
+sa: तथा हि प्रश्नः वेत्थ यथा पञ्चम्याम्
 sa: आहुतावापः पुरुषवचसो भवन्ति इति।
 en: The question is: "Do you know how, at the fifth offering,
 en: the waters come to be called man?"
 
 @ 01:26:39.600 --> 01:26:49.400  [verse]  {Shankara}
 src: Shankara's commentary on the Brahma Sutras, on 3.1.1, quoting Chandogya Upanishad 5.9.1
-sa: निरूपणं च प्रतिवचनं च — इति तु पञ्चम्याम्
+sa: निरूपणं च प्रतिवचनं च इति तु पञ्चम्याम्
 sa: आहुतावापः पुरुषवचसो भवन्ति इति।
 en: And the answer that explains it:
 en: "Thus at the fifth offering the waters are called man."
@@ -1363,11 +1386,26 @@ note: Only the quotation is given here.
 sa: उत्तिष्ठत। जाग्रत।
 en: Arise! Awake!
 
-@ 02:32:57.000 --> 02:33:01.400  [reconstructed]
-src: Taittiriya Upanishad 3.10.5
-note: Recognition looped on this one phrase. The chant probably passes through all five "selves" (food, breath, mind, understanding, bliss) and may begin well before this. Needs a careful listen.
-sa: एतं प्राणमयमात्मानमुपसंक्रम्य…
-en: Passing beyond this self made of breath...
+@ 02:32:30.000 --> 02:32:42.100  [sung]
+src: Taittiriya Upanishad 3.10.5 (also 2.8.5)
+note: Confirmed with a voice-enhanced pass.
+sa: एतमन्नमयमात्मानमुपसंक्रम्य।
+sa: एतं प्राणमयमात्मानमुपसंक्रम्य।
+en: Passing beyond this self made of food,
+en: passing beyond this self made of breath,
+
+@ 02:32:42.200 --> 02:32:47.600  [sung]
+src: Taittiriya Upanishad 3.10.5 (continued)
+sa: एतं मनोमयमात्मानमुपसंक्रम्य।
+en: beyond this self made of mind,
+
+@ 02:32:47.700 --> 02:32:54.500  [reconstructed]
+src: Taittiriya Upanishad 3.10.5 (continued)
+note: Not clearly audible; the passage conventionally ends this way, and the verse praising Shankara begins right after it at 2:32:54.
+sa: एतं विज्ञानमयमात्मानमुपसंक्रम्य।
+sa: एतमानन्दमयमात्मानमुपसंक्रम्य।
+en: beyond the self made of understanding,
+en: beyond the self made of bliss...
 
 @ 02:34:32.500 --> 02:34:43.000  [verse]
 src: Avadhuta Gita 1.1, first half (quoted)

@@ -6,10 +6,10 @@ These passages are recited or sung in the film, but we could not identify them a
 
 | Time | What we hear | Notes |
 |---|---|---|
-| 0:23:25 – 0:24:12 | a verse with *"karāmalakavad viśvam…"* (seeing the universe "like an āmalaka fruit in the palm") | Recurs at 1:16:42, 1:42:28 and 1:56:47. Not found in the online collections we searched. |
+| 0:23:25 to 0:24:12 | a verse with *"karāmalakavad viśvam…"* (seeing the universe "like an āmalaka fruit in the palm") | Recurs at 1:16:42, 1:42:28 and 1:56:47. Not found in the online collections we searched. |
 | 0:56:47 | *"govindaṃ paramānandaṃ…"* | Greeting to the teacher Govinda Bhagavatpāda |
-| 1:35:08 – 1:35:57 | a hymn to Śiva beginning *"śivaṃ nityam ekaṃ vibhuṃ…"* | Bhujaṅgaprayāta metre. Not found in the collections we searched. |
-| 1:44:22 – 1:44:48 | a verse in praise of Śaṅkara beginning *"āśailād udayāt…"* | Śārdūlavikrīḍita metre. Heard again at 2:33:01. |
+| 1:35:08 to 1:35:57 | a hymn to Śiva beginning *"śivaṃ nityam ekaṃ vibhuṃ…"* | Bhujaṅgaprayāta metre. Not found in the collections we searched. |
+| 1:44:22 to 1:44:48 | a verse in praise of Śaṅkara beginning *"āśailād udayāt…"* | Śārdūlavikrīḍita metre. Heard again at 2:32:54. |
 | 2:16:01 | a passage mentioning *"guruṇopadiṣṭaṃ sākṣān mahāvākyam…"* | Possibly a verse; too unclear to say. |
 | 2:34:01 | a verse beginning *"saṃsāra-duḥkha-taptānām…"* | |
 
@@ -17,15 +17,14 @@ These passages are recited or sung in the film, but we could not identify them a
 
 | Time | Notes |
 |---|---|
-| 0:06:41 | Vedic chanting at Śivaguru's house |
 | 1:20:18 | chanting after the Kāśī Pañcakam |
-| 1:52:27, 1:53:03 – 1:53:48 | Vedic chanting around the mantra to Agni |
+| 1:52:27, 1:53:03 to 1:53:48 | Vedic chanting around the mantra to Agni |
 | 2:24:24 | chanting during the Kāpālika episode, possibly an invocation of Narasiṃha |
-| 2:25:00 – 2:25:32 | a short phrase chanted repeatedly |
+| 2:25:00 to 2:25:32 | a short phrase chanted repeatedly |
 
 ## Not Sanskrit, and outside our scope
 
 - 0:31:45: a thief speaks **Malayalam**.
-- 0:38:36 – 0:39:35: a drummer's proclamation in **Malayalam**, announcing the Kūḍiyāṭṭam play.
-- 0:48:06 – 0:49:35: a **folk song in Tulu or Kannada** at Gokarṇa.
-- 1:10:53 – 1:11:00: passers-by in Kashi speaking **Hindi**.
+- 0:38:36 to 0:39:35: a drummer's proclamation in **Malayalam**, announcing the Kūḍiyāṭṭam play.
+- 0:48:06 to 0:49:35: a **folk song in Tulu or Kannada** at Gokarṇa.
+- 1:10:53 to 1:11:00: passers-by in Kashi speaking **Hindi**.

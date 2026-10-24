@@ -1,0 +1,46 @@
+name: Correction
+description: Something in the subtitles is wrong, doubtful, or missing
+title: "Check "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. You don't need to know git, and you don't need to be sure. "I think I hear X here" is useful on its own.
+  - type: input
+    id: time
+    attributes:
+      label: Time in the film
+      description: As shown in your player, for the 2:39:54 release. A rough time is fine.
+      placeholder: "1:19:26"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - A word or reading is wrong
+        - The verse or source is wrong
+        - The translation is wrong or unclear
+        - The subtitle comes in too early or too late
+        - A verse is recited but has no subtitle
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: ours
+    attributes:
+      label: What the subtitle says now
+      description: Filled in for you if you came from a "flag" link.
+  - type: textarea
+    id: should
+    attributes:
+      label: What it should be
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: How do you know?
+      description: An edition or source, what you hear in the audio, or your reading of the Sanskrit. Anything helps.
